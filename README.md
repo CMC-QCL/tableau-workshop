@@ -10,7 +10,19 @@ This repository is geared towards developing Advanced Data Visualization "Viz" u
 ```
 https://github.com/CMC-QCL/tableau-workshop-part2.git
 ```
-
+---
+- **Wrokshop Content**
+- Title: "Data Visualization using Tableau"
+  - teaching: 30 mins
+  - exercises: 2
+- Questions:
+  - "what is Tableau?"
+  - "How to connect data to Tableau?"
+  - "How to Visualize Data with Tableau?"
+  - "How to create interactive dashbaords with Tableau?"
+- Key Points:
+  - Tableau can provide important insights for EDA. 
+---
 
 Table of contents
 ===
@@ -26,6 +38,6 @@ Table of contents
 [slides part 1](Tableau/Tableau_Presentation_part1.ipynb)
 
 ## Tableau Part 2
-> This part conatins advanced use of Tableau including creating interactive dashboards, calculations and fields. 
+> This part conatins advanced use of Tableau including creating interactive dashboards, calculations and fields.
 
 [slides part 2](Tableau/Tableau_Presentation_part2.ipynb)
