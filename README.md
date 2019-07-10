@@ -22,6 +22,6 @@ Table of contents
 ## Tableau Part 1
 This part conatins an introduction to Tableau services, environment, connecting to data, basic Visualizations.
 
-[slides](tableau-workshop-part2\Tableau\Tableau_Presentation_part2.ipynb)
+[slides](Tableau/Tableau_Presentation_part1.ipynb)
 
 ## Tableau Part 2
