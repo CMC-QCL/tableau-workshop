@@ -1,7 +1,8 @@
 tableau-workshop-part2
+QCL, CMC
 ===
 
-June 17, 2019
+July, 2019
 
 This repository is geared towards developing Advanced Data Visualization "Viz" using Tableau software.
 
@@ -20,8 +21,11 @@ Table of contents
 
 
 ## Tableau Part 1
-This part conatins an introduction to Tableau services, environment, connecting to data, basic Visualizations.
+> This part conatins an introduction to Tableau services, environment, connecting to data, basic Visualizations.
 
-[slides](Tableau/Tableau_Presentation_part1.ipynb)
+[slides part 1](Tableau/Tableau_Presentation_part1.ipynb)
 
 ## Tableau Part 2
+> This part conatins advanced use of Tableau including creating interactive dashboards, calculations and fields. 
+
+[slides part 2](Tableau/Tableau_Presentation_part2.ipynb)
