@@ -1,0 +1,1163 @@
+PATIENT,BIRTHDATE,DEATHDATE,MARITAL,RACE,ETHNICITY,GENDER,CITY,STATE,ZIP
+f4e7fbfe-8a92-47bd-86b5-0d5046837f02,7/10/1991,,S,black,dominican,M,Newton,Massachusetts,2458
+6f839231-53ec-4060-bed4-5286201ede9d,1/18/2003,,,black,african,F,Chelsea,Massachusetts,2149
+bfc027bb-9671-47d8-9391-952f3d9d178d,3/13/1977,,M,white,irish,M,Richmond,Massachusetts,1254
+76893ca8-dea5-4ad6-bc7f-266aa65667f1,12/21/1982,9/9/1997,,hispanic,mexican,M,Revere,Massachusetts,2151
+12fdb6e2-e13a-4b5c-b9df-0a702188aa1f,9/5/2006,,,white,portuguese,M,Townsend,Massachusetts,1469
+b877e1fc-3d06-4530-a199-aaa6c741d568,3/27/2009,,,white,irish,F,West Newbury,Massachusetts,1985
+c94e8f7e-a42a-4349-b029-8e445d6e2f4f,7/3/1977,,S,white,french_canadian,F,Sturbridge,Massachusetts,1507
+8b3f9bb6-1fae-4ee2-be6a-d082b6a31988,12/18/1960,,M,white,irish,M,North Adams,Massachusetts,1247
+35ff36e2-3db9-4641-89c7-caeea852ffcc,7/22/2018,,,white,irish,M,Falmouth,Massachusetts,2540
+e0fa3bd4-a5f9-43c5-99c9-8110b462aa7f,12/21/1982,,M,hispanic,mexican,M,Revere,Massachusetts,2151
+909f0398-6740-48c3-be02-a1e65fabcbaa,6/22/2008,,,white,french_canadian,F,Acushnet,Massachusetts,2743
+5cd98ca2-741f-4e2c-9ff0-a8adc0f3c9f0,11/17/1987,,M,white,english,M,Canton,Massachusetts,2021
+b5e79991-739b-4157-b936-dcfb2d00efbe,11/18/1963,,M,white,american,M,Somerville,Massachusetts,2138
+6cbd292b-92de-4e5b-9964-af1b83af800a,1/26/2004,,,white,french_canadian,M,Townsend,Massachusetts,1469
+1fa35d8b-35fb-4924-b503-f7ce81326241,3/16/1991,,M,white,irish,F,Hudson,Massachusetts,1749
+ed6359d2-810e-4f6f-90d1-5d7aa5e5c328,10/4/1996,,,white,french,F,Yarmouth,Massachusetts,
+daf2c961-4fcf-4258-8a71-ac1f125f1c11,8/8/1990,,M,white,italian,F,Boston,Massachusetts,2108
+21ca7058-e24c-411f-8b70-ef90d66b7bb7,3/28/1998,,,white,english,F,Plymouth,Massachusetts,2360
+75d6201d-b4d4-4aeb-a420-cc08c235d6b5,5/18/1957,,S,white,italian,F,Quincy,Massachusetts,2169
+cf53a0e3-ffc2-44ed-8225-cc79386aa44c,10/9/1982,,M,hispanic,puerto_rican,F,Peabody,Massachusetts,1940
+f1edfc7b-9725-401e-88c0-1da3324b94ea,3/12/1998,,,white,french,F,New Bedford,Massachusetts,2740
+6a654a9a-4155-4fd8-8d01-cc690cc71667,5/26/2006,,,hispanic,central_american,F,New Bedford,Massachusetts,2740
+37fd7e33-29bb-4b93-9994-2c3cd04a5416,5/11/1953,,M,black,african,M,Boston,Massachusetts,2108
+2edab475-a7dc-4843-8222-e9bcbe90bd26,10/19/1982,,M,white,german,F,Brookline,Massachusetts,2215
+2a429f04-796e-4b47-99aa-e659b57be476,6/19/1950,,S,white,american,F,Canton,Massachusetts,2021
+53a8c30b-b863-448b-8dd7-ec0757d03707,1/27/2008,,,white,irish,F,Framingham,Massachusetts,1701
+813a03b4-2bc7-4cc0-8ec4-9c6fa4d002c7,12/22/1984,,S,white,irish,F,Peabody,Massachusetts,1940
+a4155df9-2a05-4915-b84f-357358d75697,12/10/1958,,M,white,irish,M,Wellfleet,Massachusetts,2667
+a3edb1a8-2aaf-448e-b6ae-f8aea9bccfc1,8/11/1991,,S,white,irish,M,Southborough,Massachusetts,1772
+cc062858-a5c9-4a95-b3a5-534289ae564c,9/8/1986,,M,black,african,M,Boston,Massachusetts,2108
+37d340b2-a1dc-45ff-a4dc-84c34efc3bfa,5/2/1966,,M,white,german,F,Marblehead,Massachusetts,1945
+92cdc43c-7d0d-4aae-a61c-97c1583b1553,8/10/1972,,M,white,russian,M,Arlington,Massachusetts,2474
+e27a19fb-b64c-4007-876e-c2783992571f,6/21/1978,,M,white,italian,M,Grafton,Massachusetts,1519
+1bbde01c-0c69-4ee7-bf3d-f6390b022921,7/21/1966,,M,white,italian,F,Somerset,Massachusetts,2725
+59e1f0f6-d5dd-4188-af14-cf460ec98f17,4/15/1992,,M,black,african,F,Lowell,Massachusetts,1850
+68c26ee3-a70d-47ff-923c-882f837f712c,1/6/2005,,,hispanic,puerto_rican,M,East Longmeadow,Massachusetts,1028
+1c99d14a-4638-4e17-9514-3afa4f501916,3/30/1968,,M,white,french,M,Raynham,Massachusetts,2767
+4c8a6e29-65b0-46fa-b904-6a40c0a24362,9/22/2011,,,white,french_canadian,M,Malden,Massachusetts,2148
+4323a733-e6a6-4d62-b838-eee0e2764275,11/7/2009,,,white,american,F,Norwood,Massachusetts,2062
+73a6f06c-01bc-4c90-ba18-27036e055f54,10/14/1993,,,white,english,M,Sudbury,Massachusetts,1776
+32788bc5-2ed6-4639-8af9-70154fb68f52,8/8/2012,,,white,italian,F,New Bedford,Massachusetts,2740
+8ffd03ee-fb56-441d-a3ef-01cdc9f94d89,9/23/1988,,M,white,polish,M,Newton,Massachusetts,2458
+8408b7ac-b1b5-44ea-bf95-62cece65916b,9/22/1967,,M,white,portuguese,M,Boston,Massachusetts,2108
+2c7dd0b7-0673-442e-8389-4a4f11730bf2,9/29/1985,,S,white,french,F,Quincy,Massachusetts,2169
+1f234e53-39a4-47fb-b4dc-9900a0c34b69,2/2/2001,,,black,dominican,F,Cambridge,Massachusetts,2138
+a2cce747-93e7-4f7c-afa5-998a7aec30e3,5/22/1982,,M,white,irish,M,Revere,Massachusetts,2151
+097dc5f2-fe43-40c6-975b-8eb9d20cb86a,11/9/1984,,S,white,irish,F,Boston,Massachusetts,2108
+74a44e4d-c811-4ae7-9230-746db186dd51,4/27/2005,,,white,irish,M,Provincetown,Massachusetts,2657
+15f1cfbe-ee4a-4d64-93e1-e2a1eaddc4d5,3/30/1975,10/10/1978,,white,portuguese,M,Wilbraham,Massachusetts,1095
+052e7583-3636-44b6-af7f-f749e05ebab3,6/27/2006,,,hispanic,mexican,M,Springfield,Massachusetts,1013
+a2a32bfa-a0b6-4b1f-b805-893f8b5543bb,5/12/1954,,S,hispanic,puerto_rican,F,Gloucester,Massachusetts,1930
+5fc18f19-16ac-409d-895e-23730dd207ab,12/6/1977,,M,white,portuguese,F,Cummington,Massachusetts,1026
+2cb33ccb-5e50-4940-b18e-073702e42208,5/13/1939,1/16/2010,M,white,german,F,Fall River,Massachusetts,2720
+7bbad9bd-011f-4abc-8be7-a1d9a0477ba3,5/16/1951,,M,white,french,F,Taunton,Massachusetts,2718
+d66b592e-83c5-4f87-88d7-0459b272f1a4,3/30/1975,9/9/1990,,white,portuguese,M,Wilbraham,Massachusetts,1095
+ff84aecb-d822-44e5-8541-4b213b28c45e,2/11/1968,,M,white,swedish,M,Shrewsbury,Massachusetts,1545
+8d3fc1c5-c6aa-4c34-aa77-7f6857bdf559,7/29/2004,,,black,dominican,M,Boston,Massachusetts,2108
+5ed1268a-cb21-477b-8494-46bdeb0b7251,3/22/2019,,,white,french_canadian,F,Worcester,Massachusetts,1545
+3ec7eb89-b11b-4166-b047-2adaf00285dd,4/10/1958,,M,white,portuguese,F,Medway,Massachusetts,2053
+a609bd33-8fca-42d2-a08f-38158c8466c4,5/15/1967,,M,white,irish,M,Marshfield,Massachusetts,2050
+c66ea7fc-14be-4165-9762-f9c425b1f14e,6/13/2008,,,asian,chinese,F,North Andover,Massachusetts,1845
+ac0f0900-29d2-47b9-9358-940e8cd5a3e9,3/30/1975,,S,white,portuguese,M,Wilbraham,Massachusetts,1095
+d4cf1485-9976-4812-a49a-580317bb7dd4,7/2/1989,,M,white,english,M,Swampscott,Massachusetts,1907
+ce87392a-3fcb-4d7b-b433-d4d385a074ed,2/15/2010,,,white,polish,F,Everett,Massachusetts,2148
+d3d4391d-99b4-4404-91ea-271e93c799b3,5/13/1939,,S,white,german,F,Fall River,Massachusetts,2720
+42a7138c-d5ff-40c3-9bc0-201222ca3fad,6/30/1957,7/24/1988,S,white,irish,F,Marlborough,Massachusetts,1752
+04b3bea8-c9bd-4caf-a55e-cff1449d3b08,4/4/1956,,M,white,irish,M,Norwood,Massachusetts,2062
+c9829449-93c3-4bf0-bfeb-04b3c358ab63,6/8/1931,12/23/1985,M,white,irish,M,Duxbury,Massachusetts,2332
+d9f521d8-2191-487b-9361-44c187c3097b,6/3/1957,,M,white,german,M,Newton,Massachusetts,2458
+33c65e36-54d4-494f-8536-f0d63fb3c553,5/1/1940,,M,hispanic,puerto_rican,M,Dartmouth,Massachusetts,2714
+8a020545-44eb-47dd-ac7d-44b36d4604bb,3/15/2017,,,white,italian,M,Somerset,Massachusetts,2725
+5f9564b7-fc7a-4b75-820d-ad0fde1e6bdb,11/18/2004,,,white,polish,M,Falmouth,Massachusetts,2540
+cb7b8b37-4a2f-4c0e-b53c-71673e9931f3,9/2/1958,,S,white,italian,F,Athol,Massachusetts,1331
+9b5c10a7-9f5f-49f5-9c8c-05e546fdba4e,6/30/1957,,M,white,irish,F,Marlborough,Massachusetts,1752
+dbeb2fff-6136-4971-bf1d-aa2bb3e1d859,8/22/1970,,M,white,english,M,Norwell,Massachusetts,2061
+b2a668b8-5168-4b18-b613-d25bda313467,6/8/1931,1/10/2005,M,white,irish,M,Duxbury,Massachusetts,2332
+5b23dbf5-47f2-4e4e-9bdc-001d23068014,12/20/1954,,M,white,swedish,M,Dedham,Massachusetts,2026
+f67e8cf4-dca8-4d57-802e-3a4d8a824f5c,3/22/1959,,M,white,irish,M,Danvers,Massachusetts,1923
+5a808558-02d1-4029-897d-6ff017643948,8/10/1915,,M,hispanic,puerto_rican,F,Cambridge,Massachusetts,2138
+43dea7f1-009b-43c7-8a06-737eeb7db9e5,5/11/1961,,M,white,irish,F,Granby,Massachusetts,1033
+6fda3bb4-7baf-4125-8d79-3a6de60813de,3/10/1951,,M,native,american_indian,F,Fall River,Massachusetts,2720
+43259a79-39c5-4c34-a32a-9ffc65855df0,8/16/2011,,,hispanic,central_american,F,Waltham,Massachusetts,2451
+1e32f371-9e60-4176-928a-3dd6e21bae3d,11/25/1969,,M,white,irish,M,Rochester,Massachusetts,2770
+1c8d3453-2cee-491a-8ca4-851ed25fa37f,9/4/2008,,,white,italian,M,Wilmington,Massachusetts,1887
+7f85df09-f4a6-45cd-b1f9-909ee8ba6f37,3/17/1976,,S,asian,asian_indian,M,Boston,Massachusetts,2108
+d5f030bf-f378-48a4-8cfb-830dc540e4ce,7/10/2018,,,white,german,F,Acton,Massachusetts,1720
+c6fd679e-8875-4db7-b5ae-90f4970be66d,10/20/1987,,M,white,irish,F,Boston,Massachusetts,2108
+0e5f29f8-b48e-40d1-98b5-3a0698c891a8,5/11/2012,,,white,irish,M,Millbury,Massachusetts,1527
+8cb7172f-3d25-42cd-adad-9895b7e672d7,11/27/2017,,,white,french_canadian,M,Plymouth,Massachusetts,2360
+e09848a0-6c1d-4ef4-a759-c4e2ea474aa9,2/1/1983,,M,white,english,M,Newton,Massachusetts,2458
+5036eca5-f41c-41b2-96d4-5e51ec71c996,11/30/1987,,M,white,irish,F,Shirley,Massachusetts,1464
+df062b47-953e-459e-b258-c27a596974eb,9/26/1973,,M,white,american,M,Bridgewater,Massachusetts,2324
+deae09cb-bfd3-420d-91f6-be8f444c79a9,10/9/2001,,,white,english,M,Lawrence,Massachusetts,1840
+d1c5fb11-5786-40ee-9aab-8295ffbc801c,3/1/1966,,M,white,polish,M,Quincy,Massachusetts,2169
+6f0fcebb-b3e9-45a7-9bf1-0f1b33884cec,7/17/1983,,S,asian,asian_indian,M,Boston,Massachusetts,2108
+008a25a7-ca7c-4b3d-b572-4d2d00fbea66,6/14/1981,,M,asian,asian_indian,M,Arlington,Massachusetts,2474
+9b6ae175-ac07-4240-91d7-5be8df47ab74,5/11/1975,,M,white,english,F,Newton,Massachusetts,2458
+4514f806-73fd-4a08-a6a9-be10cee609e9,1/31/2015,,,white,irish,M,Abington,Massachusetts,2351
+a6012663-843d-498d-82af-9f9989251c88,12/5/1992,,,white,portuguese,F,Hudson,Massachusetts,1749
+a6d0da2b-8ed0-4823-9b30-146e60b45088,6/11/1969,,M,white,irish,M,North Attleborough,Massachusetts,
+5aaae6cb-7077-4b83-a571-0525c6cd3bdf,2/23/1978,,M,white,irish,M,Wellesley,Massachusetts,2457
+3418e163-b13c-4f08-a270-1e32a19eebcf,6/11/1975,,S,white,american,M,Woburn,Massachusetts,1801
+d6f2eaac-e036-468c-ae89-b0ada62b7ec6,10/20/1955,,M,white,irish,F,Westborough,Massachusetts,1581
+60cc2e7e-c8bb-459d-9f3a-407d552c8edd,11/19/1982,,S,white,american,F,Mattapoisett,Massachusetts,2739
+50fe4c25-0fb9-4150-bd96-02518d1efb4d,6/13/1956,,M,white,irish,F,Littleton,Massachusetts,1460
+a8b1143a-b1a8-414f-92bb-ca6aeb86a125,12/24/1940,,M,white,american,F,Mattapoisett,Massachusetts,2739
+85f1e597-959b-4cfe-a1f7-0573ebd9c74a,3/27/1996,,,white,scottish,M,Winchendon,Massachusetts,1475
+53b963c5-20cb-42d3-8b91-483b911a1bac,5/2/2011,,,white,french_canadian,M,Worcester,Massachusetts,1545
+57c67646-aeec-43a3-b6bb-7dafe5d7e56d,5/21/1943,12/24/2010,M,white,italian,M,Somerset,Massachusetts,2725
+b6c1e06f-7999-49f5-89c1-2c4346a491e3,1/31/1972,,M,white,italian,F,Tewksbury,Massachusetts,1876
+4fcd1ace-dde3-4392-bf7d-39a6cc08543a,12/7/1959,,M,white,irish,M,Waltham,Massachusetts,2451
+686c0b08-9782-49d9-b643-2bcaad2ca37c,6/3/1979,,M,asian,chinese,F,Quincy,Massachusetts,2169
+6af7d62b-1efe-4129-96cf-fccde01aeb1a,1/3/1993,,,hispanic,puerto_rican,F,Boston,Massachusetts,2108
+f2aad148-4cff-485a-b445-82755476a8cb,12/9/1985,,M,white,irish,M,Boston,Massachusetts,2108
+d631e8b0-b79e-472c-ba60-aaec8d3186ee,3/31/1970,,M,hispanic,mexican,F,Hudson,Massachusetts,1749
+9dba1903-a7d3-467c-9815-274097195d19,6/8/1931,,M,white,irish,M,Duxbury,Massachusetts,2332
+c582908f-f9fb-446b-aa15-43ff9b4e2f13,7/9/1972,,M,white,german,F,Plymouth,Massachusetts,2360
+0f6b9b98-6656-4d87-88d7-52dc3b230a93,8/18/2001,,,white,french,M,Ludlow,Massachusetts,1056
+f926c938-c4d6-4497-a1bc-f1322c6d48a3,10/29/1945,,S,white,italian,F,Everett,Massachusetts,2148
+ba40e8ae-5f99-444b-b44f-321a0d3e421c,8/19/1952,,M,white,german,M,Falmouth,Massachusetts,2540
+270a9d9e-0ba5-4df1-957a-2902d49af0d7,5/21/1943,,M,white,italian,M,Somerset,Massachusetts,2725
+37ac8703-f3d8-482f-a0dd-731a067d9c9e,1/14/2013,,,black,dominican,M,Boston,Massachusetts,2108
+16811711-9402-46dd-b70a-2f3ff92813b8,5/21/1978,,M,white,irish,F,Chicopee,Massachusetts,1013
+c87f5928-20ea-44e3-b7cc-616b5646fa21,10/14/1994,,,white,irish,F,Arlington,Massachusetts,2474
+1d2d00d1-e80b-4abb-82c1-e9304a457742,10/18/1970,,M,hispanic,puerto_rican,F,Taunton,Massachusetts,2718
+ac5aad16-31a2-4e29-b4f7-887b8676bad7,3/14/2005,,,white,irish,F,Sharon,Massachusetts,2067
+43467446-2858-476d-86d0-ce1dd164b662,9/13/1978,,M,white,english,M,Freetown,Massachusetts,
+7926704f-a92a-4a5b-a3a1-ccdb7e005097,11/15/1949,,M,white,american,F,Medford,Massachusetts,2145
+e19b01ed-6046-461e-bedb-022784d4e560,5/31/1973,,M,asian,chinese,F,Billerica,Massachusetts,1821
+d54aac8e-2c10-4b9e-afd2-00e1740595e7,11/21/1939,,M,hispanic,south_american,F,Lynn,Massachusetts,1901
+6ab856a9-b0e5-4ce0-b82d-51666d482390,1/15/1974,,M,asian,chinese,M,Boston,Massachusetts,2108
+96b43a9c-de0b-4381-b788-142c6df3ee91,10/28/2002,,,asian,chinese,F,Boxborough,Massachusetts,1719
+b8d8fcc0-ee48-4ff9-9b49-18474d7989cd,5/14/1988,,M,black,dominican,F,Boston,Massachusetts,2108
+370c164e-ab5d-4405-b03b-d29743a5385f,6/12/2010,,,white,french,F,Lynn,Massachusetts,1901
+4840509f-c837-4554-85c1-1eac07861bcb,1/2/1964,2/9/1967,,white,french_canadian,F,Buckland,Massachusetts,1338
+5dced79d-3b16-4736-a55b-d1a37c3985dc,8/26/1962,,M,white,portuguese,F,Brockton,Massachusetts,2301
+9783df8e-5f9f-4f72-a4bd-4ef68de9357f,11/29/1977,,M,black,west_indian,F,Woburn,Massachusetts,1801
+e487673c-3642-481d-8a5f-1f2b6dfc59d3,5/30/1980,,M,white,italian,M,Belmont,Massachusetts,2138
+2a3433ce-53af-4fae-8433-9105ec35e5cd,11/14/1969,,M,white,irish,M,Maynard,Massachusetts,1754
+c0ace0fa-afbd-44d2-826a-de80fe31204a,3/13/1939,,M,asian,chinese,M,Ashland,Massachusetts,1721
+c89c4563-d9d8-46e7-8042-4fae6acf1509,10/27/1999,,,white,german,F,Mattapoisett,Massachusetts,2739
+c375178c-4366-43f6-b927-7edea43bcd7b,8/22/2010,,,white,french,M,Lowell,Massachusetts,1850
+a2da2e02-c7d1-4175-b5f1-b3879968c9a0,2/2/1986,,M,white,portuguese,M,Framingham,Massachusetts,1701
+210753e2-1873-4352-b657-7ee45bf26dd9,6/28/1949,7/20/2011,M,white,italian,M,Framingham,Massachusetts,1701
+2b9c3f3e-c35a-4f6b-9bfc-f478c746c32a,11/19/2014,,,white,french,F,Holliston,Massachusetts,1746
+447c6700-0775-420b-aab5-cf08ba61f184,1/2/1964,4/24/2019,M,white,french_canadian,F,Buckland,Massachusetts,1338
+59987944-c14f-4f24-b22a-a757f02099d0,8/29/1983,,M,white,german,F,Milton,Massachusetts,2186
+63ada038-499c-44c1-a826-656acd4caa2d,5/26/1956,,M,white,irish,F,Falmouth,Massachusetts,2540
+1764c7b7-e15e-4b6a-bbed-a8c968bc0eae,8/16/1964,,M,white,portuguese,M,Worcester,Massachusetts,1545
+668f650f-0a4a-4f1e-ae70-f1e17d42ce28,1/27/1962,,S,hispanic,mexican,F,Wellesley,Massachusetts,2457
+c55e3a1e-1a60-4a80-b730-6f62f35cad2a,2/28/2018,,,white,irish,M,Nantucket,Massachusetts,2554
+483a9a86-7097-4da9-8652-99402222c0f0,6/28/1949,,M,white,italian,M,Framingham,Massachusetts,1701
+a48170dd-3172-41bf-b3ca-d8fefbdab685,7/8/1973,,M,hispanic,south_american,F,Plymouth,Massachusetts,2360
+a0ee3f4f-0b09-48a0-9361-dbacfe31ed19,8/27/2015,,,black,west_indian,M,Carver,Massachusetts,2330
+39364eb6-b31f-4588-ad51-6b2b92252c15,2/27/1992,,M,white,french_canadian,M,New Bedford,Massachusetts,2740
+dff93485-cdc4-480b-a42e-6a2ab46e0fbb,8/13/1934,,M,white,irish,M,Framingham,Massachusetts,1701
+340680fc-5e52-42ea-89fd-ed9d5c25b2bf,3/26/2004,,,hispanic,puerto_rican,M,Auburn,Massachusetts,1501
+1a4ee4b1-d230-4712-96c0-c7179a354da3,4/13/1976,,M,white,irish,M,Boston,Massachusetts,2108
+7bcd8ce6-09ba-4bd7-9ab6-68b82dedef65,1/2/1964,7/31/2003,M,white,french_canadian,F,Buckland,Massachusetts,1338
+fe5ca3e5-f713-4746-bdba-4e956bc82278,6/8/1992,5/2/1994,,white,french_canadian,F,Boston,Massachusetts,2108
+878cb5a2-ecc7-4ba4-ae1c-784f96edb462,12/19/1996,,,white,italian,F,Malden,Massachusetts,2148
+07bc84c7-c47c-43ff-8c50-864601f20900,4/20/1961,,M,hispanic,south_american,F,Boston,Massachusetts,2108
+1b10a0ec-2884-4d1e-b3ba-31a5efdfce4a,11/16/1956,,M,white,polish,M,Cambridge,Massachusetts,2138
+454780b8-8b04-40ba-9a96-ab7f6bf61c19,6/13/1997,,,white,italian,M,West Springfield Town,Massachusetts,1089
+062159a3-bede-4dcb-9e43-179f912abe6d,8/18/2017,,,white,italian,M,Northborough,Massachusetts,1532
+f033a3bd-dbdf-439e-aad5-aac794a62028,7/12/1955,,M,white,italian,F,Wilbraham,Massachusetts,1095
+bc831013-c48a-4df1-9811-b96798299ffb,1/2/1964,,M,white,french_canadian,F,Buckland,Massachusetts,1338
+2a27be2b-8ce1-43fb-9063-f94063801e60,6/8/1992,,,white,french_canadian,F,Boston,Massachusetts,2108
+62766f49-b4e1-491c-b84f-3523049d41c8,7/3/1965,,M,white,american,M,Saugus,Massachusetts,1906
+fcdb1855-b608-4693-b264-6cbcba63b1a1,4/26/1950,,M,white,french_canadian,F,Dedham,Massachusetts,2026
+5dfaf8b8-20fc-4004-980a-70e76067b703,5/3/1952,,M,white,polish,F,Lunenburg,Massachusetts,1462
+8eaf048f-f89d-4dfc-b01e-9b4a94a37b4e,2/16/2005,,,white,german,F,Sandisfield,Massachusetts,1255
+32badb32-2d91-4faa-b3a2-0fd23fe4fb82,5/4/2015,,,white,italian,F,Yarmouth,Massachusetts,
+7bec6585-5d12-48f9-9dcb-ac944c190532,8/14/1983,,M,white,irish,M,Weston,Massachusetts,2493
+cd7f9d3b-30a0-4b93-a8e8-5d5c2d1014d2,4/27/1998,,,asian,chinese,F,Newton,Massachusetts,2458
+d3f884f2-3504-4eee-a797-6dc3da89452a,1/26/1999,,,white,italian,M,Amherst,Massachusetts,1002
+452c04c6-290c-42d7-896f-2ae7d41b4aa1,7/12/1991,,M,white,portuguese,M,Paxton,Massachusetts,1612
+72dfe5ff-a29e-418d-ba07-dfaf827c8a38,8/27/2001,,,white,irish,F,Lowell,Massachusetts,1850
+46561caa-ee35-44a3-860a-ff6ea6ec7ab7,10/12/1973,,M,white,scottish,M,Randolph,Massachusetts,2368
+e59c0cbf-2884-4d43-8ef1-30f490e5325a,10/6/1990,,M,black,dominican,F,Springfield,Massachusetts,1013
+873caf74-ef92-4025-ab3e-201bc5204b0d,11/25/1967,,M,white,irish,M,Waltham,Massachusetts,2451
+833fa026-f18b-4271-bfa2-6d8aa9024ff3,4/4/2008,,,hispanic,mexican,F,Springfield,Massachusetts,1013
+7d922f83-4c45-44fd-b77a-7033d2433683,3/14/1980,,M,white,english,F,Newton,Massachusetts,2458
+557cb7d7-011e-4a82-93c0-ebb0f3bdcbc4,9/8/1952,,M,hispanic,central_american,F,Milford,Massachusetts,1757
+5c4d6875-86e8-4f41-966e-ba6b2714d95c,10/1/1934,4/22/2008,M,white,italian,F,Lynn,Massachusetts,1901
+7b5cb29c-e280-4fd1-9b53-7b9acd08a858,8/23/1976,10/26/1981,,white,irish,M,Ware,Massachusetts,1082
+cec9dbe0-d088-4d32-858a-e3e440be6e4f,2/12/1980,,M,white,polish,M,Framingham,Massachusetts,1701
+fa6d334b-b8a2-4d6d-b2e7-da807a3dbdf4,2/6/1992,,M,white,english,F,Natick,Massachusetts,1760
+3717d823-9f97-4727-91a4-9a4e841432ba,1/1/1956,,M,white,portuguese,M,Boston,Massachusetts,2108
+4a157d90-57a9-4ca4-a883-a254e1bef1fd,8/23/1976,,S,white,irish,M,Ware,Massachusetts,1082
+eb67b9db-ac96-44c3-81fd-bfd1b6fbd2f9,4/17/2009,,,asian,asian_indian,M,Concord,Massachusetts,1742
+3bf4f940-ccb0-436a-b0b5-51546b0892c2,10/27/1948,,S,white,polish,M,Wareham,Massachusetts,2571
+a125ebb7-9bf6-4e06-9031-5ef678cd622f,8/20/1998,9/16/1999,,white,american,F,Ware,Massachusetts,1082
+76636177-4efc-4b78-b0fa-b1977300ce91,7/10/2013,,,white,italian,M,Winchendon,Massachusetts,1475
+8fa1e17f-103e-4f81-bb17-270db63527b3,8/20/1998,,,white,american,F,Ware,Massachusetts,1082
+8d31aca2-3a92-475d-84a7-c33363552ec9,10/1/1934,4/5/2018,M,white,italian,F,Lynn,Massachusetts,1901
+18222ba8-18bf-41dc-bd98-f12fc592fd44,8/13/2006,,,white,french_canadian,M,Malden,Massachusetts,2148
+4b472b99-1945-4108-9f70-8e1c2ae23cd3,3/13/1944,,S,white,irish,F,Stow,Massachusetts,1775
+dccb740e-2b8f-418a-82df-b3f34a6f0b28,3/12/1927,4/24/2009,M,white,irish,F,Reading,Massachusetts,1801
+9370eba6-93a7-40a7-9179-0390df3d759e,1/31/1994,,,white,french,M,Natick,Massachusetts,1760
+01606ddf-3c6c-4900-9804-c9104d2ed425,3/12/1927,5/5/1929,,white,irish,F,Reading,Massachusetts,1801
+28da4b1f-cd6c-42cb-9d2f-a600359fe991,11/19/1968,,M,white,irish,M,Athol,Massachusetts,1331
+7ec26ac1-b5ec-48a7-960c-282fc9c41d41,1/3/1947,,M,white,english,F,Middleborough,Massachusetts,2346
+4209aba0-b6fc-488b-9d60-3696bc835524,3/14/1952,,M,white,french,F,Wilbraham,Massachusetts,1095
+570f34dc-c2ea-4a66-9c7c-beb4681f1a57,11/18/2002,,,white,portuguese,M,Easton,Massachusetts,2334
+3350e41a-a144-40d9-9b25-d4db27f612b4,10/15/1982,,M,white,scottish,F,Melrose,Massachusetts,2176
+9c36ea1a-b6fe-4de7-abbc-8e5d25300e38,6/1/1952,6/10/2018,M,asian,chinese,F,Cambridge,Massachusetts,2138
+3d712e1c-f3a9-4eca-8f2b-e510fd961b0a,5/10/2003,,,asian,asian_indian,F,Brockton,Massachusetts,2301
+0078f006-5dc1-4dae-b64c-7394c060c119,10/1/1934,,M,white,italian,F,Lynn,Massachusetts,1901
+fc7cff24-ab3c-404d-ba6e-70d79d17d761,7/7/1947,,S,white,english,F,Somerville,Massachusetts,2138
+d65cfc2b-28ae-4c28-8820-0570bfec21b8,5/16/1958,12/29/2017,M,black,west_indian,M,Chicopee,Massachusetts,1013
+3ee28071-5cf3-4c58-9a20-48c9edb36e14,10/26/1972,,M,white,english,F,Malden,Massachusetts,2148
+d30e60bb-0687-4003-ad1c-8ce013847cfd,10/15/1939,,M,white,irish,F,Westhampton,Massachusetts,
+17dc3a59-cc20-4065-93f9-2774e8f86668,6/15/1977,,M,white,english,F,Brockton,Massachusetts,2301
+fb2b2dcb-557b-4fb9-b851-1ef90b1f5d28,7/10/1973,,M,white,french,M,Holliston,Massachusetts,1746
+6710dcb4-0e79-4a66-8832-9c17680a4f47,4/8/1971,,M,white,german,M,Lawrence,Massachusetts,1840
+50a10336-a95e-4f7b-aad8-0a41cec5161e,6/1/1952,,M,asian,chinese,F,Cambridge,Massachusetts,2138
+cb924254-3263-4216-bc62-8447a50ded5b,5/16/1958,,M,black,west_indian,M,Chicopee,Massachusetts,1013
+661ee7d1-c9f1-4857-801e-00a0444f11df,5/3/1965,2/8/1975,,white,polish,M,Holyoke,Massachusetts,1040
+428d7199-aead-4d89-9949-50955a71a714,3/12/1927,9/29/2009,M,white,irish,F,Reading,Massachusetts,1801
+77c4de30-9b27-4e14-9b25-bfe0d29fdd33,1/17/1986,,M,white,scottish,F,Springfield,Massachusetts,1013
+760c9245-a6a9-471d-96de-36a6477a5ad4,11/16/1980,3/24/2002,,white,italian,F,Brookfield,Massachusetts,1506
+6194858d-e61d-4590-9ca8-19d5cb6f1c7f,6/5/1976,,M,white,greek,F,Pepperell,Massachusetts,1463
+8dc49a37-7be7-425d-95da-ffe291b13d6e,9/15/1960,,S,black,african,F,Westfield,Massachusetts,1085
+4cca36a8-43c6-49a8-9e92-a9116d47ffb0,5/3/1965,,M,white,polish,M,Holyoke,Massachusetts,1040
+6745b00e-ff9f-4df8-a911-12348a001c31,12/19/1960,,M,white,italian,F,East Longmeadow,Massachusetts,1028
+1051f43d-1a90-4d4b-a175-786a6887fc78,5/5/1977,,S,white,polish,F,Methuen Town,Massachusetts,1841
+d516f858-1f91-4d7e-bbaf-72ed95cd9bb9,10/24/1947,7/21/1989,M,white,swedish,M,Milton,Massachusetts,2186
+3540c40d-e5fa-407d-abb4-dca258780b4e,11/16/1980,,M,white,italian,F,Brookfield,Massachusetts,1506
+cde7b4a9-2775-4e1e-90ba-a2c899d572ab,6/21/2012,,,black,african,F,Lynn,Massachusetts,1901
+e770453c-5074-4910-8443-1a93324a99ce,7/9/2015,,,white,irish,F,Boston,Massachusetts,2108
+fa45c094-6124-49ad-ab22-bc406d90c312,3/29/1966,12/4/2012,M,white,italian,F,Weymouth Town,Massachusetts,2188
+d93163ff-ed1d-4e1e-a2f6-8fe3d8829c23,2/1/2002,,,white,german,F,East Brookfield,Massachusetts,1515
+d5e45cd9-b581-4de9-b4aa-ee7cc6566cc3,11/12/2006,,,hispanic,puerto_rican,F,Beverly,Massachusetts,1915
+c7bd0b22-f124-4de0-aa16-4a77f040dffd,6/23/1975,,S,white,polish,M,Salem,Massachusetts,1907
+58d8b8db-5ee7-4282-9d74-f8b5726c62e9,9/16/2006,,,white,scottish,F,Boxford,Massachusetts,1921
+5ee6db72-54d2-4ee7-93e3-bf160e0f0016,11/22/1960,,M,black,dominican,M,Billerica,Massachusetts,1821
+127e6541-7202-49da-b6cd-e1bddbe04664,3/12/1927,7/28/2004,M,white,irish,F,Reading,Massachusetts,1801
+5bab1315-1c21-4ec1-89a0-c14b427913ff,10/24/1947,,M,white,swedish,M,Milton,Massachusetts,2186
+948a1093-836d-4ec5-98c2-4b413087eaea,11/17/1986,,M,white,irish,M,Lowell,Massachusetts,1850
+ad1330f6-5ce8-4963-8c26-2a2a5e8ed01f,5/10/1959,,M,white,french,M,Hinsdale,Massachusetts,1235
+ed465fab-87cf-4d4f-acf7-cf2c7a3e2c8e,3/13/1964,,M,white,irish,F,Quincy,Massachusetts,2169
+43fc441b-c2e4-4e5c-a322-2b500f1163b0,3/29/1966,,S,white,italian,F,Weymouth Town,Massachusetts,2188
+250e6248-a679-4a43-b2da-7bb68df6cef0,3/20/1994,,,white,italian,F,Huntington,Massachusetts,1050
+18bdd5ba-86c4-46e2-b456-c944ae92bb73,5/10/1943,,M,white,french,F,Templeton,Massachusetts,1468
+168e011e-d4ce-482b-bbc0-e622ada1442d,5/14/1993,7/2/2004,,white,russian,F,Greenfield Town,Massachusetts,1301
+7c16e387-926c-488f-99c3-193b749dfa25,7/30/2002,,,white,italian,F,Tewksbury,Massachusetts,1876
+987ce5ce-ab4b-42c5-8681-b5e5060b5ee3,4/13/1952,10/20/2014,M,white,italian,F,Gloucester,Massachusetts,1930
+8eff1361-8ad8-4b3b-8201-0abf8f917a0e,8/18/1946,,S,asian,chinese,F,New Bedford,Massachusetts,2740
+4fac1065-6474-4739-b31e-648157928120,3/12/1927,9/27/2018,S,white,irish,F,Reading,Massachusetts,1801
+a01f6f16-9f7c-4fb3-a66a-32a52a854c53,8/3/1976,,M,white,portuguese,M,Brockton,Massachusetts,2301
+e1b732e8-6d14-4697-8f55-3ab3bba53208,5/21/2006,,,white,irish,F,Taunton,Massachusetts,2718
+c66b39a1-6376-4f01-9f4b-2d7652defb33,11/12/1990,9/28/2015,,white,portuguese,F,Dartmouth,Massachusetts,2714
+ff918c87-8d15-4f7c-9a18-4fb31ef8dc98,6/27/1973,,S,white,irish,M,Hatfield,Massachusetts,1038
+9cab4773-e1f4-47c6-a27f-2df804c6a8fb,4/20/1960,,M,black,dominican,F,Dedham,Massachusetts,2026
+b68c0848-3974-49bc-bfa1-b22b3fd11370,5/14/1993,,,white,russian,F,Greenfield Town,Massachusetts,1301
+bc78abb4-21da-4d66-a1c3-4d40399046f5,8/25/2014,,,white,french_canadian,F,Worcester,Massachusetts,1545
+46e1db9d-286f-49a0-ab32-bbc2d56dbdde,11/5/1979,,M,white,french,M,Fall River,Massachusetts,2720
+63e95930-59c3-4dba-9792-6d885d079b35,9/18/1998,,,white,italian,F,Boston,Massachusetts,2108
+bb4903d8-6627-466c-81f9-8b1d6d3531ed,1/7/2012,,,white,irish,M,Brockton,Massachusetts,2301
+68dbc965-adec-406a-b200-88385a5795d9,11/4/2003,,,white,italian,F,Haverhill,Massachusetts,1830
+6f9a4c4f-a61c-47ce-85ca-268c04642679,3/7/1962,,M,asian,asian_indian,M,Boston,Massachusetts,2108
+b414b835-83f9-4022-879a-efc1bfb0e209,11/12/1990,,M,white,portuguese,F,Dartmouth,Massachusetts,2714
+d475eee3-0ba0-43ee-8a8e-b82bb0734b4f,4/13/1952,,M,white,italian,F,Gloucester,Massachusetts,1930
+7c0ccfbc-75aa-4816-b940-f50d0eeb654a,7/13/2002,,,white,swedish,F,Wakefield,Massachusetts,1880
+1b806250-9c6a-41be-bcb6-919ad2ffd561,8/3/1971,,M,hispanic,puerto_rican,F,Chelsea,Massachusetts,2149
+650e93b1-fb5e-46e9-a9eb-1bde3b66fe19,3/12/1927,1/11/2008,S,white,irish,F,Reading,Massachusetts,1801
+816de93e-615d-42a2-a066-49d63789817d,6/16/2012,,,white,irish,F,New Bedford,Massachusetts,2740
+bea60c6f-d457-40ce-befa-aec521398442,10/15/1966,,M,white,english,M,Brookfield,Massachusetts,1506
+8ba0e5d4-bb40-4097-bbaf-fca7b6955b3d,6/8/1995,,,asian,asian_indian,M,Medway,Massachusetts,2053
+70eb0fbd-1585-41fe-a5c8-f34b87adf1bd,3/26/1976,,M,white,german,F,Wakefield,Massachusetts,1880
+efdb1c34-b9d7-488f-b162-ae06f2305d25,2/16/1988,,S,white,polish,F,Wilmington,Massachusetts,1887
+3d9aed68-15d8-4e2f-a301-918a843fdabd,7/21/1964,,M,white,italian,M,Brockton,Massachusetts,2301
+9ff2e40a-1e51-4cae-bcdf-c61ab6bca8fe,9/29/2007,,,white,italian,F,Worcester,Massachusetts,1545
+a6f9dbf0-b479-4356-a427-3b289f22311d,2/27/2011,,,white,irish,M,Boston,Massachusetts,2108
+8144741e-a805-4012-9a3d-aa215b806e01,4/15/1936,,M,white,french,M,Duxbury,Massachusetts,2332
+6210623b-6062-4510-89ad-2ac233c790ba,6/10/1973,,M,white,italian,M,Boylston,Massachusetts,1505
+6e0bbf15-4dae-46ec-a621-395fde81df3b,4/23/2008,,,white,irish,M,Boston,Massachusetts,2108
+bd61db02-35ff-44bd-9c1b-c482a2fa0ec4,1/25/2011,,,white,scottish,F,Worcester,Massachusetts,1545
+b6b87dd2-d20e-41b5-8e84-c6aeb8bde2dc,3/29/1995,,,white,american,F,Boston,Massachusetts,2108
+86059467-db86-4095-bdba-1c42f503471d,3/12/1927,2/21/2006,M,white,irish,F,Reading,Massachusetts,1801
+44ab2dc8-ec50-4b4d-9633-aa658f96e55f,8/12/1997,,,white,irish,F,Brockton,Massachusetts,2301
+bd846f10-59b8-4b81-9001-d95481359369,1/30/1970,,M,white,portuguese,M,Braintree Town,Massachusetts,2184
+4db1d6f0-69ef-48f7-939e-f79f10474619,10/10/1977,,M,white,italian,F,Boston,Massachusetts,2108
+f3a9a97e-67b0-4e3a-990d-cc660816ea5f,10/24/1957,,M,white,italian,F,Somerville,Massachusetts,2138
+311d8bee-d3f4-49ba-b320-3cc47b4c648c,9/26/2008,,,hispanic,puerto_rican,M,Chelsea,Massachusetts,2149
+5075f992-7a89-4c5e-b06a-7302014dfe0f,11/2/1951,,S,white,irish,M,Franklin Town,Massachusetts,2038
+6a587612-3544-41f8-8346-ec8912492d76,6/7/2018,,,white,irish,F,Haverhill,Massachusetts,1830
+536ee1ad-8e04-49ff-9711-33990de16cd6,9/9/1981,,M,white,swedish,F,Fall River,Massachusetts,2720
+80cb37d7-ad77-4c6d-95ea-f917428e4b8c,8/21/1989,,M,white,english,F,Dracut,Massachusetts,1826
+7fa0941a-75dd-4f39-8cb7-77c967d7a529,2/9/1967,,S,white,irish,M,Woburn,Massachusetts,1801
+56a996ff-7f70-4325-808e-acb8177df3ea,1/24/1996,,,hispanic,puerto_rican,F,Clinton,Massachusetts,1510
+76faee9b-e571-41fa-b705-3b2201c49f4a,6/23/1987,,M,white,irish,M,Arlington,Massachusetts,2474
+332761f1-9e2c-49f1-8259-19184ca4bff8,12/29/1983,,M,hispanic,puerto_rican,F,Swansea,Massachusetts,2777
+ad871821-b090-4c1e-aa33-6f26b8dfa271,1/29/1971,,M,black,african,F,Boston,Massachusetts,2108
+8f6d5be2-f190-4580-870d-37e4b0f5784f,3/12/1927,,M,white,irish,F,Reading,Massachusetts,1801
+1f44c60a-3672-4ba3-991e-99298ec1de43,12/23/1939,,M,white,portuguese,M,Amesbury Town,Massachusetts,1913
+caddfb97-ac53-4db2-85c2-4e8803fb7062,5/17/1989,,M,white,polish,F,Athol,Massachusetts,1331
+3028ddbb-a5d7-4f42-bf7c-b7eab536b206,3/26/1974,,M,white,irish,M,Carver,Massachusetts,2330
+7d2f41b8-0fd6-4ed8-bb96-a1a60035d57a,11/12/1991,,M,hispanic,puerto_rican,M,Natick,Massachusetts,1760
+fba01d96-1a64-4f9d-8c95-507e8ffc6df5,9/15/2003,,,hispanic,puerto_rican,F,Holyoke,Massachusetts,1040
+b5376719-0d53-4d1c-8487-8414949e683c,4/14/2003,,,white,german,M,Marblehead,Massachusetts,1945
+3fcbfeec-7cce-4c15-83b3-ba8ddb181382,4/3/1992,,M,white,french,M,Amherst,Massachusetts,1002
+7dbb9215-5a11-4217-bbc3-f23762c9c26b,8/24/1949,,S,asian,asian_indian,F,Billerica,Massachusetts,1821
+d35c9fa5-f593-4d46-b2f0-c7b2fb7ea619,8/20/1961,,M,white,irish,M,Waltham,Massachusetts,2451
+b707b7fe-efa2-4f57-adf9-c800e5fa0b67,5/17/1968,,M,white,irish,F,Lowell,Massachusetts,1850
+3bfd8a49-bfd3-48b9-a49b-efaaa79aae71,4/22/1965,,M,hispanic,puerto_rican,F,Medford,Massachusetts,2145
+a57b10bc-b1b9-4fca-af26-87fdfadc4dec,9/6/1993,,,white,english,M,Burlington,Massachusetts,1803
+056e8b4c-76d8-4961-a9af-ff21b837cf1b,1/9/1958,,M,black,dominican,M,Shrewsbury,Massachusetts,1545
+f27c67c7-f1e9-4231-9e3c-2bce4cdce732,4/25/1917,5/17/2006,M,white,english,M,Boston,Massachusetts,2108
+3df801a5-b112-4e60-b1f9-bd5b279be1cb,4/6/2019,,,white,scottish,F,Brookline,Massachusetts,2215
+bf15e4db-3e39-493d-9e53-4dfb386f2ed5,2/25/1958,,M,hispanic,puerto_rican,F,Springfield,Massachusetts,1013
+81ffa0a4-dc1d-4315-ab0b-57e0a5f82a72,5/1/1927,7/24/1966,M,white,irish,F,Mansfield,Massachusetts,2048
+67159bc6-6135-4364-bf2e-3f31b2e82dfe,3/28/1959,12/9/2017,S,white,portuguese,M,Mashpee,Massachusetts,2649
+2daff433-2e93-4bb9-b0e9-40f6d46a060e,2/27/1991,,M,white,french,F,Pepperell,Massachusetts,1463
+52b96b5f-55f7-4589-a893-4ecfa097f95f,6/2/1978,,S,hispanic,puerto_rican,F,Newburyport,Massachusetts,1950
+0965ab3a-5e48-41a2-8355-b2d3f6b55db1,3/26/2001,,,hispanic,puerto_rican,F,Shirley,Massachusetts,1464
+82b7527b-a870-4093-83eb-4d980764efa1,4/28/1988,,S,white,german,F,Hamilton,Massachusetts,1936
+6cafbc81-d669-435a-8b0e-bf83d1e1abe0,7/10/1979,,M,white,german,M,Lowell,Massachusetts,1850
+f2e7efc3-bf13-491c-ac4e-243c9f68fc25,3/30/2000,,,white,irish,F,Holyoke,Massachusetts,1040
+d2a88a8b-6ae9-438c-98f5-27a6054c62bc,9/24/1987,,M,white,irish,F,Stoughton,Massachusetts,2072
+acc4ca16-54cc-4208-acb3-e9a637578611,1/31/2011,,,asian,asian_indian,M,Boston,Massachusetts,2108
+6e3cda9e-1711-4ede-b895-7824e0242550,3/28/1959,,M,white,portuguese,M,Mashpee,Massachusetts,2649
+b6b5bc15-a4a9-491a-820a-42d41fb12f22,4/25/1917,9/18/2007,M,white,english,M,Boston,Massachusetts,2108
+6a28bb93-48b9-4454-a56c-11674af88705,8/23/1983,,S,white,greek,M,Georgetown,Massachusetts,1833
+3875ce63-a79f-495a-bf8d-82af016991ac,11/16/1991,,M,asian,chinese,M,Newburyport,Massachusetts,1950
+00818d13-a94e-406f-bd53-04d2b8c339eb,8/16/1993,,,white,english,M,Franklin Town,Massachusetts,2038
+091c9987-af00-47b7-91a3-777ff859255e,6/30/1998,,,white,italian,F,Marblehead,Massachusetts,1945
+618135d4-6ee1-41d6-b8df-35266b5c1134,5/1/1927,7/12/2018,M,white,irish,F,Mansfield,Massachusetts,2048
+e632e53d-6d40-4803-b3c1-f27340f35efa,1/17/1992,,M,white,italian,F,Hadley,Massachusetts,1035
+a8cb340c-512b-4745-97d7-53e4cb3c4e2c,5/22/1999,,,white,american,M,Boston,Massachusetts,2108
+9475f48d-c8cd-490e-8027-658b163877fd,3/2/1945,,M,white,italian,F,Pittsfield,Massachusetts,1201
+8ba686be-13b8-415c-8f0d-7b72a26a6f7a,4/17/1985,,M,white,german,M,Orange,Massachusetts,1364
+ec1889c1-822a-4fe8-b27e-7fd61693a7f2,1/14/1990,,M,white,american,M,Rochester,Massachusetts,2770
+959aff86-33a1-408c-88b8-dcd1d16fec9d,7/30/2001,,,white,scottish,F,Cambridge,Massachusetts,2138
+3b8a6bf7-65bc-4c37-aa42-6675dd21d54b,9/8/1993,,,white,irish,F,Gardner,Massachusetts,1440
+09e9f356-a4ea-4ec1-b9ed-39f64e12fe94,11/14/1966,11/16/1975,,white,polish,M,Walpole,Massachusetts,2081
+027b7de0-6e99-4bcc-bfdc-f7a46483f9df,4/25/1917,9/15/2013,M,white,english,M,Boston,Massachusetts,2108
+40d182fc-6b9d-4a03-9219-8d8d63e5fa25,11/10/1915,,M,white,irish,F,Brewster,Massachusetts,2631
+0ab999c1-ff98-442e-879f-a633b577ad0a,2/17/2016,,,hispanic,puerto_rican,M,Boston,Massachusetts,2108
+a344dc27-b900-4dd0-9589-88a73208f640,8/15/2002,,,white,american,M,Chelmsford,Massachusetts,1824
+eae9bae8-5087-472b-acf8-19dab70ddb9f,8/20/1966,11/28/2013,S,hispanic,south_american,F,West Newbury,Massachusetts,1985
+b2937643-c80a-4d9c-bc23-d71cc6d47528,9/12/2014,,,white,german,F,Duxbury,Massachusetts,2332
+f1442e07-de91-4866-83fc-fc01ef6ee56c,5/1/1927,,M,white,irish,F,Mansfield,Massachusetts,2048
+30b15737-24d5-4a0f-8c96-30dcc395ec1d,11/14/1966,,M,white,polish,M,Walpole,Massachusetts,2081
+b28c2379-455b-4795-a932-d65d7da1384e,10/19/1976,,M,white,polish,F,Hingham,Massachusetts,2043
+8a23e08c-3187-407f-b389-7714a5c5d44d,7/25/1986,,M,white,italian,M,Stoughton,Massachusetts,2072
+7ff11d07-39c7-403b-8577-fdc633fff280,10/2/1950,,M,white,polish,F,Southwick,Massachusetts,1077
+846e77ff-a79e-4947-ac6d-fe0150e977ae,10/10/2014,,,black,west_indian,F,Norwood,Massachusetts,2062
+0eebd45b-892a-493b-8e02-52827cd5d1e2,5/18/1994,,,white,italian,M,Malden,Massachusetts,2148
+c2af0486-8671-462c-81d0-4db5841ed070,4/25/1917,8/16/2016,M,white,english,M,Boston,Massachusetts,2108
+62dd9581-b731-4d95-ab28-982886244061,8/20/1966,,S,hispanic,south_american,F,West Newbury,Massachusetts,1985
+af39fd65-7eaa-4e18-826f-08ef12f37ecd,10/27/1964,,M,white,irish,F,Bridgewater,Massachusetts,2324
+7896a069-10ba-4be3-8659-f983e54c320f,12/4/1966,,M,asian,chinese,M,Worcester,Massachusetts,1545
+da6f12ab-6d2e-4ca9-94a2-182c37e7595f,5/15/1995,,,white,polish,F,Greenfield Town,Massachusetts,1301
+6a873f5f-ffb3-44d4-8f7c-996ae3f83a67,12/5/2015,,,white,portuguese,F,Brockton,Massachusetts,2301
+9af107d0-c8e8-401e-8fd2-bd3aa771858c,1/16/1967,,M,hispanic,puerto_rican,F,Methuen Town,Massachusetts,1841
+b0581f71-402b-4a0a-aa67-73b3c444aab8,5/10/1926,7/10/2010,S,white,irish,F,Athol,Massachusetts,1331
+92dc3de0-05c6-473e-a38a-1918c874a420,4/25/1917,,M,white,english,M,Boston,Massachusetts,2108
+bc1089f0-489f-4ae0-b3f5-a96185583c92,3/9/1968,,M,white,irish,M,Haverhill,Massachusetts,1830
+c877efaa-221a-42a8-9967-27209440bb23,10/15/2007,,,white,russian,F,Newton,Massachusetts,2458
+8e61b19c-53b8-4cd2-9218-1819432e5baf,11/4/1962,,M,white,german,M,Worcester,Massachusetts,1545
+c85a81fb-4040-4bde-bf1a-dfa130a95142,8/16/1982,,S,white,irish,F,Carver,Massachusetts,2330
+9a8dc6eb-132f-4363-bf3a-35e420b19d50,4/30/1959,,M,white,irish,M,Swansea,Massachusetts,2777
+f2cce53a-5f83-4fc8-a096-66c33d99fd33,5/11/1937,11/30/2012,S,white,french,F,Bourne,Massachusetts,2532
+3e53ced3-cc05-4d20-a728-7e6b4c223571,12/11/1992,,,white,french,M,Malden,Massachusetts,2148
+8f2d18d4-e3ec-4cbe-b45a-80d153a66207,10/14/1975,,M,black,west_indian,F,Boston,Massachusetts,2108
+a3c53f27-7d9c-412c-b298-a7e3ed7d5637,8/11/2018,,,white,french,M,Walpole,Massachusetts,2081
+5e9c3fbb-2feb-49cf-9303-669e2f70c8fb,5/10/1926,11/26/2015,M,white,irish,F,Athol,Massachusetts,1331
+0a65ae25-89b1-4293-8191-06ec0eb0f7ac,10/14/1995,,,white,swedish,F,Norton,Massachusetts,2766
+ea73c32a-c32f-4490-8b7f-4e6ce4ff33f5,11/30/1935,,M,white,portuguese,M,Cambridge,Massachusetts,2138
+3d11be90-9580-4106-86af-4331b7a47bfe,11/30/2007,,,white,english,M,Chatham,Massachusetts,2633
+7014b800-c841-41f8-a4b9-5d6851a74973,5/20/2004,,,white,italian,F,Templeton,Massachusetts,1468
+120f3304-d90d-41fe-ac59-ffc920c27109,10/27/1949,,M,white,american,M,Brockton,Massachusetts,2301
+0c08f2e3-61bb-4728-98a3-bd8bb220c0ab,5/11/2006,,,white,italian,F,Sutton,Massachusetts,1590
+6a94f77f-fd45-4455-b121-1446aef08995,1/19/1994,,,native,american_indian,F,Boston,Massachusetts,2108
+f016eaab-0c82-4dbb-8d20-778c22f83d0a,5/11/1937,,S,white,french,F,Bourne,Massachusetts,2532
+c3c7d690-e512-4427-b9bc-2163ee92f0a7,7/29/1988,,M,white,greek,F,Stoneham,Massachusetts,2180
+50a1c140-e742-492c-bf22-9a88c82c690e,10/23/1977,,M,white,italian,M,Berkley,Massachusetts,2779
+c4bed754-198e-48ee-bd5b-b247a82dceaf,1/2/2002,,,white,german,M,Hudson,Massachusetts,1749
+74aa4be7-709e-44b1-938c-42bd8f0a01aa,5/10/1926,,M,white,irish,F,Athol,Massachusetts,1331
+0bea8af8-287c-4e14-a4bc-b0d07703ad9b,6/11/1954,,M,hispanic,puerto_rican,M,Brockton,Massachusetts,2301
+38e5994c-087c-4cc9-a715-75fc3cfc96f0,5/15/2016,,,asian,chinese,M,Framingham,Massachusetts,1701
+1287f877-c09f-48a1-af98-178b2a5ff904,3/23/1994,,,white,italian,F,Winthrop Town,Massachusetts,2128
+71dba665-1953-488b-9a08-221d91801da9,11/18/2009,,,black,west_indian,M,Chelmsford,Massachusetts,1824
+419e25ad-dfe0-4256-8919-5ea96e8942c3,2/27/2002,,,white,irish,F,Rochester,Massachusetts,2770
+b58e82cd-4417-4bd6-8079-3d7535a7ed50,12/7/1963,,M,white,portuguese,F,Barnstable Town,Massachusetts,2601
+0b592d1d-c119-4ae2-9d96-44e28729457a,8/28/1988,3/9/1997,,white,german,M,Pittsfield,Massachusetts,1201
+b226cd86-0c1c-4347-b409-a658d4fa547e,3/22/2006,,,white,scottish,F,Malden,Massachusetts,2148
+2fe60511-cf1d-46c2-a440-f56c3cfe63e6,7/28/2010,,,white,irish,M,Methuen Town,Massachusetts,1841
+e303d925-7d36-4050-bf46-2faa3f493448,5/9/1976,,M,white,irish,F,South Hadley,Massachusetts,1075
+ff018dcd-5190-4c87-9412-54a8c4dcd631,7/7/1966,,M,white,italian,F,Amherst,Massachusetts,1002
+2a2bcb27-dff5-48b7-a799-50ba053105aa,8/28/1988,,M,white,german,M,Pittsfield,Massachusetts,1201
+3c9bce7a-783a-486f-814d-184e3b79284e,6/22/1975,,M,white,french,M,Hingham,Massachusetts,2043
+7c46335f-a9d2-4f8d-86a9-ad956c530d60,12/18/1982,,M,white,irish,M,Duxbury,Massachusetts,2332
+75138ce1-59a3-491a-bdcd-405f6afba6e3,4/10/1954,,M,white,french,F,Chelsea,Massachusetts,2149
+c14ef806-1ec5-47c1-9617-ae0f8a0e2bc0,12/18/1980,,M,black,african,F,Medway,Massachusetts,2053
+75284dae-2618-4ac2-a76b-bf70176836da,3/26/1932,,M,white,portuguese,F,Springfield,Massachusetts,1013
+6ef277fc-80b1-473a-9a1c-9d48c6df76c8,7/12/1974,,M,hispanic,mexican,F,Boston,Massachusetts,2108
+d3d4c739-20ab-462d-ab38-d5ade5bf53a5,4/17/2010,,,hispanic,central_american,M,Dudley,Massachusetts,1571
+a97de388-fd6d-4659-81d8-35c1cede78c0,11/30/1953,,S,black,west_indian,F,Attleboro,Massachusetts,2703
+4827bd44-cf02-4d25-9ea0-fa223ff626b5,1/19/2006,,,white,polish,M,New Salem,Massachusetts,1355
+c3b0867a-f9ab-4b12-ae4b-df8bb35a7a04,6/23/1962,,M,black,west_indian,M,Stow,Massachusetts,1775
+915f2162-2265-4141-b086-f186a366134f,4/25/1970,,M,asian,asian_indian,F,Bolton,Massachusetts,1740
+51d0de35-6121-4d84-850d-1246ebf9cad0,3/6/1963,,S,white,english,M,Everett,Massachusetts,2148
+4fe25d61-e4fd-47ac-907c-1a06ce4246d3,7/14/1967,,M,white,italian,M,Dudley,Massachusetts,1571
+9044120e-8f06-4cf0-8b33-b361e5bffe11,3/8/2011,,,white,portuguese,F,Dartmouth,Massachusetts,2714
+9447287b-b5d8-4ceb-9cda-aaea7df90628,12/22/1972,,M,black,west_indian,F,Acton,Massachusetts,1720
+8d05ab72-7814-46d1-a06f-3423cfdd83a2,9/26/1996,,,asian,chinese,F,Seekonk,Massachusetts,2771
+56ff05c0-b8be-48ac-add6-d6e02574d51d,9/3/2009,,,white,american,F,North Andover,Massachusetts,1845
+9584fdf1-8cf8-41c0-9733-699bdf00f2fc,4/7/1948,,M,white,french,F,Pittsfield,Massachusetts,1201
+7a8f6e96-9213-4680-affb-426aea4a3b5b,8/17/1985,,M,white,portuguese,M,Stoughton,Massachusetts,2072
+11b1c4ce-d8a5-4ae8-9dc5-45595df41946,8/1/1967,,S,hispanic,puerto_rican,M,Cambridge,Massachusetts,2138
+e127c93d-c212-4724-b676-14ba63f97141,8/17/1951,,M,white,irish,M,Freetown,Massachusetts,
+3a2d08cd-4de1-4f74-8dfa-059a65ca7bc9,12/13/1984,,M,white,french,M,Middleborough,Massachusetts,2346
+26dfb063-c726-45e9-a9f8-557c34bbb41a,6/21/1939,,M,white,french_canadian,M,Salem,Massachusetts,1907
+368059d8-a0af-4ee7-a827-1e4c62860268,10/15/2012,,,white,french,F,Paxton,Massachusetts,1612
+297f1424-e396-4fe9-8043-74c313d1e99f,5/3/1957,,M,white,russian,M,Lincoln,Massachusetts,1773
+e4faea6d-6634-4100-82a9-41ce2442a2ff,6/26/1975,,M,hispanic,south_american,M,Littleton,Massachusetts,1460
+cfe11b06-44b9-4e59-8487-6f5f8f7dd089,6/26/1996,,,hispanic,mexican,M,Braintree Town,Massachusetts,2184
+79150f86-737b-45b5-946a-dd1e984a8201,4/8/1980,,M,white,irish,F,Chicopee,Massachusetts,1013
+c28ecf25-25ba-444a-90fe-17aba01f204f,1/15/2013,,,white,scottish,F,Leominster,Massachusetts,1420
+d7003220-45bf-454c-9a6b-2b3b8fb0a637,12/21/1971,,M,white,italian,F,Hanson,Massachusetts,2341
+1ee12891-b493-4b11-8294-a66cc67782d8,2/8/1989,,M,white,polish,F,Lawrence,Massachusetts,1840
+3dad5162-a99e-46f5-af90-d321bcafaccf,7/1/2018,,,white,portuguese,F,Newton,Massachusetts,2458
+f8a12bac-2747-405f-b425-c5192a8c71c6,12/19/2014,,,white,english,F,Belmont,Massachusetts,2138
+c2ba361f-28ae-451a-b48a-d4b82908bf2d,3/28/1963,,M,white,polish,F,Somerset,Massachusetts,2725
+f13b7122-7eec-486e-82f5-aa1f349535fe,6/29/1993,,,white,irish,F,Boston,Massachusetts,2108
+c8a99de9-c477-45f8-9181-e4b6df6260bb,8/13/1963,,M,white,german,F,Revere,Massachusetts,2151
+12e14982-1daf-4936-a988-ff732584cc5c,8/5/1978,,S,white,irish,M,Malden,Massachusetts,2148
+b9c8083b-1b20-4d4b-9d11-4cd3e2fb6b0f,10/20/1996,,,hispanic,mexican,M,Easthampton Town,Massachusetts,1027
+6d3d22cc-4546-4fd2-80fa-1165846ad750,1/25/1955,,M,hispanic,south_american,F,Holyoke,Massachusetts,1040
+0c957ea8-d091-435a-902d-5839b4c286ff,5/28/1972,,S,hispanic,puerto_rican,F,Agawam Town,Massachusetts,1001
+7313b51c-f382-44b3-9eb8-e0fc7ef4be75,2/16/1992,,M,white,french_canadian,F,Nantucket,Massachusetts,2554
+75c34f30-2c6c-4a1e-9639-66636dc86d64,6/6/1988,,M,asian,chinese,F,Pembroke,Massachusetts,2359
+1820f42f-6e85-43e1-b485-62c7dfc06476,1/13/1946,,M,white,french,F,Springfield,Massachusetts,1013
+613c8f8b-fc10-424d-8bcf-ef5e4be2668b,9/6/2006,,,white,english,M,North Attleborough,Massachusetts,
+04870b5e-8259-4296-9dad-848f347c8b6c,7/10/2013,,,white,italian,M,Quincy,Massachusetts,2169
+006a5360-6446-4605-99e3-dcc90bcb20c8,11/29/1986,,M,white,scottish,M,Holliston,Massachusetts,1746
+a5036a6c-d4ca-45f5-a70f-bf6d3c21f952,10/24/1999,,,white,french_canadian,F,Great Barrington,Massachusetts,1230
+3741a5a8-e392-4d19-9aad-fc782d9511dc,11/20/2007,,,hispanic,central_american,F,Belmont,Massachusetts,2138
+59749b62-d8ee-431c-b720-df4269024f92,7/6/1912,1/15/2001,M,hispanic,puerto_rican,M,Worcester,Massachusetts,1545
+c8457b39-1ebb-4c49-b1cc-8946d9d6df04,4/8/1951,,M,black,dominican,M,Rockland,Massachusetts,2370
+d2ef2a14-dcf4-4488-82a1-0cc91f7fef81,12/27/1994,,,white,german,M,Rockland,Massachusetts,2370
+5d63543e-60ab-449d-a0c3-e22f69317527,7/15/2017,,,white,english,F,North Brookfield,Massachusetts,1535
+a29ecb35-c08b-4f45-9e63-934d6705ce2f,2/2/1971,,M,white,english,F,Peabody,Massachusetts,1940
+fd63acb8-649e-4eb8-a3ef-0dc2f5fda8cf,11/19/1952,,M,white,swedish,F,Concord,Massachusetts,1742
+7de9197f-e9df-4719-8c49-a6685d8f34ed,10/31/1993,,,hispanic,mexican,F,Revere,Massachusetts,2151
+471e3bf1-bc80-41c3-9113-cf08e316e7f9,1/19/1979,,M,white,french,M,Southborough,Massachusetts,1772
+601ec808-b5c2-4969-94fb-bd4e48ca9aa3,8/19/1980,,M,white,irish,M,Chicopee,Massachusetts,1013
+3d1121aa-eae3-46a5-9bed-ea22d0ddf150,1/2/1997,,,white,italian,M,Boston,Massachusetts,2108
+5c5c6e57-ffff-495b-9a96-e7f33e1f1327,12/3/1934,10/2/1978,M,white,greek,M,Natick,Massachusetts,1760
+23e65bf7-72e6-4ce3-94d5-c2ca454fed68,12/16/1999,,,asian,asian_indian,F,Tyngsborough,Massachusetts,
+4b9ee114-6e67-471c-9b67-b1e1d8f12578,9/22/1954,,S,white,irish,M,Spencer,Massachusetts,1562
+5f49cf68-9698-4c91-ae61-a473d92159a6,12/21/1973,,M,black,african,M,Newton,Massachusetts,2458
+95073439-246d-427c-a7b9-70ec266bc761,2/22/1970,,M,white,italian,F,Medford,Massachusetts,2145
+a92c67bf-0f15-4df7-967c-d5ea5464bcc0,3/15/1992,3/30/1997,,black,dominican,M,Worcester,Massachusetts,1545
+a56474b7-fa26-4e2d-b604-bd707b61c29f,2/24/1972,,S,hispanic,central_american,F,Lynn,Massachusetts,1901
+f3555797-e27c-4008-af7a-92d6f0020dfb,3/23/1987,,M,white,french,F,Lunenburg,Massachusetts,1462
+299c5458-12b5-4926-8f0f-f7c72ac60153,6/16/1983,,M,white,portuguese,M,East Longmeadow,Massachusetts,1028
+b6088867-b846-467c-9289-2ce822c857c1,11/4/2007,,,hispanic,mexican,F,Haverhill,Massachusetts,1830
+48050570-f583-4b40-9073-9a4fcdaab66b,3/15/1992,,M,black,dominican,M,Worcester,Massachusetts,1545
+60b0d98a-10de-4f42-bb65-28b23750706c,6/25/1996,,,black,african,M,Northampton,Massachusetts,1053
+53dca7e3-d743-49cb-8144-1ec299518b4a,12/3/1934,1/1/2008,M,white,greek,M,Natick,Massachusetts,1760
+9b9547ea-19fe-41b9-8876-aaf7de0c8ccd,11/28/2010,,,white,irish,M,Carlisle,Massachusetts,1741
+238c5a1e-9bac-452e-997e-a588a8bda323,3/22/1972,4/9/1983,,white,greek,F,West Boylston,Massachusetts,1583
+d9793321-1b91-47d4-9a9a-f39826ec7bc4,9/2/2009,,,black,dominican,F,Boston,Massachusetts,2108
+38e1c19c-c692-4ee9-847d-6663ca7b2b02,3/15/1986,,M,asian,asian_indian,M,Cambridge,Massachusetts,2138
+668c0352-31f4-411a-bd70-30fe687085ab,4/11/1954,,M,white,german,M,Marlborough,Massachusetts,1752
+b0fd86aa-0a04-41c2-ac61-bebf362c90a0,12/3/1934,12/6/2010,M,white,greek,M,Natick,Massachusetts,1760
+fe6850ca-c81d-4f92-be6c-f7a5a990bae7,8/16/1957,,S,white,italian,M,Northborough,Massachusetts,1532
+3a0d5822-59b8-484c-9251-af5323e7a3ca,3/22/1972,,M,white,greek,F,West Boylston,Massachusetts,1583
+2ea70a52-9123-4ed5-b93f-6c78a8ece31f,2/12/1977,,M,white,polish,M,Lawrence,Massachusetts,1840
+1232e664-3bbc-4e88-a05e-cae6b0c2a706,3/31/1978,,M,white,english,F,Agawam Town,Massachusetts,1001
+b3f9b81e-6df8-4553-9e72-ed715f4c7f26,2/5/1936,,S,white,polish,F,Worcester,Massachusetts,1545
+f33c6a9a-f8aa-4879-91a2-256e8b8042e4,12/3/1934,6/27/1997,S,white,greek,M,Natick,Massachusetts,1760
+585a063b-734e-4900-a787-cb2e6c6daac4,11/21/1953,,M,white,french_canadian,F,Barnstable Town,Massachusetts,2601
+1c43ef17-ba12-48d4-a654-58e0e2bfe541,11/3/2015,,,white,french,F,Norfolk,Massachusetts,2056
+5a00d516-1c96-4672-9002-9f7536c0f93b,12/3/1934,9/29/1936,,white,greek,M,Natick,Massachusetts,1760
+e3f46ada-1cee-4b16-8d8d-448c9645c186,6/24/1960,,M,white,english,M,Newton,Massachusetts,2458
+c0ac09a9-1fbe-4dc4-be77-a91823c56d12,1/15/1956,,M,white,irish,M,Worcester,Massachusetts,1545
+4aeceb42-b02d-48ca-bc60-47449c83efc0,8/13/1964,,M,white,german,F,Marlborough,Massachusetts,1752
+ca4a0e2d-fbe1-460c-9d3b-185adca56440,4/15/1968,,S,white,irish,F,Everett,Massachusetts,2148
+a16d370c-5916-49c3-a76a-3413f4f3fd1b,6/15/1965,,M,white,polish,M,Malden,Massachusetts,2148
+a9797ba5-8388-411c-8b13-24aa3d4a63fa,8/3/1996,,,white,irish,F,Boston,Massachusetts,2108
+5f583a64-ec96-425a-8eb7-891c8ecce4e3,6/19/1965,,M,white,english,F,Lynn,Massachusetts,1901
+4e335df9-a552-468c-a579-6b36c7e0a840,12/3/1934,6/16/2003,M,white,greek,M,Natick,Massachusetts,1760
+810b6e7f-2510-465a-ae92-d7172cb261d9,10/27/1945,,M,white,german,F,Belchertown,Massachusetts,1007
+49c79f5f-b50b-45ff-8591-78eb7f7131fb,9/11/1996,,,white,french_canadian,M,Foxborough,Massachusetts,2035
+fea3d291-f711-49dd-8e30-551ecc332be2,5/4/2004,,,white,italian,F,Springfield,Massachusetts,1013
+f8882d79-5bea-4d5f-b4e1-397098b40da1,5/29/2012,,,asian,asian_indian,M,Weston,Massachusetts,2493
+6fbb724f-7008-46e3-bd3b-ccc227a73051,4/27/1964,11/30/1964,,white,portuguese,M,Plymouth,Massachusetts,2360
+9a6c3f60-385f-4277-b5e5-b53746d178c3,2/11/2003,,,native,american_indian,F,Westport,Massachusetts,2790
+b5f2e0fb-a7e5-4c7f-90af-1e521be6a604,11/7/2007,,,white,italian,M,Chelsea,Massachusetts,2149
+6f4e77d4-7075-4e56-a5ed-9fcaf5ea6ccf,2/19/1973,,S,black,dominican,F,New Bedford,Massachusetts,2740
+27cc64f6-1c0d-4d80-b0d1-ba7d9ae2db54,9/17/2014,,,white,irish,M,Beverly,Massachusetts,1915
+a2a3efe6-1a50-4315-bef5-17e42d9d223f,8/22/2017,,,black,african,F,Worcester,Massachusetts,1545
+5fe62433-1e19-464b-bcdd-8bd86a70e763,10/11/1965,,M,white,russian,F,Dover,Massachusetts,2030
+6b7e28a1-77aa-4d96-8514-010ed257c881,4/27/1964,,M,white,portuguese,M,Plymouth,Massachusetts,2360
+c2773139-65ce-440e-b6c5-e79280a08138,7/20/2016,,,white,irish,M,Burlington,Massachusetts,1803
+633420af-5b61-47cd-8833-5484278f3363,9/24/2007,,,white,american,F,Worcester,Massachusetts,1545
+29194e29-54e4-4295-8839-164bb16c5cf6,7/15/2012,,,hispanic,puerto_rican,F,Boston,Massachusetts,2108
+50ce1630-28a0-4186-9dd6-126afc81395f,12/9/1957,,M,white,german,M,Rehoboth,Massachusetts,2769
+8afd6eb8-6cc8-470a-afa2-77453c197fd1,6/1/1971,,M,hispanic,puerto_rican,F,Winchester,Massachusetts,1890
+6827edcf-e113-4f57-9509-32d2916d0a0a,2/14/1990,,M,white,italian,M,Scituate,Massachusetts,2066
+c58a65dd-203b-49a4-adc1-a4d5541113a0,10/5/1982,,M,white,irish,M,Brookline,Massachusetts,2215
+406d5e4a-060a-4635-98c3-4d68051ace2e,5/7/2010,,,white,english,F,Worcester,Massachusetts,1545
+e6b89213-a13e-4ff4-8757-45623d3a1eef,10/20/2018,,,white,french,F,Boston,Massachusetts,2108
+0084fe1a-5513-4327-999e-23f24006c7dd,6/21/1987,,M,native,american_indian,F,West Springfield Town,Massachusetts,1089
+54f7f9aa-3a2c-4730-ba6a-54a1bbca0530,3/11/2006,,,white,french,M,Worcester,Massachusetts,1545
+041cf464-432f-423f-9ef0-d86046bf7520,3/22/1961,,M,white,italian,F,Bellingham,Massachusetts,2019
+b417d945-4ccc-42a7-b8c7-cc3853dce9d4,10/4/2018,,,white,irish,M,Melrose,Massachusetts,2176
+a1fb2638-79f3-4fab-a701-ed529fd5d17f,9/3/2001,,,black,dominican,F,Whitman,Massachusetts,2382
+f94c8a48-328e-4e43-9f64-5e5a18fe87d7,12/29/1939,,M,white,portuguese,F,Amherst,Massachusetts,1002
+47b733bc-8069-47cc-8e8b-2a5fcf5ffde1,7/23/1993,,,white,french,M,Chelmsford,Massachusetts,1824
+c6034f91-a2f4-440a-9c84-7c53dee1eaad,3/14/2016,,,white,french,M,Malden,Massachusetts,2148
+62f9c191-6729-43ea-8e97-ff52b8559f21,2/12/1967,,M,white,english,F,Worcester,Massachusetts,1545
+80aedf5a-839e-40e3-8cb2-939b33c1afa9,11/22/2018,,,white,french,F,Millis,Massachusetts,2054
+34f871ef-5748-426b-af48-8800e0d86573,2/24/1957,,M,white,french,F,Amherst,Massachusetts,1002
+aeb26ed1-23a2-49d0-9660-f1faae213a6d,11/18/1978,,M,hispanic,central_american,F,Revere,Massachusetts,2151
+f464fbe2-3b15-404f-bba5-4d1d2d564c72,1/27/1999,,,white,american,F,Newton,Massachusetts,2458
+847fad6e-58a0-4b4d-95e9-737bcc8c46e1,8/12/1965,,M,asian,chinese,M,Malden,Massachusetts,2148
+b74a145c-26f9-4c9f-9b34-d95cad3ac174,10/7/1938,,M,white,german,F,Eastham,Massachusetts,2642
+8a0f6195-d4fb-4aee-af79-95f412da4c4c,12/3/1934,,S,white,greek,M,Natick,Massachusetts,1760
+f0d10715-924b-42cb-965f-ad01cba6e547,5/28/1993,,,asian,chinese,F,Boston,Massachusetts,2108
+3e67432d-007b-41b9-9b4c-9d6dc1c984b4,12/2/1998,,,white,irish,M,Beverly,Massachusetts,1915
+12dc15ba-cfdf-4128-ab7e-7669f2be1415,3/29/1962,,S,white,english,M,Watertown Town,Massachusetts,2472
+ffd4c6c3-f74d-4535-9b4c-84d2e18f0391,9/17/2005,,,white,irish,F,Bridgewater,Massachusetts,2324
+faf5df2b-94ed-45be-bf07-6a38a3fdc48c,11/6/1950,,S,white,irish,M,Middleborough,Massachusetts,2346
+aec276ed-f663-4a35-882c-a1b91158f154,12/2/1962,,M,white,irish,F,Sterling,Massachusetts,1564
+2b04e7c4-2090-45d2-832f-96f881dad493,1/9/2017,,,black,african,M,Framingham,Massachusetts,1701
+eedacc35-e860-4e7c-ac9d-f3f557e6b2a5,8/10/1974,,M,hispanic,puerto_rican,M,Lynn,Massachusetts,1901
+a0fa7a94-a3e2-4adf-a52e-7bbfbba0ced0,2/9/1987,,M,white,irish,M,Somerville,Massachusetts,2138
+39cb010f-6e5b-43b5-a1e8-2bba6be66129,5/11/1962,,M,white,irish,M,Beverly,Massachusetts,1915
+dd5e6953-7027-4a1c-bc49-b3250d56ca1f,12/30/1987,,S,hispanic,mexican,M,Stoughton,Massachusetts,2072
+964a029f-f1f9-40fc-bd32-714c0e02185c,1/22/2005,,,hispanic,puerto_rican,M,Lynnfield,Massachusetts,1940
+12ee50fb-5266-4435-b3f6-626a029d2c98,6/27/1968,,M,white,french,M,Rehoboth,Massachusetts,2769
+e16396f2-edee-49dc-9e17-07598d2cef80,10/21/1974,,M,asian,chinese,M,Methuen Town,Massachusetts,1841
+4491c8e1-e9b4-468b-b23b-8b2359036b7f,5/23/1980,,M,white,irish,M,Worcester,Massachusetts,1545
+c8f19a64-483e-46c4-8e48-0ba4ec380adb,10/11/1948,,M,white,italian,F,Burlington,Massachusetts,1803
+74cc5c1d-e730-46ca-ba59-4b62fd84927c,2/11/1989,8/15/2015,,white,irish,M,Provincetown,Massachusetts,2657
+f0933d9e-1f0f-46df-857a-a2bb0debb60e,9/17/1982,,M,white,french,F,West Springfield Town,Massachusetts,1089
+3e6802af-83b3-4329-b2c3-aa6c20d8755c,12/18/1913,7/4/1946,M,white,irish,M,Somerville,Massachusetts,2138
+6966affc-d0d0-46e9-a5a6-53f8ff907f64,9/13/2000,,,white,greek,F,Newton,Massachusetts,2458
+170d1029-279c-489e-9eb8-86646de3e59b,2/11/1989,,M,white,irish,M,Provincetown,Massachusetts,2657
+76be95c2-8f44-45e3-ba2a-48095f148373,2/3/1935,8/10/2003,M,white,irish,M,Somerville,Massachusetts,2138
+33d65d4f-dbc1-48c7-9848-88753f95f7d2,8/16/2018,,,white,polish,F,Needham,Massachusetts,2492
+9bb24b80-1181-4adf-ad8d-d07c4459f387,8/29/1941,,M,white,portuguese,F,Springfield,Massachusetts,1013
+85158850-e5ea-4b04-9e13-f4c541575d87,2/25/1946,,M,white,english,F,Dartmouth,Massachusetts,2714
+138ca48d-792d-4052-a1b0-8d1daca8e779,12/18/1913,2/9/1989,M,white,irish,M,Somerville,Massachusetts,2138
+36c05d6d-4161-4bce-8813-d02133469954,1/11/1966,,M,hispanic,puerto_rican,F,Leicester,Massachusetts,1524
+fc28e3a7-f97f-4a44-b09f-85f84810b513,1/15/1936,6/20/2018,S,white,german,M,Watertown Town,Massachusetts,2472
+bb0562db-99f3-4d08-a77c-a52b2a59127a,2/3/1935,,M,white,irish,M,Somerville,Massachusetts,2138
+f1efc161-46d1-499d-8a9e-6a817ec5bec6,2/15/1981,,M,hispanic,puerto_rican,F,Cambridge,Massachusetts,2138
+e68e125d-e558-4f63-a96d-b2b5bbf98aac,5/30/2004,,,white,english,M,Wrentham,Massachusetts,2093
+56bc0e12-aae5-4c7d-a11f-8f261e5a138f,11/21/1967,,M,white,german,F,Hopedale,Massachusetts,1747
+9d45deb4-d86f-4892-8a13-025acfa0ccfe,4/29/2011,,,white,irish,F,Ware,Massachusetts,1082
+fa9fb785-3d5a-462e-b6a2-e191c142fa80,4/1/1962,,M,asian,chinese,F,Ludlow,Massachusetts,1056
+2b73a50a-6d97-4065-8a20-064cfc6a769e,9/25/1955,,M,hispanic,mexican,F,Southbridge Town,Massachusetts,1550
+fb28d847-ec72-49a6-bb69-c4e9a206eb4f,2/15/1952,,M,hispanic,puerto_rican,F,Salem,Massachusetts,1907
+fd5c42d3-4c3f-4a7f-a5cc-3c2bd594f493,6/22/1991,,M,white,french,F,Rockland,Massachusetts,2370
+a17ffe59-27ff-476a-ba0f-c5b1a2e64222,12/18/1913,1/3/1997,M,white,irish,M,Somerville,Massachusetts,2138
+53b64801-604e-4122-a759-c50fdf03299a,11/7/1961,,M,white,scottish,F,Walpole,Massachusetts,2081
+5f662f98-9170-47ce-99c3-f74178788767,11/12/1991,,M,white,portuguese,F,Holden,Massachusetts,1520
+14e74e74-c513-4931-bd9c-e26ff697c2e7,7/12/1982,,M,white,english,M,Franklin Town,Massachusetts,2038
+466bb41a-e260-4a78-ae7b-05bb193e1ece,11/8/1958,,M,white,irish,F,Stoughton,Massachusetts,2072
+c313d608-48cf-4fc0-9a53-dfae42e5c308,1/23/2000,,,hispanic,puerto_rican,M,Everett,Massachusetts,2148
+1ae924f4-b6a8-4c0a-b523-1e7d4e818ba1,1/12/1957,,M,white,polish,F,Lawrence,Massachusetts,1840
+2c5a8a6c-c69e-43dd-a338-de8b19da61c2,4/28/1998,,,white,portuguese,F,Boston,Massachusetts,2108
+fce2b518-752f-4c77-92c2-228b74a66223,4/28/2006,,,hispanic,puerto_rican,F,Boston,Massachusetts,2108
+b3b76f03-6863-4c66-9a63-f2fe4c8865d0,6/17/1982,,M,white,russian,M,Springfield,Massachusetts,1013
+0f4f1547-b7a1-4c06-860e-642d459c9e87,12/18/1913,11/15/1998,S,white,irish,M,Somerville,Massachusetts,2138
+3a75ff9f-6b57-4435-8a74-41da23eedb2a,3/13/1974,,M,white,portuguese,F,Wilbraham,Massachusetts,1095
+ae63465d-96de-4c2f-8cfe-6293f927d049,1/24/1992,,S,white,french,M,Westford,Massachusetts,1886
+b61c37b8-0cdc-4672-bf5f-10d28343e7e5,7/18/1994,,,asian,chinese,M,Grafton,Massachusetts,1519
+4648a46b-e525-4d8b-a16e-d6aa19ba688b,10/16/1993,,,white,english,F,Billerica,Massachusetts,1821
+c6daaeb3-78b2-477b-bfc2-3e7e62b4b132,9/3/1987,,M,white,irish,M,Wilmington,Massachusetts,1887
+c61c52f2-f172-43e7-af29-7e125334533c,3/21/1986,,M,white,irish,M,Northbridge,Massachusetts,1534
+90a31f4f-d058-415f-956f-f86ac00e588f,6/23/1966,,S,white,portuguese,M,Haverhill,Massachusetts,1830
+c97fb6fb-c977-4ea8-813e-cd72d07e4d5c,2/19/1988,,M,white,portuguese,M,Boston,Massachusetts,2108
+f6b6a6cd-1876-4f16-b226-c69a3c4aca1f,1/15/1936,,M,white,german,M,Watertown Town,Massachusetts,2472
+cce3df8f-698f-489f-b3aa-12465e5613dd,10/30/1985,,S,white,english,F,Rehoboth,Massachusetts,2769
+0b6afa42-d034-4de2-b47d-76641e431e2f,6/23/1992,,,black,west_indian,M,Westfield,Massachusetts,1085
+8625a771-08f7-4d5a-bd11-d9b023bf2754,12/18/1913,4/5/1992,M,white,irish,M,Somerville,Massachusetts,2138
+ff2f5a05-89d8-4a38-8fd1-853d32f6c444,7/16/1972,10/11/2015,S,hispanic,puerto_rican,F,New Bedford,Massachusetts,2740
+fe010ce5-011c-4376-9848-484780255061,4/16/1999,,,white,french,F,South Hadley,Massachusetts,1075
+1572dac2-ca34-4974-a982-0106877af09b,6/14/1996,,,black,west_indian,F,Newton,Massachusetts,2458
+d2ac31b6-c8ea-4f0a-9b00-e81270063cb0,12/18/1913,12/19/1963,M,white,irish,M,Somerville,Massachusetts,2138
+1318d451-e72f-49b9-8100-e138b5253ffa,5/7/1954,,M,white,italian,F,Somerville,Massachusetts,2138
+50692615-1e32-4643-bb5b-26a050c3ae99,7/16/1972,,M,hispanic,puerto_rican,F,New Bedford,Massachusetts,2740
+e8361c22-8af7-4d50-a7fe-c704f0d44844,8/25/1963,,M,white,italian,F,Boston,Massachusetts,2108
+75183b90-ad9a-4fa2-8de4-140ed82fe1cf,6/14/1951,,M,white,french,M,Belmont,Massachusetts,2138
+29369c94-cb78-4653-a9f3-6d8f1f660c8b,7/31/1945,11/30/1948,,white,italian,F,Somerville,Massachusetts,2138
+8a665a6c-f3b5-4677-bdc0-0636545c1a05,3/3/1974,,S,hispanic,puerto_rican,F,Burlington,Massachusetts,1803
+a5c25239-f399-4d80-baa3-3a907ba919b1,12/18/1913,12/29/1955,S,white,irish,M,Somerville,Massachusetts,2138
+c759e9ec-ead5-4c17-90a9-bd1fb7b67fc4,9/8/1948,,M,white,german,F,Westminster,Massachusetts,1441
+4b32b01e-d121-41cb-8e8b-207a2f863776,7/16/1921,7/12/1969,S,asian,chinese,M,Worcester,Massachusetts,1545
+610c5c77-4794-496c-a43f-02b6974d138b,1/2/2002,,,white,portuguese,M,Somerville,Massachusetts,2138
+5b95891f-ce97-455b-8401-ad6f8fe8ea44,3/20/1987,,S,white,italian,F,Falmouth,Massachusetts,2540
+9edd0838-4e1f-40cf-b71a-bcc93f4e3de6,1/31/1979,,M,white,german,F,Middleborough,Massachusetts,2346
+86b10d95-5125-40df-8837-00868a2b23cd,3/9/1927,,M,hispanic,puerto_rican,F,Westfield,Massachusetts,1085
+99fec124-5b0e-42be-8d01-6a5f9bd9b1d8,10/18/1990,,S,asian,chinese,M,Webster,Massachusetts,1570
+b1ba30ed-eb73-4d3d-8145-aaa387695bcf,12/18/1913,4/19/1992,S,white,irish,M,Somerville,Massachusetts,2138
+88ee02f4-dabe-489d-b963-bb24da871994,7/31/1945,,M,white,italian,F,Somerville,Massachusetts,2138
+da0763d0-153e-4664-aed0-290348f8a7c1,5/20/1942,,M,hispanic,puerto_rican,M,Wenham,Massachusetts,1984
+8ca59c72-6192-44fe-9fc5-3b2fc9b3c138,3/20/1969,,M,white,irish,F,Deerfield,Massachusetts,1342
+5712491f-24ca-4bdd-85ff-da6af465036e,8/13/1990,,M,other,arab,M,Boston,Massachusetts,2108
+96b239d8-1fa7-43b1-870d-3e0694ef9760,8/7/2009,,,white,german,F,Somerville,Massachusetts,2138
+7f2f83b0-06e5-4b24-9e6c-6f56a6738cae,12/18/1913,12/31/2008,M,white,irish,M,Somerville,Massachusetts,2138
+8f9c7333-9718-4e33-8c2d-01ceb5924065,7/16/1921,5/4/1976,M,asian,chinese,M,Worcester,Massachusetts,1545
+587a204e-1ad7-4c8a-9545-272571e8182c,11/5/1945,5/16/2007,M,white,polish,F,Whitman,Massachusetts,2382
+176a4a35-336d-47e3-835a-e8745b674d78,11/15/1927,6/5/2006,M,white,english,F,Medfield,Massachusetts,2052
+5355b9f4-d4ec-4474-9a7a-c6a51752d606,1/26/1971,,M,white,american,F,Orange,Massachusetts,1364
+b235e7a5-c040-405b-9549-bcb02744110d,7/16/1921,3/1/1948,,asian,chinese,M,Worcester,Massachusetts,1545
+d1d6a7a1-b97d-45f7-bd74-89cb3ab52dd6,12/2/1990,,M,white,italian,M,Medway,Massachusetts,2053
+f8ef266d-5195-436b-9619-f25fcdfa769d,11/6/1992,,,white,american,M,Brookline,Massachusetts,2215
+54baf28d-71a9-4743-ac98-ce0b3d2857f7,5/22/1935,8/10/2005,M,white,french,M,Plymouth,Massachusetts,2360
+b338e9f3-7348-4ad7-99c9-559ee5714bd0,11/5/1945,,M,white,polish,F,Whitman,Massachusetts,2382
+b0793645-bd0a-4955-8862-8197f5f4d0df,11/15/1927,6/3/2012,M,white,english,F,Medfield,Massachusetts,2052
+2edd0ea0-8add-46ef-8037-726cf3765aaf,7/16/1921,,M,asian,chinese,M,Worcester,Massachusetts,1545
+3c4ccb4a-dbbf-43d7-8eb6-711da5c3db12,4/18/1960,,M,white,french,M,Malden,Massachusetts,2148
+a52ea0f5-2405-4cbc-8cb1-fc3dffed194c,5/22/1935,1/28/1987,S,white,french,M,Plymouth,Massachusetts,2360
+c3458b5d-e11e-4b72-a1cd-678361071a99,2/24/2000,,,white,french,F,Pittsfield,Massachusetts,1201
+f061f33b-c31f-432e-b0b1-d612f2e77991,6/26/1957,,M,white,french_canadian,M,Saugus,Massachusetts,1906
+a2c3296d-7c28-436c-aa0a-0c61c7957bfc,10/24/2016,,,white,irish,M,West Boylston,Massachusetts,1583
+ede938fc-080a-49b9-9f27-80aa55d77b32,6/21/1961,,S,asian,asian_indian,M,New Bedford,Massachusetts,2740
+d81ad39f-6835-4a1d-8dc4-7ae13a0f9b82,8/24/2007,,,asian,asian_indian,M,Brookline,Massachusetts,2215
+9dfa8ded-bcb2-4a19-ba73-572c74403c78,11/15/1927,1/13/2015,M,white,english,F,Medfield,Massachusetts,2052
+e7c1d134-dbdf-4614-bdbf-811a3b8e7541,11/8/2014,,,white,irish,F,Winchester,Massachusetts,1890
+b92205ed-11e9-4ed1-a7ca-492337e4e791,5/22/1935,,M,white,french,M,Plymouth,Massachusetts,2360
+a9e339ec-b1d9-498f-97b8-9558286df9fd,1/7/2000,,,white,french_canadian,F,Gloucester,Massachusetts,1930
+5526b3bc-d96a-41cb-893a-9126a15feb2f,6/15/1990,,S,white,swedish,M,Taunton,Massachusetts,2718
+18cabfdf-e322-48a5-bf42-86f85aa8c503,12/7/1988,,M,white,scottish,F,Worcester,Massachusetts,1545
+0e2cfd8b-5e16-4607-8136-1a4ef5f27c4f,11/4/1981,,M,white,irish,F,Medfield,Massachusetts,2052
+75cebbf7-9290-4314-a905-0dc52e19cd4a,12/18/1913,12/4/1986,M,white,irish,M,Somerville,Massachusetts,2138
+89423128-fa1a-4321-a7e8-281d3525b472,6/5/1957,,M,white,italian,F,Sandwich,Massachusetts,2563
+312e8a95-dd57-41ca-9e39-0a29095e765a,7/3/1988,,M,white,american,M,Millbury,Massachusetts,1527
+36aac27f-4284-4f81-a6cb-75702c692643,3/9/1979,,M,white,english,M,Westfield,Massachusetts,1085
+5386f731-076b-4f5d-8dc8-962b5fe06226,11/15/1927,11/14/1999,M,white,english,F,Medfield,Massachusetts,2052
+90191db6-38c5-4a99-880a-8bc77cfcc7d4,7/24/1998,11/7/2012,,white,portuguese,F,Rutland,Massachusetts,1543
+67e918e5-1369-4db5-a729-44d93c995cc9,8/26/2012,,,asian,chinese,M,Brookline,Massachusetts,2215
+b7a9d190-61c1-4f74-932e-35ee80037afe,12/1/1996,,,white,irish,M,Boston,Massachusetts,2108
+362994ba-34a9-4304-92ba-9dcd679ea0a5,7/6/1987,,M,asian,asian_indian,F,Newton,Massachusetts,2458
+38dbed94-be1b-43ad-896b-0546327033bf,5/27/1998,,,white,english,F,Boston,Massachusetts,2108
+8293cde0-130f-49d6-b900-e93a7d28c3a3,12/18/1913,7/8/1978,M,white,irish,M,Somerville,Massachusetts,2138
+41f96f87-4afa-4921-9828-8e6dfa1fb854,7/24/1998,,,white,portuguese,F,Rutland,Massachusetts,1543
+9e8a5824-656e-4da4-9699-9d4388db9e1b,5/2/2014,,,white,scottish,M,Waltham,Massachusetts,2451
+e2b98d50-839e-41e8-a58e-7799b4b97df3,11/8/1976,,M,black,west_indian,F,Reading,Massachusetts,1801
+af1dd2c3-da01-449f-8840-b5f9e1aff2ae,11/15/1927,6/3/2015,M,white,english,F,Medfield,Massachusetts,2052
+5aa1d622-862d-479c-80f6-aae435847b8c,9/23/1926,9/30/1999,S,white,french_canadian,F,Bourne,Massachusetts,2532
+aacce8cc-b197-4113-ae53-c4e05bdd61de,9/20/2006,,,native,american_indian,M,Chicopee,Massachusetts,1013
+9c8d4981-bce4-4acf-89fa-8693ca82a4e3,5/11/1955,,M,white,german,F,Milton,Massachusetts,2186
+e0b852ac-9c24-4ce4-812d-ed22d5abd29f,8/14/1960,,S,white,american,F,Ashland,Massachusetts,1721
+e9d25b32-a614-4b41-9f8d-8c94c9892b8a,5/21/2001,,,native,american_indian,M,Saugus,Massachusetts,1906
+ee3fd185-6f48-409e-988c-3d2bcf3b959b,12/30/1931,5/19/2000,M,white,irish,M,Somerville,Massachusetts,2138
+196ce49b-9658-4ef1-a0ad-60a729967104,11/15/1927,6/1/2000,S,white,english,F,Medfield,Massachusetts,2052
+c3b05b96-e1af-4615-816d-f72a905b99ca,3/13/1995,,,white,polish,F,Upton,Massachusetts,1568
+1b462218-f466-4ea0-ad64-692e445a6f17,5/11/1968,,M,white,italian,F,New Bedford,Massachusetts,2740
+e7156e50-b9db-432b-9c0e-07d82e8ad6b6,9/23/1926,6/12/2008,M,white,french_canadian,F,Bourne,Massachusetts,2532
+6b217024-7f01-4bf9-a884-efd2b00572e5,12/14/1960,,S,white,german,F,Amherst,Massachusetts,1002
+cd66818e-e88f-4be0-bbeb-08b8dfc08ed8,4/3/2011,,,white,french,F,Sandwich,Massachusetts,2563
+791e2bd7-0587-4d4a-b530-60552515cf16,12/30/1931,12/17/2016,S,white,irish,M,Somerville,Massachusetts,2138
+ad2d3b21-2259-4363-9818-57eb751f8fc4,11/15/1927,6/5/2005,M,white,english,F,Medfield,Massachusetts,2052
+ad90c5ca-2add-484a-a2c1-267192cea18c,7/24/1965,,M,white,italian,F,North Reading,Massachusetts,1864
+0eb90f43-6182-4d5f-967b-c2567d0edd05,5/29/1924,3/28/2008,M,asian,chinese,M,Boston,Massachusetts,2108
+a065780e-811f-4659-856a-40fefec73f1b,9/23/1926,12/26/2011,M,white,french_canadian,F,Bourne,Massachusetts,2532
+ec86f0d4-2e78-46d3-a704-a5ca2bcc5f9f,12/30/1931,4/18/2001,M,white,irish,M,Somerville,Massachusetts,2138
+a0037bef-1d92-4dd6-b647-b04a52986ec5,11/9/1956,,M,white,italian,F,Plymouth,Massachusetts,2360
+0668b397-92a6-4976-8614-4312623a5375,12/4/1963,,M,hispanic,south_american,F,Boston,Massachusetts,2108
+ac7f204b-6131-474b-b54a-605312fc5e3f,11/15/1927,,M,white,english,F,Medfield,Massachusetts,2052
+4ab86012-062c-468f-b94a-5d653a7283bd,10/4/1993,,,white,polish,M,North Adams,Massachusetts,1247
+a1996e1f-7b5f-4e7c-b1f3-4ee57a993301,9/14/1997,3/21/2010,,white,scottish,M,Milton,Massachusetts,2186
+332f9e54-25c5-4931-847a-17bd2a63abf4,5/29/1924,8/11/2015,M,asian,chinese,M,Boston,Massachusetts,2108
+d5734e1d-0cfa-40f3-916f-3379615d8758,9/23/1926,11/13/2016,M,white,french_canadian,F,Bourne,Massachusetts,2532
+673c9604-1972-421c-be16-d6c820fe29e0,5/4/1979,,M,white,irish,F,Boston,Massachusetts,2108
+5da676bf-59fd-4f8f-90e7-a558878d16d3,10/22/1983,,M,white,italian,M,Hopkinton,Massachusetts,1748
+fab32de3-e77c-473e-9247-e7d988f34c78,9/14/1997,,,white,scottish,M,Milton,Massachusetts,2186
+28377bbe-9b3f-4ec3-b06a-38b0eb239bf2,12/30/1931,,S,white,irish,M,Somerville,Massachusetts,2138
+454a54ce-9f68-4397-9ce5-9d65248e6a41,4/23/2008,,,white,scottish,M,Taunton,Massachusetts,2718
+6f008cf6-8e98-45d6-ac2f-e1db56a7c1e6,11/7/1965,,M,black,african,F,Ludlow,Massachusetts,1056
+28701337-517b-4d8f-8a1f-d921cebf8674,5/3/1979,12/24/1981,,white,english,M,Chester,Massachusetts,1011
+42821a58-4a30-4818-aaf2-3f54191448f5,2/3/1986,,M,white,english,F,Lowell,Massachusetts,1850
+1db08473-2f23-4139-96bd-cf807af0ccd4,9/23/1926,5/9/2011,M,white,french_canadian,F,Bourne,Massachusetts,2532
+ac86298b-8d6f-496d-8e32-14f543410f35,12/26/1969,,M,white,english,F,Wenham,Massachusetts,1984
+d7f54907-1874-4b9d-83e2-05d54232e770,5/29/1924,6/4/2008,M,asian,chinese,M,Boston,Massachusetts,2108
+dfa2ac85-361c-41fa-915a-cf7742457ab2,5/3/1979,,M,white,english,M,Chester,Massachusetts,1011
+4564fc10-fd1e-4e91-b715-4c5fb3ce86b2,4/14/1957,,M,white,american,F,Salem,Massachusetts,1907
+559b58e8-7758-42bc-8bbe-77b3ddf3f174,11/18/1966,,M,white,irish,M,Leominster,Massachusetts,1420
+b6c9b57b-2b32-405f-a79c-12f2920a1c48,2/5/2016,,,white,italian,F,Winthrop Town,Massachusetts,2128
+108a7f7a-27be-4c94-9d22-161e1a523ded,2/25/1994,,,white,scottish,F,Tyngsborough,Massachusetts,
+50f53f94-cb5f-4a45-8f74-01242ab4aa92,5/5/1998,,,white,irish,M,Worcester,Massachusetts,1545
+38b7c03d-8bb3-412c-b755-070a411761dd,9/24/2016,,,black,african,F,Boston,Massachusetts,2108
+30809a39-f558-4edc-81dc-1e760647f7b5,4/15/1958,,M,white,irish,F,Carver,Massachusetts,2330
+38cbe674-8cb2-4a37-b041-25379b7e09e3,7/28/1981,,M,hispanic,puerto_rican,F,Plainville,Massachusetts,2762
+b8a9535d-6a0d-4cb9-a593-845bd528a560,9/23/1926,,M,white,french_canadian,F,Bourne,Massachusetts,2532
+2f289a2f-e203-4b03-81c6-812eb1a9053f,11/21/1994,3/17/2014,,white,portuguese,F,Dedham,Massachusetts,2026
+25d1c27f-de37-40ad-b45a-95a4d99ff9d7,12/26/2005,,,white,irish,M,Springfield,Massachusetts,1013
+7e3eb3d6-d542-4abf-8c2c-3e772802799e,10/8/2007,,,white,french_canadian,M,Nantucket,Massachusetts,2554
+36e52e0e-4e17-4c0e-b23e-af67e0aed83b,11/21/1994,2/26/1996,,white,portuguese,F,Dedham,Massachusetts,2026
+d7e9f67a-0d01-46a6-90aa-4013458d1585,5/17/1969,,S,white,italian,M,Bedford,Massachusetts,1730
+2eee7202-8634-482c-ad27-215f11b2a5a2,11/15/2014,,,white,english,F,Holyoke,Massachusetts,1040
+8f8fc950-ee9c-41c0-89e0-b4091cdc8e0d,1/7/1962,,S,white,irish,M,Boston,Massachusetts,2108
+b5fa3a75-f1bb-4de4-b7d8-83cbb83b346b,4/8/1988,,M,white,italian,F,Marblehead,Massachusetts,1945
+aad28d2c-a057-4772-8106-436ad85b4203,4/12/2016,,,black,west_indian,F,Revere,Massachusetts,2151
+bcdbbb96-4f77-4641-85aa-a13c24e5e5d8,10/11/2017,,,white,italian,F,New Bedford,Massachusetts,2740
+2aa4cea6-a90b-404f-be2d-0926eb1cfb82,5/1/1972,,M,white,irish,F,Kingston,Massachusetts,2364
+73842ecd-1040-406f-892c-11824335b805,11/21/1994,,,white,portuguese,F,Dedham,Massachusetts,2026
+f3ed1733-6369-49c6-93a5-6eb2f6dccade,9/21/2005,,,white,portuguese,F,North Adams,Massachusetts,1247
+8900790e-3278-4357-8edb-95d324d94d39,7/20/1949,2/13/2012,S,white,irish,F,Dedham,Massachusetts,2026
+5a28eeca-f071-499f-bb9e-3d2f7e951a5f,4/23/1971,,M,white,italian,M,West Springfield Town,Massachusetts,1089
+af7e2f92-43cc-4e4f-96c3-6b17219e5e35,8/17/1955,,S,white,german,M,Attleboro,Massachusetts,2703
+a6d1cfdc-7f14-42d0-ae7e-d629b0b38c8f,10/31/1949,,M,white,portuguese,M,Sharon,Massachusetts,2067
+d223020f-8b8d-426a-ae6d-c8584b5bf3d9,11/30/1959,,S,hispanic,puerto_rican,M,Boston,Massachusetts,2108
+a2786f0f-fea2-40ce-bb4a-0b88c9e92030,1/1/2001,,,white,italian,F,Falmouth,Massachusetts,2540
+2fd6ca69-f60d-414c-be2c-a206eead7188,4/1/1983,,S,black,african,M,Boston,Massachusetts,2108
+92fa3ad7-8acc-4afd-b041-0a8e24852163,7/6/1912,,M,hispanic,puerto_rican,M,Worcester,Massachusetts,1545
+93269643-bbd6-4143-ae5b-6dcd98aefd2a,5/29/1924,9/1/1994,M,asian,chinese,M,Boston,Massachusetts,2108
+91888103-c613-4677-b33c-58125338074a,3/19/1924,,M,white,irish,M,Franklin Town,Massachusetts,2038
+5c274a4e-0b65-497a-b696-3ad134d191f0,8/12/1948,7/9/2015,M,white,french,M,Longmeadow,Massachusetts,1106
+36658f5b-272d-4e72-9bac-87798b2a9d39,7/20/1949,3/9/2005,M,white,irish,F,Dedham,Massachusetts,2026
+59dc3b14-350e-4d38-b0aa-6b86171c37c9,6/23/1952,7/4/2009,M,white,american,F,Hull,Massachusetts,2045
+5bce3af0-e767-40d4-9c8a-45f5b60089da,12/14/1984,,M,hispanic,central_american,F,Billerica,Massachusetts,1821
+f3be5f0d-f916-40a7-bb6d-3f9399c6ca7d,2/4/1988,,M,white,italian,F,Millis,Massachusetts,2054
+428d9397-174d-40e5-8622-af0331adf212,7/30/2017,,,white,german,F,Topsfield,Massachusetts,1983
+2f9104e1-8f1b-40bb-bad7-0eb4cf7d8dbd,6/23/1952,,M,white,american,F,Hull,Massachusetts,2045
+09d22638-3406-4455-972e-e1dd2ec19df3,12/26/1910,6/17/1975,M,hispanic,central_american,M,Amesbury Town,Massachusetts,1913
+3be35e97-7133-45f9-b978-16859d715abe,5/3/1948,,M,white,italian,F,Milford,Massachusetts,1757
+163635be-7ded-4e4c-bc82-f0779f1e38fe,9/1/1999,,,white,greek,M,Northbridge,Massachusetts,1534
+57fd629f-8c7f-41ff-aada-47c7aa0eac8a,8/12/1948,6/16/2018,S,white,french,M,Longmeadow,Massachusetts,1106
+e05add67-31dc-4a73-b0b4-5028121a4bd3,7/20/1949,,M,white,irish,F,Dedham,Massachusetts,2026
+00aa1bbe-30f9-4bf8-8e4b-c4290b000a98,3/23/1967,4/7/2011,M,white,portuguese,F,Randolph,Massachusetts,2368
+448ddcdf-092a-4fc0-81d3-1c2e5a505d7f,5/29/1924,8/3/1995,M,asian,chinese,M,Boston,Massachusetts,2108
+2dae67a0-f010-443f-b064-accfb23a4ac5,6/2/1962,,S,white,italian,F,Framingham,Massachusetts,1701
+22f07f01-c523-45b2-9650-e6ad4abd4719,9/12/1960,,S,white,english,M,Northfield,Massachusetts,1360
+1f0cfd33-3153-43e1-aaea-b62fcd479b06,4/25/1946,6/4/2015,M,white,polish,M,Newton,Massachusetts,2458
+8df8216b-4613-447e-9d38-abce9be6e19e,3/23/1967,,M,white,portuguese,F,Randolph,Massachusetts,2368
+5de2824b-7fa3-4c76-9cd3-fc29d3e34e79,12/26/1910,12/31/1996,M,hispanic,central_american,M,Amesbury Town,Massachusetts,1913
+7f4bd29d-35b7-4864-9b91-87c05a7154ab,8/12/1948,,M,white,french,M,Longmeadow,Massachusetts,1106
+40e41062-cff3-4756-ac82-577a2b7d30f4,4/25/1946,5/12/1949,,white,polish,M,Newton,Massachusetts,2458
+02bc1ebf-f3de-4ade-b074-a8d456099253,4/25/1988,,S,white,irish,M,Peabody,Massachusetts,1940
+234e35e1-07d6-4bc4-a573-18501a29d99f,5/12/1946,,M,white,irish,F,Brookline,Massachusetts,2215
+7f413ab7-f7f2-4c58-8327-fb7fa7b9f9c2,6/6/1970,,M,white,german,F,Belchertown,Massachusetts,1007
+1388a615-7f92-480c-9f87-b538eaaf90e2,8/20/1967,,M,white,french_canadian,F,Peabody,Massachusetts,1940
+1d459d81-d036-4fc3-8790-fe73648dce07,4/25/1946,10/28/1999,M,white,polish,M,Newton,Massachusetts,2458
+384a48d0-bee3-4241-bba4-a20cb37f3c58,9/7/1976,,M,white,polish,F,New Bedford,Massachusetts,2740
+60eea180-b071-4483-a341-c4269590f17d,8/28/1972,4/9/2012,M,hispanic,south_american,M,Boston,Massachusetts,2108
+314906f3-fc9c-4ae8-b88c-0bb4bf4b831d,8/26/1981,7/20/2011,M,asian,chinese,M,Boston,Massachusetts,2108
+5ebb9d02-5ac3-4d30-87b0-7d1961b49407,5/21/1980,,M,white,irish,M,Plymouth,Massachusetts,2360
+b08a89b3-ad0c-445b-9497-c3f1a9e53830,1/4/1992,,M,white,irish,M,West Springfield Town,Massachusetts,1089
+87fb7aeb-4bce-4e0f-8461-91ff29d6987a,6/13/1968,,M,white,italian,F,Lexington,Massachusetts,2420
+edfcd0bf-b1dc-4f99-9991-6a2714c5c6fb,11/24/2003,,,white,polish,F,Duxbury,Massachusetts,2332
+2b7e2ef0-8b60-48f9-b552-c1a8e405a72f,8/28/1972,,M,hispanic,south_american,M,Boston,Massachusetts,2108
+9deb3348-caf2-4aff-b1d5-dcbeb8432b2a,8/26/1981,,M,asian,chinese,M,Boston,Massachusetts,2108
+17984484-359f-4114-b602-c2fbe0eb0aa0,12/26/1910,2/9/1998,S,hispanic,central_american,M,Amesbury Town,Massachusetts,1913
+b8f711ff-4644-4741-b273-5d7dcffaaf7f,4/8/2018,,,white,american,F,Woburn,Massachusetts,1801
+9a986234-0348-4e02-a282-66c42d18f2d4,11/16/2004,,,white,english,M,Malden,Massachusetts,2148
+280eb6a0-e172-4a47-a753-3fc21c5d2d29,5/29/1924,4/27/2009,M,asian,chinese,M,Boston,Massachusetts,2108
+f09cb40e-12e5-4a1d-862a-3e28579731ce,5/5/1996,,,white,irish,F,Boston,Massachusetts,2108
+1694085f-c4f6-40ff-b5a7-77d7c16bdfab,8/23/1996,,,white,irish,M,Amherst,Massachusetts,1002
+dec7c01c-144e-47c3-a0e5-f141b39dad59,2/18/2014,,,white,english,M,South Hadley,Massachusetts,1075
+9dcb87a6-d396-4cf5-9615-008f578a33bf,4/15/1943,,S,white,greek,F,Bridgewater,Massachusetts,2324
+d4f46957-54fe-4da0-a661-9f5ebe598291,2/15/1984,,S,hispanic,mexican,M,Boston,Massachusetts,2108
+20d6d47c-b786-4947-8ea1-f8e1c0f3e055,7/24/1974,,M,hispanic,puerto_rican,F,Framingham,Massachusetts,1701
+80fa29f5-d9d3-413e-977a-0d35720776ac,9/15/1997,,,white,french_canadian,M,Chicopee,Massachusetts,1013
+c89ba955-fba3-4d6a-af7f-71f5c7d52c9a,5/29/1924,8/29/1980,M,asian,chinese,M,Boston,Massachusetts,2108
+7bf6cf10-f35b-4bb5-857f-59db35eb7c0c,9/1/2003,,,white,irish,M,Carlisle,Massachusetts,1741
+3c804edf-a32a-4df2-b6e2-58fd2f012cab,12/13/1963,,M,white,italian,F,Norwood,Massachusetts,2062
+5093c6be-9771-43a3-8f76-2f22472e2e28,11/4/1955,,S,white,german,F,Belmont,Massachusetts,2138
+45e12c74-df6f-4032-9240-2219ca03e1fd,12/26/1910,10/25/2002,S,hispanic,central_american,M,Amesbury Town,Massachusetts,1913
+d2b39613-fdf6-4122-8a0b-ee7c6fec511a,4/25/1946,6/20/2002,M,white,polish,M,Newton,Massachusetts,2458
+89c643ac-7da6-4329-bddd-0562b7424bab,9/30/1965,,M,white,american,F,Hopkinton,Massachusetts,1748
+4c8c3dae-ba40-4edc-a384-8d0317fdcc3d,11/17/1950,,M,asian,chinese,F,Cambridge,Massachusetts,2138
+4436107e-6f3c-4a64-a799-0303b62bde5d,1/25/1981,,S,white,polish,F,Cummington,Massachusetts,1026
+fe3de5dc-edd0-40b9-8116-092eec6230fa,5/29/1924,8/6/1989,M,asian,chinese,M,Boston,Massachusetts,2108
+4a76337f-1794-4758-82af-d1ed13680bb6,3/26/2005,,,white,polish,F,Douglas,Massachusetts,1516
+21e7f470-5015-4fdc-8749-12c33e2b51cd,1/7/1955,,M,white,irish,F,Washington,Massachusetts,
+a9a2b3d7-0889-42cf-af3f-be01f98d1a78,7/24/1960,,M,black,dominican,M,North Attleborough,Massachusetts,
+1f8b4d9d-97f0-4fdf-b3ac-24d991ac1ecb,4/10/1968,,S,asian,chinese,F,Everett,Massachusetts,2148
+d14fd46c-ddfc-47f6-8f4e-c118580f3ca1,9/20/2003,,,white,portuguese,M,Somerville,Massachusetts,2138
+ec64aa6a-8ee0-4f51-9d72-632c2767c1d1,4/25/1946,,M,white,polish,M,Newton,Massachusetts,2458
+afab3852-5fd9-4ebf-b2a3-0d38a734d57b,11/25/1989,,S,white,italian,F,Acton,Massachusetts,1720
+c8cd0e59-05a5-4509-a23d-21d2d662f039,5/29/1924,,M,asian,chinese,M,Boston,Massachusetts,2108
+bf4e293c-7dc7-4ca3-92fc-aab16964b172,7/9/1985,,M,hispanic,central_american,F,Springfield,Massachusetts,1013
+e9187548-6f89-4f64-83bd-a7ce7d3fda6d,3/21/1964,,M,black,dominican,M,Brockton,Massachusetts,2301
+4101741a-51be-4b6c-a37e-c6233340ce12,11/15/1993,,,black,dominican,F,Auburn,Massachusetts,1501
+cd12aead-b7f2-4a0f-8ed0-d78105bdd09a,2/12/2019,,,white,german,F,Westfield,Massachusetts,1085
+e631bc8b-1245-47a9-82c2-349cde2a73d3,3/19/1936,7/15/2004,M,white,russian,M,Lawrence,Massachusetts,1840
+7837755d-e65b-410c-a1bc-d9669356901b,3/27/1979,,S,white,swedish,M,Worcester,Massachusetts,1545
+c77616c5-1d78-4a4f-9866-6dc62a2c8b9d,12/29/1963,,M,white,irish,F,Acushnet,Massachusetts,2743
+aeb0e8bb-712e-4bd2-9ffa-a449316b5da5,6/20/1992,,,white,german,F,Haverhill,Massachusetts,1830
+0a5e35b3-3854-45be-8144-7fcfbebcf6f4,9/15/2017,,,white,irish,F,Malden,Massachusetts,2148
+ca68b333-3136-48d6-98a6-a9073db5f540,6/28/1955,,M,black,west_indian,M,Needham,Massachusetts,2492
+ab9ef7ae-a691-4648-ac7f-14e8027ccbb1,8/22/2018,,,white,irish,M,Westminster,Massachusetts,1441
+e39c2f30-25ef-4bd4-960b-bcb8ba1f256f,9/27/1989,2/20/2008,,white,irish,M,Belmont,Massachusetts,2138
+bd62624f-5fd3-4eb7-9d42-a8a2b975dca3,4/11/2019,,,white,italian,F,Plymouth,Massachusetts,2360
+68784ecb-4c99-4430-82c2-c37a66d55b70,3/19/1936,11/21/1991,M,white,russian,M,Lawrence,Massachusetts,1840
+aa9d02ce-682b-428a-88b6-9b090003e580,6/25/1993,,,white,german,F,Rockland,Massachusetts,2370
+08b448de-f155-4977-9ab4-7ca5123aca32,9/27/1989,,M,white,irish,M,Belmont,Massachusetts,2138
+bdd21d4a-3a33-4084-99c5-f0027806d578,3/11/1958,,M,white,italian,M,Abington,Massachusetts,2351
+650c5ab2-a42f-458e-b608-d91e12598f47,9/12/1962,,S,white,german,F,Saugus,Massachusetts,1906
+a96ef49f-6a8e-4533-95bc-d10c489aa042,10/6/1996,,,white,portuguese,M,Amherst,Massachusetts,1002
+db34c9ca-493f-4042-8201-0bb70f2edc7e,7/20/1983,,M,white,greek,F,Grafton,Massachusetts,1519
+da6a8b47-6f7e-4a00-a742-c1322a3735be,7/19/2011,,,white,french,F,Sandwich,Massachusetts,2563
+8eda8823-462e-4940-8d7f-98e5af771b70,12/25/2002,,,white,portuguese,M,Shrewsbury,Massachusetts,1545
+fb67b475-cef3-4fac-a13a-4b7aba4850b1,12/16/1972,,M,white,french,F,Cambridge,Massachusetts,2138
+c92bb5df-8f4e-4bd3-a3bb-b89391aa0006,6/27/1964,,M,hispanic,south_american,M,Marlborough,Massachusetts,1752
+01e95570-44e9-4786-81de-3b2464f762df,5/1/1991,,S,hispanic,puerto_rican,F,Danvers,Massachusetts,1923
+7fa09e80-9b99-46d6-ac7b-aa1bdc997a5a,3/19/1936,,M,white,russian,M,Lawrence,Massachusetts,1840
+1062fccf-9df8-45a5-ac60-737a7f033bc5,7/16/1953,,M,asian,chinese,M,Peabody,Massachusetts,1940
+5758ad4f-ac26-47d6-83ca-a4c350fe64cc,12/3/1987,,M,white,irish,F,Worcester,Massachusetts,1545
+b58b0d68-77b7-4067-a66a-5cbdd6343450,10/23/2002,,,white,english,M,Rockland,Massachusetts,2370
+bde92c8e-4f2e-4b0b-894f-fbb36a811f83,11/16/1984,,S,white,italian,F,Milford,Massachusetts,1757
+6c2d24e5-1acb-4137-95b0-32b798501bcb,6/4/1956,6/9/2011,M,white,italian,M,Marlborough,Massachusetts,1752
+28b9fcb3-3321-4bb9-8c94-faa1102f8bac,8/16/1936,1/17/1954,,white,italian,F,Groveland,Massachusetts,1834
+02c10afd-4f32-4798-9d9a-856e23f6874a,8/10/2009,,,white,french_canadian,F,Stoneham,Massachusetts,2180
+32540c13-7311-41e4-befe-84af4080066d,9/5/1949,,M,white,italian,F,Brockton,Massachusetts,2301
+d333d9fa-5063-4f64-af2c-0850872d910c,6/4/1956,,M,white,italian,M,Marlborough,Massachusetts,1752
+7824c625-c94e-49be-82cb-a7726db5cd24,6/23/1970,,M,white,french,F,Milton,Massachusetts,2186
+24a56d44-ef73-4346-9f6d-a9bb2a203ae5,9/27/1962,,M,white,english,M,Wellfleet,Massachusetts,2667
+09d88192-4b34-4958-80ce-468d532335f6,2/15/1994,,,white,american,F,Boston,Massachusetts,2108
+0c0c94da-f5ca-4880-8841-589b83fc16ee,7/6/1973,,M,white,french,M,Belmont,Massachusetts,2138
+585badbd-11fa-4e8d-8b1d-dae55ca7553f,12/24/1960,,M,white,irish,F,Ludlow,Massachusetts,1056
+187dcde1-c463-4db0-8604-0fc1db5adffd,5/1/1971,,M,white,german,M,Peabody,Massachusetts,1940
+2bf62d41-c1ed-4a3b-8b00-db6b41825316,8/16/1936,,M,white,italian,F,Groveland,Massachusetts,1834
+df4f29c7-18fd-4de4-aa4a-5109cd579101,2/28/1979,,M,asian,chinese,F,Boston,Massachusetts,2108
+231a3978-2705-4fb5-b0e9-54c5235d4f66,8/11/1947,,M,asian,chinese,F,Middleborough,Massachusetts,2346
+1fa1219b-f9a1-4c48-8d99-2f1347bb29d4,5/21/1963,,M,white,irish,F,Marshfield,Massachusetts,2050
+522c5eac-640e-4ae5-aecf-80297c50475b,11/26/1971,,S,black,african,F,Haverhill,Massachusetts,1830
+3cacd29f-b9b7-4f4e-ad20-0916dc4f20b5,4/30/1968,,S,black,dominican,F,Westfield,Massachusetts,1085
+f7e9080f-6fc8-4b33-9662-ed2c5aeacd7f,3/10/2012,,,white,portuguese,F,Agawam Town,Massachusetts,1001
+06b99d58-12a5-42be-8ffa-5cd7e94e0d8e,8/5/2006,,,hispanic,puerto_rican,F,Wilbraham,Massachusetts,1095
+684888f2-1c32-4e76-bca2-b0495546722a,1/6/1977,,M,white,english,F,Westford,Massachusetts,1886
+06d3476e-3176-48e3-ad77-38469f067290,4/17/1990,,M,white,american,M,Reading,Massachusetts,1801
+1184ffba-48c3-4b04-b5d0-4da25e357ac8,1/19/1999,,,white,italian,F,Lowell,Massachusetts,1850
+90a16369-61bf-4698-a066-6259ff54b7a5,2/20/2007,,,white,polish,F,Brewster,Massachusetts,2631
+5607eb6a-7706-400b-91f1-058f07ac87d8,1/26/1977,,M,white,irish,M,North Attleborough,Massachusetts,
+cc0a0add-65ac-4eed-a587-d2b1e2b34e3b,8/6/2011,,,white,russian,M,Lynn,Massachusetts,1901
+3fa12c18-66c5-4be3-b68a-08415ee43124,12/16/1945,7/12/1951,,white,german,M,Westford,Massachusetts,1886
+8aa674ae-6fb7-407e-9464-70ed2c29995e,10/8/1998,12/31/2009,,white,french,M,Attleboro,Massachusetts,2703
+88622135-928e-4c15-975f-8f369a0b6682,10/20/1937,,M,white,portuguese,M,Hadley,Massachusetts,1035
+78695607-f43c-47bd-8e67-d0e6ae060342,6/30/1970,,M,white,english,F,Carver,Massachusetts,2330
+6ef35b9c-5747-44ac-9f39-a181b1477daf,5/8/2007,,,white,italian,F,Walpole,Massachusetts,2081
+f3f39f70-0f16-4197-a215-dff0191bc71a,10/8/1998,6/17/1999,,white,french,M,Attleboro,Massachusetts,2703
+16807586-40e1-4816-9c50-26d380cbe2ec,5/26/1971,,M,hispanic,puerto_rican,F,Ipswich,Massachusetts,1938
+5ce6ab8b-f18b-40c1-bba4-1a0eb245a286,12/9/1950,,M,black,african,M,Boylston,Massachusetts,1505
+c1d3f413-7f9b-4fa4-9bc5-88ad1993c5e8,2/3/2010,,,hispanic,puerto_rican,M,Beverly,Massachusetts,1915
+336b2a7e-3dec-4745-930e-4a98cb07092e,4/13/2019,,,white,american,F,Saugus,Massachusetts,1906
+ecde40bd-c072-4d6d-9fc8-2234595a4462,12/16/1945,,S,white,german,M,Westford,Massachusetts,1886
+7c4ff333-9c82-413b-94f1-dbddd9f48746,10/8/1998,,,white,french,M,Attleboro,Massachusetts,2703
+deb50287-c77d-48e4-9698-64b5f4a93385,4/30/1990,,M,white,italian,F,Boston,Massachusetts,2108
+2ef8545a-00e7-4d0d-9258-4b5258d1624f,6/10/2015,,,white,german,M,Sharon,Massachusetts,2067
+97107399-2cf9-4408-9159-53bf17719ee5,2/2/1945,,M,white,italian,M,Malden,Massachusetts,2148
+6112c068-cb66-4bdc-8581-d1e0831a271f,11/21/1996,,,white,italian,F,Boston,Massachusetts,2108
+5649824e-5687-4f81-bee1-b39ad37945fb,3/30/1958,,S,white,irish,F,Milford,Massachusetts,1757
+88ba60c5-a16d-4557-87a1-4ac581fc7848,8/6/1963,,M,hispanic,puerto_rican,M,Harvard,Massachusetts,1451
+479f39ac-5d90-438e-a35f-150ec4829a28,9/6/1974,,M,white,irish,F,Taunton,Massachusetts,2718
+ee5be46b-f5dd-4da7-8f0b-476c21bbfe61,5/10/1966,,M,white,irish,M,Easton,Massachusetts,2334
+b7d32c99-fbb2-44bc-84d2-f123f794325f,6/8/1919,9/19/2007,S,white,french_canadian,M,Westport,Massachusetts,2790
+4e3e5c6e-3d9f-42ce-be76-2f461b25b90a,3/30/1955,,M,white,portuguese,F,Boston,Massachusetts,2108
+2c0dd245-37c3-42f9-802f-1027de4f4686,2/28/1945,,M,white,russian,M,Marblehead,Massachusetts,1945
+0d9425f8-e035-4223-9f18-8ead1ceb79b6,9/29/1969,3/29/1999,S,black,dominican,M,Walpole,Massachusetts,2081
+cfb564cc-dc0d-4649-9798-b96cb11e94ce,9/9/1989,,M,white,german,F,Millbury,Massachusetts,1527
+daf41003-15c2-4ec6-9b7e-d484e9ba1ff2,5/30/2017,,,white,irish,F,Brookline,Massachusetts,2215
+5d6ffaa2-91ec-4d88-9476-38739e48b7d9,1/8/2013,,,black,dominican,M,Boston,Massachusetts,2108
+8dbfaa31-60e6-433a-9354-1b8b060f7203,8/3/1940,,M,white,american,F,Easton,Massachusetts,2334
+607fe044-884f-4391-8803-8801651e8bf7,6/8/1919,11/22/1974,S,white,french_canadian,M,Westport,Massachusetts,2790
+35b6292e-650e-4715-80c2-8956b76a1259,7/24/2003,,,white,portuguese,M,Williamstown,Massachusetts,1267
+d68af045-2a36-4e3b-baee-d45436b1b735,9/29/1969,,M,black,dominican,M,Walpole,Massachusetts,2081
+6930ebbf-09f8-4051-9355-2bdd0ea88b66,5/3/1980,,M,white,irish,M,Yarmouth,Massachusetts,
+c12acfbf-8760-444e-afec-c02dc381cffa,5/19/1966,,M,white,irish,F,North Adams,Massachusetts,1247
+bc987004-6b37-4788-ac75-4f0100fe3418,5/24/1950,6/9/2013,M,hispanic,puerto_rican,F,Billerica,Massachusetts,1821
+d3947b92-573e-446a-ad62-9eca7f649508,7/8/1995,,,white,french,F,Wakefield,Massachusetts,1880
+b29ab5fa-5e2a-44ea-91bb-20a960e1f2b9,6/8/1919,3/26/1990,M,white,french_canadian,M,Westport,Massachusetts,2790
+cf8b2123-7cfb-40ba-99ee-facd81a3df65,7/15/1980,,M,white,american,M,Plymouth,Massachusetts,2360
+84438ac1-a1b5-4e6c-937b-28c6719d490a,4/11/1984,,M,white,portuguese,F,Boston,Massachusetts,2108
+8802b06a-af32-4e21-a6e4-d990bcb98275,3/8/1960,,M,white,irish,F,Foxborough,Massachusetts,2035
+5a4e27dc-74ac-400c-b78a-4b5a027f5a26,3/25/2008,,,white,french,F,Sudbury,Massachusetts,1776
+d9b4327f-2416-447f-94ab-59a7c5a5b542,1/2/1947,,M,asian,chinese,M,Westborough,Massachusetts,1581
+fca9ec3b-50d0-4eeb-bf4c-aedb110db087,11/3/1975,,M,white,american,F,Cambridge,Massachusetts,2138
+af28cda2-38cc-4e93-bc63-5f153e1b22c6,3/12/1990,,M,white,irish,F,Springfield,Massachusetts,1013
+59a04668-7e92-45e0-8eaa-7fac73cc538c,7/21/2015,,,hispanic,mexican,M,North Andover,Massachusetts,1845
+6bd84e46-34d4-4977-8c90-155b0ef389e2,5/24/1950,12/16/2012,M,hispanic,puerto_rican,F,Billerica,Massachusetts,1821
+637afd57-1a24-4cc3-ada1-e5c860630a5e,9/28/1963,,M,white,italian,F,Harwich,Massachusetts,2645
+2251c4c7-241a-4898-bf9a-eecbe2485c77,5/25/1980,,M,white,french_canadian,M,Springfield,Massachusetts,1013
+a1449b75-f5d2-4940-8b3d-eadd7a8f4623,5/31/1971,,M,white,italian,M,Chelmsford,Massachusetts,1824
+d5dac27b-06f0-4391-8414-0f59890a8247,6/8/1919,,M,white,french_canadian,M,Westport,Massachusetts,2790
+f0811c4b-00d7-4dc0-9c44-19aca8a49a2a,2/28/2006,,,asian,asian_indian,F,Lowell,Massachusetts,1850
+d2801d8b-8b4d-4224-b203-6d60dd2383bd,7/6/1981,,M,white,english,F,Quincy,Massachusetts,2169
+6d8b031e-e3b6-425f-93bf-cad76325d241,8/3/1973,3/14/2014,M,white,irish,F,Marlborough,Massachusetts,1752
+51ac9f54-729b-430f-8e5c-90720330215b,5/24/1950,,M,hispanic,puerto_rican,F,Billerica,Massachusetts,1821
+1f9990ac-3155-4025-8c48-8b681a0fe0b4,8/23/1959,5/17/1998,M,white,german,M,Boston,Massachusetts,2108
+6d672af1-a0df-4b7f-8156-75f53a5bbe8e,11/3/1995,,,white,italian,F,Quincy,Massachusetts,2169
+3224c6b6-1847-4b7f-9520-f36c525a5883,9/14/1986,,M,black,african,F,Boston,Massachusetts,2108
+b0e22aab-696c-444b-86bf-e13a2e42c719,10/19/1941,,S,black,west_indian,F,Adams,Massachusetts,1220
+e3f3babb-9cad-4e1c-b698-5da76d065cd3,6/6/2013,,,white,english,F,Rockland,Massachusetts,2370
+8e4e61dd-ed6a-4133-97d2-99fcfae49d6d,9/16/2010,,,white,irish,M,Marlborough,Massachusetts,1752
+e2f8c5aa-efef-4167-a25f-7f0756a16f31,10/8/2018,,,white,irish,M,Boxborough,Massachusetts,1719
+362a0d59-3be8-4cb6-8ac6-777288fa7ea8,8/23/1959,,M,white,german,M,Boston,Massachusetts,2108
+e4b90052-c296-4bc5-902b-c29ab7167459,8/3/1973,,M,white,irish,F,Marlborough,Massachusetts,1752
+2f170ba1-9260-43e1-ae38-2bbab458e572,2/19/1970,,M,white,irish,F,Rutland,Massachusetts,1543
+5626fdc3-1b57-4572-8659-c0b35cc10dfe,12/4/1947,,M,white,italian,M,Harwich,Massachusetts,2645
+5bf66cc8-007d-425f-a594-4c422d6fee0e,10/6/1986,,M,white,portuguese,M,Brockton,Massachusetts,2301
+fcbb6818-7f94-4ea2-b87b-1d0de7a13bbf,10/8/1958,,M,black,african,F,Tewksbury,Massachusetts,1876
+f8221eb7-81d1-45c1-b701-15948cd7bce1,5/17/1985,,M,asian,chinese,F,Boston,Massachusetts,2108
+0ae1b16f-ac32-4431-9609-f341c8ec929d,9/8/2017,,,white,italian,M,Millis,Massachusetts,2054
+bb223207-a727-4b86-8197-bcbd31799c73,12/25/1970,,M,white,polish,M,Cambridge,Massachusetts,2138
+fb538307-c13a-4605-9b7f-f9689654392a,5/26/2019,,,white,american,F,Bedford,Massachusetts,1730
+79aa2e68-aef8-43ab-a4ec-491799a53169,11/8/1970,,M,white,english,F,Bourne,Massachusetts,2532
+d6e49c4f-daa7-4994-9763-3c21230b425a,4/29/1999,,,black,african,F,Gardner,Massachusetts,1440
+fccec1d8-2607-4796-b8d2-4f033163e33c,4/24/1967,,M,asian,asian_indian,F,Brookline,Massachusetts,2215
+3d019a80-8ec0-45d3-a9e2-7e30b7c4b43a,5/18/2017,,,white,irish,F,East Longmeadow,Massachusetts,1028
+0b095324-d7d3-47cb-aebc-ab04d63a2b1e,11/6/2015,,,white,greek,F,Weymouth Town,Massachusetts,2188
+4b25d872-a999-497f-af05-cef088960233,4/9/1976,,M,white,irish,F,Attleboro,Massachusetts,2703
+2137a404-da0e-45b0-8d21-0e79f3c147d2,6/27/1984,,S,white,irish,F,Pembroke,Massachusetts,2359
+fabaedca-8ee4-4b5b-a286-d61c0ca6e4a5,3/10/1974,,M,hispanic,south_american,M,Haverhill,Massachusetts,1830
+b49773c7-4d96-44da-b44c-33454474c286,11/14/2005,,,white,english,F,Amherst,Massachusetts,1002
+4f646031-5b94-4e85-95f9-be5d067e13c9,2/27/1995,,,white,american,M,Methuen Town,Massachusetts,1841
+f9021aab-83bd-4105-a84b-cf626f1e33bc,9/15/1969,,M,black,dominican,M,Worcester,Massachusetts,1545
+503218ff-fc08-48cf-8671-612123fd4012,2/18/2014,,,white,irish,M,Watertown Town,Massachusetts,2472
+6cfcbb63-4536-44e1-a208-d462cfb6ae4a,5/13/2017,,,white,english,F,Middleborough,Massachusetts,2346
+e605e635-4404-403f-9e0e-9c03e717788e,2/24/1969,,M,white,french,M,Pittsfield,Massachusetts,1201
+a04f4434-f621-4c3d-85c0-6870eaac8dc6,7/25/1965,,S,white,irish,F,South Hadley,Massachusetts,1075
+039d9dd3-9677-41e3-b68e-816dce40117b,1/4/1950,1/10/2001,S,white,french_canadian,F,Lexington,Massachusetts,2420
+3b091160-d598-4895-8c9e-ec2b5e4c64f6,3/11/1995,,,white,portuguese,F,North Adams,Massachusetts,1247
+5aa1b770-7e59-4673-b039-397c3ca315ab,6/6/1957,8/12/1999,M,white,irish,M,Mansfield,Massachusetts,2048
+305601ba-c955-4413-9c42-d684fea3972c,11/4/1992,,,white,irish,F,Sutton,Massachusetts,1590
+bbd99237-93c3-4a73-8edd-705612ddf4a0,6/6/1979,,M,white,portuguese,M,Quincy,Massachusetts,2169
+35133cef-aa58-4646-86bc-24b30694e930,8/24/1980,,M,white,irish,F,Wellesley,Massachusetts,2457
+f66ba3c3-21f2-427e-95b7-6499ab3d2c7c,10/25/1964,,S,white,irish,M,Dartmouth,Massachusetts,2714
+ff06a3a1-e8df-4af4-9c8d-fefa55d13049,9/14/2011,,,white,polish,M,Braintree Town,Massachusetts,2184
+eefc91ad-f9bc-42de-a711-e3bd09506b48,1/4/1950,,M,white,french_canadian,F,Lexington,Massachusetts,2420
+bee45c62-5744-4738-aebb-5b7e9c6acf3f,11/14/1946,,M,white,scottish,M,Newton,Massachusetts,2458
+0187a7d3-72c3-468f-99ac-3b657de9a39b,6/6/1957,,M,white,irish,M,Mansfield,Massachusetts,2048
+44198216-3c60-4d19-9476-92426ac377d9,12/19/1948,,M,white,english,F,Dracut,Massachusetts,1826
+24aacc63-f4e6-40a2-bf31-171686a3d454,8/23/2007,,,white,portuguese,M,Lowell,Massachusetts,1850
+a1b277a7-1580-4d29-881a-8118535d5ef8,10/24/2012,,,white,polish,M,West Newbury,Massachusetts,1985
+e7989c75-2b06-4a19-bb64-efc215337e72,7/20/2014,,,white,french_canadian,M,Marblehead,Massachusetts,1945
+0b8d045b-5935-420d-963a-a470cd5e3a8d,10/17/2011,,,black,west_indian,F,Brockton,Massachusetts,2301
+a1070dc4-575b-49ca-a686-e7c5fc6697c0,4/24/1996,,,white,scottish,F,Taunton,Massachusetts,2718
+48b2a32d-aab6-44d6-9379-d0c409120032,4/2/1964,,M,asian,asian_indian,M,South Hadley,Massachusetts,1075
+8fcfa403-31f2-4199-8360-ca562e533388,9/9/1977,,S,white,irish,M,Stoughton,Massachusetts,2072
+ddcb71a7-ad03-4713-a0fe-f8dbc1ff2017,7/26/1934,,M,white,italian,F,Weymouth Town,Massachusetts,2188
+7af200dc-6a15-45ff-a7d9-4b56eb5809c8,4/4/1949,,M,white,german,M,Wareham,Massachusetts,2571
+6ff609a4-d510-425d-a064-5ea8b0e733ad,7/26/1976,,M,white,scottish,F,Boston,Massachusetts,2108
+0f00f006-8c76-4453-9bd1-7da35482a692,7/27/1990,,S,black,dominican,M,Fall River,Massachusetts,2720
+1954e4f7-f46f-4934-bce0-799afbb2a1cd,1/15/2014,,,white,french,M,Cambridge,Massachusetts,2138
+b88a596d-a7b3-4a20-b282-cf971da82b8a,10/6/1997,,,white,irish,F,North Attleborough,Massachusetts,
+9b80fa04-b8bd-481d-905e-36074e64fc27,3/27/1963,,M,white,portuguese,M,Hudson,Massachusetts,1749
+fe02a70b-0f8b-4f4b-b32e-dfad6bff67d3,3/8/1958,,S,white,french,M,Somerset,Massachusetts,2725
+04bebea7-6713-48ad-8ae0-802db9b74906,8/2/2002,,,white,irish,F,Lowell,Massachusetts,1850
+5f07a5a1-2ed4-43c0-ba91-24af0cdc1811,9/1/1958,,M,white,english,F,Peabody,Massachusetts,1940
+f4abaf4a-b7e9-4508-9d51-f6484d8a7008,4/22/1997,,,white,english,F,Somerset,Massachusetts,2725
+9d4e967d-4af8-4ce4-b6c5-6cc8fbc93973,2/3/1972,,M,white,polish,F,Peabody,Massachusetts,1940
+08aed25d-085b-49af-adf0-9ae3f1c16574,5/21/1986,,S,white,french,F,Boston,Massachusetts,2108
+170a6025-c359-4f0e-941d-b6d3b21f375a,1/11/1951,,M,white,italian,F,Lexington,Massachusetts,2420
+9f70c3a9-cfa1-4acf-9032-98a8f05d9d94,10/22/1996,,,white,french,F,Hull,Massachusetts,2045
+c05f034c-905d-4237-a90e-166b63a5074b,8/2/2002,,,white,english,M,Brookline,Massachusetts,2215
+b34b54b9-3e58-431e-b240-57f70ec02512,8/23/1974,,M,asian,chinese,F,Boston,Massachusetts,2108
+5d12ebbd-49bc-463f-9904-dc54c2f4d67f,5/15/1978,,M,hispanic,puerto_rican,M,Worcester,Massachusetts,1545
+78e4461e-13f9-4d8c-9e8b-56ed8ec3c8c8,6/25/1971,,M,white,irish,F,Chicopee,Massachusetts,1013
+99349adc-fe30-4fa0-b8a7-2922b1d6e9aa,8/18/2011,,,white,french,F,Holden,Massachusetts,1520
+9b9fccd1-2191-4463-b97d-fd2adc6f1095,6/24/1964,,M,hispanic,puerto_rican,F,Dudley,Massachusetts,1571
+97acbcb3-253a-49fc-8d50-d4534d373032,8/14/1953,,M,white,english,F,Falmouth,Massachusetts,2540
+355eec4d-e4c0-4252-a5d4-06490c5fbb7f,3/2/1999,,,white,english,F,Haverhill,Massachusetts,1830
+a8fa0cdb-325b-405d-81bd-846487f147d7,5/22/1979,,M,white,french,F,Revere,Massachusetts,2151
+d0803f0d-4dfe-4ba7-91b0-d43a46c1e820,1/28/1954,6/13/2008,M,asian,asian_indian,F,Brookline,Massachusetts,2215
+69ad351e-82aa-4a68-bd5e-c9515c7cfa46,6/27/1962,,M,white,french_canadian,M,Warren,Massachusetts,1083
+8ed3d256-3c07-40f1-9372-84d8a40d8587,12/26/1966,,M,hispanic,puerto_rican,F,Boston,Massachusetts,2108
+f63d3b32-01e3-4d85-99ff-17abbed99045,7/6/2003,,,white,irish,F,Brookline,Massachusetts,2215
+5db80033-0840-40f1-9542-d906957856df,12/3/2002,,,white,irish,M,Worcester,Massachusetts,1545
+f33fe5ae-8e21-4bd8-a3e7-642db1ea8270,10/11/1971,,M,black,dominican,M,Boston,Massachusetts,2108
+4345b0de-406f-40b6-aef1-795669b0b4f5,4/29/1954,,M,white,french,M,Plymouth,Massachusetts,2360
+f221d03b-1cee-496b-8368-2fc865cfd599,1/28/1954,,M,asian,asian_indian,F,Brookline,Massachusetts,2215
+94e495a3-ce8e-4e33-a3bc-f5c38d7a5836,7/4/2016,,,white,italian,F,Newton,Massachusetts,2458
+703e11b3-3076-4113-b492-8cdacf3ce8d7,1/23/1957,,S,white,english,M,North Attleborough,Massachusetts,
+ddd4f5ef-0656-4151-a8ac-b90da2b32311,5/29/1996,,,white,scottish,F,Lunenburg,Massachusetts,1462
+4492c7a0-bdff-4a2e-a2e5-78f5748d5bad,9/19/2005,,,white,german,M,Boston,Massachusetts,2108
+8d359560-6cdf-455d-a0fe-3a0d15267325,3/28/2002,,,white,american,M,Brookline,Massachusetts,2215
+16b85b85-e270-4393-84aa-04356402686b,8/13/1967,,M,white,scottish,M,Nantucket,Massachusetts,2554
+031dbf35-b44f-4e4e-b7f3-6a9e374c6d8a,5/9/1984,,M,white,swedish,F,Westford,Massachusetts,1886
+983cf336-b699-41a6-acd7-984a5bd06be7,12/27/1987,,M,white,italian,M,Southbridge Town,Massachusetts,1550
+15b19fe5-0d5e-443f-98f3-633659ab8b0e,12/1/1990,,M,asian,chinese,F,Cheshire,Massachusetts,1225
+ced96ea5-ee49-4c43-9e79-67497f125302,12/29/1972,,S,white,french_canadian,F,New Bedford,Massachusetts,2740
+6b3f5fe2-2a0e-4e9d-aa15-a13c5e18b59c,5/10/1958,,M,white,italian,F,Middleborough,Massachusetts,2346
+4a09770a-9130-4e0b-af78-62911f861121,4/6/1968,,M,hispanic,puerto_rican,F,Andover,Massachusetts,1810
+09e6a4fc-b537-428c-ab46-c9f8c8c23462,12/9/1965,7/28/2016,M,black,african,F,Shrewsbury,Massachusetts,1545
+cd874d14-ee2c-4613-9f68-7b3e1e29208a,10/16/1963,,M,white,irish,F,Norfolk,Massachusetts,2056
+bd470b0a-f5de-4ff7-a0e4-7be4db282761,11/25/1959,,M,white,irish,F,Sharon,Massachusetts,2067
+c94f91d9-9f0e-4a20-8852-620f7e4d4be5,12/26/1910,,M,hispanic,central_american,M,Amesbury Town,Massachusetts,1913
+4a15481c-9cbd-464f-a755-db9a34843d1d,11/12/1961,,S,white,english,F,Everett,Massachusetts,2148
+eaa56d35-478e-4cbb-b40f-c35a89d7d60c,6/22/1963,,M,white,irish,F,Brookline,Massachusetts,2215
+0103b1d5-028a-4b8d-b87f-89a561c7475a,4/6/1967,,S,white,scottish,M,Methuen Town,Massachusetts,1841
+284c0885-18ac-4681-9903-e7fe2c0ff9f5,3/12/1943,,M,black,african,M,Boston,Massachusetts,2108
+71a63b44-8c1d-4e11-b53b-73621bf003cb,8/27/2018,,,white,french_canadian,M,North Attleborough,Massachusetts,
+715c3de7-0a37-475e-a2f8-fd74e35c73b0,6/9/2012,,,white,italian,M,Lynn,Massachusetts,1901
+8355b151-c117-4e6f-ab14-921672332340,12/9/1965,,M,black,african,F,Shrewsbury,Massachusetts,1545
+9884ceb8-bc18-42c2-89c9-dacab6a8991a,7/7/1993,,,white,english,M,Springfield,Massachusetts,1013
+c054c412-1df0-4f33-ab61-933717c7ebcb,5/17/2013,,,white,italian,M,Ipswich,Massachusetts,1938
+00834e70-87ac-4c24-9989-3676c4c2e7c7,3/5/2011,,,white,english,F,Westford,Massachusetts,1886
+a418a25e-f27a-4db5-9f55-5713703b9de7,10/4/1994,,,asian,asian_indian,M,Worcester,Massachusetts,1545
+81ac9a6e-42a9-46fe-bea2-96f8f8f8d24c,10/27/1957,,M,white,american,M,West Springfield Town,Massachusetts,1089
+b20a1da8-bc5f-45ae-abe8-98c0373cab14,5/20/1968,5/15/1978,,black,west_indian,F,Brookline,Massachusetts,2215
+7b05ed23-3c40-4457-bda0-0ac8438ca645,11/9/1936,7/15/1985,M,white,irish,M,Sunderland,Massachusetts,1375
+2cc2e348-4e8f-4ada-8db5-b20e4ba7f843,1/11/1998,,,black,west_indian,F,Attleboro,Massachusetts,2703
+bc42879f-a039-40a5-b550-386b593a19b6,3/12/1971,10/19/1986,,white,german,M,Arlington,Massachusetts,2474
+d845ecff-f169-4345-bdc2-14317c46c6de,5/5/1988,,M,white,english,M,Springfield,Massachusetts,1013
+76ed031e-e6b2-4c78-a875-053e17629915,12/18/1990,,M,white,swedish,F,Stoughton,Massachusetts,2072
+27f664e1-9481-402f-a281-b891a93877bc,4/29/1992,,S,white,french,F,Boston,Massachusetts,2108
+0394302b-a8b4-4cbb-92ba-5d44a0d51e55,5/13/2008,,,white,greek,M,Framingham,Massachusetts,1701
+6ff09802-5555-4123-9624-486b0991a8c5,10/1/2015,,,white,irish,F,Hull,Massachusetts,2045
+3552a1bc-871b-48af-a3a3-b662c93eaaeb,3/12/1971,,M,white,german,M,Arlington,Massachusetts,2474
+c02b3c78-d818-4fea-89e1-fe1f36de31a6,12/17/1954,,M,white,irish,M,Cambridge,Massachusetts,2138
+2d8e7b1d-c824-4005-8fca-69988535dc5e,5/20/1968,,S,black,west_indian,F,Brookline,Massachusetts,2215
+9f19f54f-d0a4-47d8-a445-f279481a9c9d,4/18/2017,,,white,polish,F,Billerica,Massachusetts,1821
+e4cad09a-1c62-4cbe-aee7-38c7140482e7,5/21/1968,,M,white,english,F,Uxbridge,Massachusetts,1569
+21d6624a-e88e-4a8e-ad05-bd1448f13c0e,8/30/2013,,,white,irish,F,Chicopee,Massachusetts,1013
+c6d19748-b435-474e-9234-81aa9a8b4f89,12/15/2016,,,white,russian,M,Northampton,Massachusetts,1053
+ed5d29b1-8cc1-4585-9c55-4334b6a58eb0,10/15/2013,,,white,swedish,M,Methuen Town,Massachusetts,1841
+52cd29f4-2c3e-46aa-b090-e08b50c3dfb0,11/9/1936,2/11/2006,M,white,irish,M,Sunderland,Massachusetts,1375
+95917e34-e574-49c2-9914-08e5d9189742,7/21/1968,,S,white,italian,M,Barnstable Town,Massachusetts,2601
+5b062dbf-dbd3-45ef-8555-6673caea7ba6,10/16/1972,,M,white,italian,F,Milton,Massachusetts,2186
+c91c71f4-efbf-46e1-88ca-2a2ac29842ec,7/17/1989,,M,white,polish,M,Dunstable,Massachusetts,1827
+53255661-ca60-4d50-89ef-29c28ec028e9,7/3/1952,,M,white,portuguese,F,Lynn,Massachusetts,1901
+8c55276b-7641-4c2e-bfc2-bed019cdde52,9/17/2014,,,white,portuguese,F,Acushnet,Massachusetts,2743
+c0edf505-ee2d-4ddb-bc7e-68f3ea91e960,4/18/2017,,,white,italian,M,Chelmsford,Massachusetts,1824
+58b0ef88-b5e8-4732-a6eb-f8cb3231f8d5,5/19/1968,,M,white,irish,F,Sharon,Massachusetts,2067
+ed97f8d6-804d-4204-9824-62bb48a31f37,11/9/1999,,,white,italian,M,Somerset,Massachusetts,2725
+68d152b9-f0c5-4fa7-b2ec-4f31e108ff34,4/8/2001,,,white,italian,F,Lowell,Massachusetts,1850
+e83030e1-85d6-4ad2-8da2-76afd75ff6e3,1/8/1991,6/12/2007,,white,greek,M,Boston,Massachusetts,2108
+254337f5-4fed-49d5-a688-8e082c2afd57,11/9/1936,10/29/2003,M,white,irish,M,Sunderland,Massachusetts,1375
+cf043a0b-7d88-4e60-82b1-b0111041a167,5/20/1965,,M,white,irish,F,Stoughton,Massachusetts,2072
+543f71b7-a41e-4569-bb12-e88e6b09f617,8/24/1989,,M,white,italian,M,Lawrence,Massachusetts,1840
+d22b1148-0846-475a-bd56-752d0070cf0e,1/8/1991,,M,white,greek,M,Boston,Massachusetts,2108
+713e39d4-3619-400e-86be-08001b9b87c7,4/16/1988,,M,white,italian,F,Boston,Massachusetts,2108
+10054441-35d1-4871-b0e9-71ba384cf628,5/8/1938,5/26/2019,M,white,german,M,Marblehead,Massachusetts,1945
+91d30149-d515-4b73-a7d1-efd1f226260c,1/20/1950,4/12/2019,M,white,english,M,Deerfield,Massachusetts,1342
+3679e092-7d01-4b4d-acea-c9130b92cfd7,1/28/1941,,M,white,portuguese,F,Alford,Massachusetts,
+c12155b8-84f3-4428-a306-3b9c5d3c9309,5/21/1970,,M,white,italian,F,Boston,Massachusetts,2108
+52455cdc-608c-4b4f-890b-0eb1a3f56052,11/9/1936,6/4/2018,M,white,irish,M,Sunderland,Massachusetts,1375
+5ca1c904-879e-450f-8480-095a1c01530b,11/29/1966,,M,white,irish,M,Brockton,Massachusetts,2301
+3856677d-1638-41c5-9e8c-2c0ba0f43633,1/20/1950,2/15/1980,M,white,english,M,Deerfield,Massachusetts,1342
+5bd22dd3-e122-4f42-bbd9-fe6985cc10c1,2/20/1981,,M,asian,chinese,M,Boston,Massachusetts,2108
+bf627275-1074-4300-8578-2a100c688057,8/27/1996,,,white,italian,F,Brewster,Massachusetts,2631
+e7ec2077-917a-4ee5-8497-b1b85687956c,4/1/1988,,M,white,italian,M,Hull,Massachusetts,2045
+6a5b2487-3ac3-4a53-8ffe-436f10582692,5/8/1938,,M,white,german,M,Marblehead,Massachusetts,1945
+bf33e258-b45e-4e69-a5b0-b788f2be532d,6/2/1973,,S,white,italian,F,Winchester,Massachusetts,1890
+c520ba7d-ed07-4788-acc6-abde39054875,1/26/2011,,,white,irish,F,New Salem,Massachusetts,1355
+1e90ee96-4788-45d9-9a3e-93a18436594b,10/22/1990,,M,white,irish,M,Brockton,Massachusetts,2301
+e150646d-548a-4145-a733-6f2f42ebe443,11/9/1936,,M,white,irish,M,Sunderland,Massachusetts,1375
+36d004f7-55e5-4980-834c-9e1f098566d5,9/21/2001,4/29/2011,,white,polish,M,Boston,Massachusetts,2108
+f26c3099-d99c-4182-8ba8-b436459fe93b,3/4/1966,,M,white,irish,F,Wellfleet,Massachusetts,2667
+0047e719-f5e5-4a3f-9fc9-d1b3bf4cf9da,10/18/1961,,M,white,french,F,Canton,Massachusetts,2021
+c8b5c42f-37b3-49b0-8654-61842fdf4b2f,1/20/1950,,S,white,english,M,Deerfield,Massachusetts,1342
+058ff789-d54f-4f3b-8261-2992bba468b3,4/16/2003,,,white,english,F,Holden,Massachusetts,1520
+db9398b4-8cd4-4678-9e34-f954379f9957,9/21/2001,,,white,polish,M,Boston,Massachusetts,2108
+ed087010-2c9d-4295-9388-527b4cd98f40,4/25/1982,,S,white,irish,F,Mendon,Massachusetts,1756
+72b01b7d-4d10-4785-9f72-f3f9b55599bb,6/28/2003,,,white,irish,M,Fall River,Massachusetts,2720
+624068fd-3028-49db-9c7e-c7f00ab53429,7/26/1982,,S,hispanic,puerto_rican,M,Everett,Massachusetts,2148
+0744645a-297b-489f-b5d2-7d701f7b13d8,6/1/1978,,S,white,english,M,Agawam Town,Massachusetts,1001
+c817b9c3-e03b-4274-9231-b2fbea3fd790,6/29/1962,,M,white,italian,M,Sharon,Massachusetts,2067
+b069e899-6f62-4847-931a-8cc3e7c97a08,8/29/1945,,S,white,american,M,Taunton,Massachusetts,2718
+e88ad709-5b9b-4bf2-9b88-6a917a452971,8/8/1940,,M,white,french,F,Ludlow,Massachusetts,1056
+ed5b4166-017a-4126-b8be-1ef269966bb1,3/21/1961,,M,white,english,M,Ware,Massachusetts,1082
+245102c9-22d5-4097-b9ae-3aada2e3c9ad,9/14/1990,,S,white,french_canadian,M,Everett,Massachusetts,2148
+2e6ce6a4-4617-4d21-8c07-338e7b88ac6d,9/14/1980,6/20/2017,M,white,french_canadian,F,Taunton,Massachusetts,2718
+7ac9adbe-a72f-4195-a5cf-29c32ce7303c,6/9/2001,,,asian,chinese,F,Boston,Massachusetts,2108
+6162d51b-9216-46eb-9d4f-f260cda1f171,2/12/1983,,M,white,irish,M,Lynn,Massachusetts,1901
+a4d76c1d-bedb-4a47-8992-b7bffc5e156b,5/16/1962,5/9/2002,S,black,african,M,Springfield,Massachusetts,1013
+147b5bfc-f3c5-418e-8c7e-d05683e9560e,7/15/2014,,,white,american,M,Milford,Massachusetts,1757
+6e083b50-d445-446a-b3dd-49f12b2142df,5/3/1981,,M,white,german,F,Melrose,Massachusetts,2176
+5a0cd9d7-5810-4cfe-b3c6-b25afed904b4,10/29/1953,,S,black,african,F,Somerville,Massachusetts,2138
+48e554cd-2a26-4cdf-9302-ebb8c2752bb8,5/16/1962,2/4/1970,,black,african,M,Springfield,Massachusetts,1013
+9fc436ab-04d9-4adc-b3ca-b093599949bc,4/6/1977,,M,black,dominican,F,Revere,Massachusetts,2151
+008ce512-41cc-4858-957b-53bc7bf8b809,8/30/2013,,,white,irish,M,Bridgewater,Massachusetts,2324
+dde4bf18-ede1-432a-a16e-d0a0e97f0d00,5/26/1968,,S,white,irish,M,Westford,Massachusetts,1886
+02c99329-0d8f-471d-9c53-298905d6ed96,8/24/2018,,,white,american,M,Tisbury,Massachusetts,
+0c93cf80-de65-478c-813f-a881003ecaf2,9/14/1980,,M,white,french_canadian,F,Taunton,Massachusetts,2718
+73fa63f7-95d9-4b2a-8612-a680260c50f9,10/18/1915,4/22/1985,M,white,irish,F,Quincy,Massachusetts,2169
+042a98b8-89d4-4650-9c7e-b200fd907dc5,10/14/2003,,,white,polish,M,Springfield,Massachusetts,1013
+86b22a1d-38cd-4ed0-9a32-ccf43c17739d,9/9/1999,,,black,dominican,F,Attleboro,Massachusetts,2703
+4fd440c7-66ad-42c7-94c7-470de2831ff0,5/16/1962,,M,black,african,M,Springfield,Massachusetts,1013
+ce8c144e-f6e3-4617-af35-8ee48f4fd0ee,7/13/1976,,S,white,english,F,Fall River,Massachusetts,2720
+bf0ac7a8-4e74-49e7-a79f-ef515d802b4c,12/11/1964,,M,white,irish,M,Bolton,Massachusetts,1740
+95e3a441-4993-4471-bf5f-7e3a3026e518,2/7/1957,,M,hispanic,puerto_rican,F,Boston,Massachusetts,2108
+debcafb9-1cca-4e15-b7e7-594d0de0faa6,3/9/1945,,M,white,italian,F,Middleborough,Massachusetts,2346
+3129a298-962a-4786-9e58-c9df234b59a0,7/30/2002,,,white,german,F,Rowley,Massachusetts,1969
+a5a01f2b-516d-4e74-8f05-d752d48ad86b,5/22/1946,,M,white,french,M,Spencer,Massachusetts,1562
+acf30702-c823-4392-8652-3ab7c8860057,3/23/1921,5/23/2011,M,black,african,F,Springfield,Massachusetts,1013
+f0399f1c-b354-4611-abec-500d721782a1,4/30/1982,,M,white,american,M,East Longmeadow,Massachusetts,1028
+42bf3859-7006-4082-b73f-a02371758b36,1/21/2010,,,white,german,M,Webster,Massachusetts,1570
+3345a0e7-6826-4c9e-907f-737536b55311,7/1/1960,,M,hispanic,puerto_rican,M,Chicopee,Massachusetts,1013
+2500a146-e898-4e74-9d2b-1d40bfbd0318,2/21/1979,,M,black,dominican,M,Boston,Massachusetts,2108
+cf0abbba-67b1-471c-9300-67f1d4f2d138,10/18/1915,,M,white,irish,F,Quincy,Massachusetts,2169
+8b8a9e23-92b2-4f04-b96e-7cfa82c594d4,1/31/1937,9/4/1960,,white,english,F,Hudson,Massachusetts,1749
+ddc63896-21b0-4e74-ad7e-85b83a3b917f,8/10/2003,,,white,polish,F,Athol,Massachusetts,1331
+ad785ac8-2fe9-4710-a633-5ebf73ab620d,2/27/2007,,,white,english,F,Hull,Massachusetts,2045
+aa2597e2-b0ab-4628-88fb-699a1980da80,2/24/1972,,M,white,french,F,New Bedford,Massachusetts,2740
+8724ed5f-b4bd-4f6b-93e2-459314e76b93,12/19/1956,,S,black,dominican,M,Worcester,Massachusetts,1545
+67fa986d-3051-4f49-9793-2774dca4d7ce,1/30/2008,,,white,french,F,Arlington,Massachusetts,2474
+6219c6c1-bf91-4195-a456-10cb50846a13,10/20/1982,,M,white,polish,M,Quincy,Massachusetts,2169
+f5c080ad-5604-403b-a44c-c984ffc1f561,10/24/2007,,,white,german,F,Fitchburg,Massachusetts,1420
+7719675a-7558-4067-9b56-28749aed6d44,7/28/1965,,M,asian,asian_indian,M,Winthrop Town,Massachusetts,2128
+b40ff61f-0421-4ab9-abf8-bc9bd2dbd47b,3/15/1975,,M,hispanic,central_american,F,Westborough,Massachusetts,1581
+41b706ad-5bf0-4600-b96f-9355da3a5213,5/25/1984,,M,white,swedish,M,Needham,Massachusetts,2492
+13ac8d98-b516-4e69-bb27-37851a2f4498,1/31/1937,,M,white,english,F,Hudson,Massachusetts,1749
+093a1b81-fb49-4e65-95e2-cd191c1c2601,3/23/1921,6/5/1997,M,black,african,F,Springfield,Massachusetts,1013
+c327d535-3757-4f64-8f3d-1c10174f4738,12/19/1964,,M,white,irish,M,Wilmington,Massachusetts,1887
+a449262a-dc8d-4dfa-891c-028026ad0d9a,1/24/1986,,M,white,irish,M,Quincy,Massachusetts,2169
+2fbd8b8c-8a9d-4da2-bee0-a1b94ed307d7,4/14/1965,,M,white,polish,F,Agawam Town,Massachusetts,1001
+d4c2c701-a117-47e5-b8fb-c770690708a0,10/20/1953,,M,white,french_canadian,F,Swansea,Massachusetts,2777
+53784288-0b18-4bab-af9c-0adfd89a52c6,1/26/1990,,M,white,irish,M,Framingham,Massachusetts,1701
+ee929690-7d58-45f4-af6e-e6815bc6356c,10/12/1913,,M,white,italian,F,Holden,Massachusetts,1520
+590462ba-f529-40ee-ac35-5492d551bf14,5/6/1968,,M,white,portuguese,M,Ashland,Massachusetts,1721
+56ef8105-a875-4931-a8d6-35d67cba4039,5/10/1988,,M,white,portuguese,M,Falmouth,Massachusetts,2540
+eb0f82c0-7d8d-4aa7-a9f4-df8f2cdda88c,8/4/1999,,,white,irish,F,Plymouth,Massachusetts,2360
+8afd7456-8461-4844-ab5f-80b965bf496e,4/27/1997,,,white,french_canadian,F,Westford,Massachusetts,1886
+133559e3-8083-452a-8201-e04c67ebcddb,11/4/1959,,S,white,english,M,Brockton,Massachusetts,2301
+bb67b23e-f31c-4d0d-8fe1-62cd39bbe304,7/26/1980,,M,white,irish,M,Pittsfield,Massachusetts,1201
+b4d31e45-46d3-4227-a7fb-b0e75c148520,3/23/1921,10/3/1995,S,black,african,F,Springfield,Massachusetts,1013
+73b7e66f-c927-40bc-ac56-54b39d5bf662,6/5/2010,,,white,irish,M,Somerville,Massachusetts,2138
+4511cbcf-6d73-49bf-bd4c-e88b9fec2f92,4/20/2001,,,asian,chinese,F,Boston,Massachusetts,2108
+4a5a776a-825c-4b7f-af15-ab06381234e2,8/17/1983,,M,white,german,F,Worcester,Massachusetts,1545
+2ee7b409-fd63-4924-b1ab-aa06c24e5093,8/11/1973,,M,white,scottish,F,Springfield,Massachusetts,1013
+a8f76f4b-aa0d-4533-9e2f-64a412de63c9,2/7/2000,,,white,scottish,M,Fall River,Massachusetts,2720
+b8ba8a33-2475-433b-a9d2-96d0f4297596,12/21/1938,,M,white,irish,F,Pepperell,Massachusetts,1463
+aa83f145-8427-431d-8f83-7b5ab074dfb3,9/28/1984,,M,black,west_indian,M,Framingham,Massachusetts,1701
+29e57bf5-f601-46fc-aed5-ac3fef01dfc0,4/10/2002,,,hispanic,mexican,M,Salisbury,Massachusetts,1952
+ae6f382f-5a48-4cc6-85b9-16a53902fbed,12/2/1977,,M,white,portuguese,M,Hopedale,Massachusetts,1747
+cba76bbc-50bf-4431-a9f7-bd8e767dfd6a,10/3/1954,,M,white,american,M,Lowell,Massachusetts,1850
+5401cfab-2e71-4fe2-b260-39138191e640,4/24/1988,,M,asian,asian_indian,M,Ashland,Massachusetts,1721
+d251b19b-dcf0-4886-b0b8-16811fee67af,1/28/1997,,,white,irish,M,Boston,Massachusetts,2108
+20fcc293-9bb7-457f-80c1-1a873b9a8e6e,3/23/1921,,M,black,african,F,Springfield,Massachusetts,1013
+ddd316c6-0e3a-4956-bb8e-35da467bd913,2/1/1977,,M,white,irish,F,Taunton,Massachusetts,2718
+33a8c7ca-0bf9-4919-85db-6c40050734b5,4/21/1971,,M,white,french,F,Beverly,Massachusetts,1915
+1b60eed8-1ba6-4146-ad5a-2a4a57e81a4f,3/24/1998,,,white,irish,F,Boston,Massachusetts,2108
+0457ddac-0d85-4fe7-afd3-f17051a74624,8/17/1992,,,white,irish,F,Peabody,Massachusetts,1940
+86dec0c2-5de9-462a-9594-199d5f523b2a,6/16/1973,,M,hispanic,central_american,M,Boston,Massachusetts,2108
+cd5b7499-b0ca-4058-b300-c017629b3f8b,1/20/1984,,M,white,portuguese,F,Waltham,Massachusetts,2451
+0f9c3f62-8689-4a3c-9ae7-a88885f4876b,3/16/2005,,,white,french,M,Norfolk,Massachusetts,2056
+f86087fb-6972-4dff-b8b6-3d129d6cdd23,1/28/1998,,,white,portuguese,F,Palmer Town,Massachusetts,1009
+4b8acf63-a82e-42a5-bede-b384dc5f3edf,5/22/2010,,,white,scottish,F,Natick,Massachusetts,1760
+391eaee6-1190-4fda-b73c-6896500059c3,8/25/1952,,M,asian,asian_indian,F,Ashburnham,Massachusetts,1430
+d3f331f3-02c3-483c-b0a1-ade8451ca832,7/18/1992,,,white,french,F,Quincy,Massachusetts,2169
+90775b2c-0985-4ee8-87d9-81f18a898004,1/28/1979,,M,white,french,M,Springfield,Massachusetts,1013
+7c4b05a7-84fb-47cb-8538-9ffee106a7f9,8/7/1957,,S,white,irish,F,Holyoke,Massachusetts,1040
+97bc2d17-c4fa-463f-9573-8a87c22e4163,8/19/2013,,,white,polish,F,Revere,Massachusetts,2151
+d97ae9b0-1068-4d70-9c7d-08b87b67d7ef,4/3/2013,,,white,irish,F,Hingham,Massachusetts,2043
+7d5532ce-4878-4993-9f6a-8cd31b3c1289,6/23/2014,,,white,american,M,Quincy,Massachusetts,2169
+888dff41-15df-42ba-bcb2-954c7223ec8f,6/5/2007,,,hispanic,puerto_rican,M,Winthrop Town,Massachusetts,2128
+e8c45942-9e1b-4445-afa3-b828070ed6d0,3/2/1961,,M,asian,chinese,F,Dedham,Massachusetts,2026
+3c8876d8-94be-4cac-991c-ce39a509ae23,10/20/2016,,,white,french_canadian,M,Boston,Massachusetts,2108
+ba85f81c-52ca-4580-82e8-2cff07a16942,10/11/1970,,M,hispanic,puerto_rican,M,Newton,Massachusetts,2458
+228b273e-d8e4-49e0-8609-e49d273f7e18,5/13/1955,,S,white,english,F,Leicester,Massachusetts,1524
+c46014d2-1233-4ed4-ace6-24b6a20ebed8,10/20/1954,,M,white,irish,M,Brockton,Massachusetts,2301
+de2661b7-c6c6-4e5a-87ee-a4db2a29c1bc,2/10/1951,,M,white,italian,M,Brockton,Massachusetts,2301
+8a01913b-9f88-49a9-8c68-e14f885debab,1/26/1965,,M,black,dominican,M,Easton,Massachusetts,2334
+917346fc-df8e-45b2-911a-c93c73c0403f,5/23/1956,,M,asian,asian_indian,M,Everett,Massachusetts,2148
+4c6c3d6a-56ef-4ca6-a33a-475d1d26a457,9/18/1956,8/16/2008,M,white,italian,M,Marshfield,Massachusetts,2050
+02445502-a887-4705-a9aa-684a1a0c5081,8/31/1949,6/24/2015,M,white,russian,F,Gardner,Massachusetts,1440
+e1bda8a9-693b-4212-9fdf-69eac8a03c05,3/7/1986,,M,white,french,F,Boston,Massachusetts,2108
+9d5d9c37-df4f-47eb-9f54-f5585940be3c,9/18/1956,,M,white,italian,M,Marshfield,Massachusetts,2050
+1c837ceb-4050-4fc1-abfa-ce06a96acab4,8/31/1949,,M,white,russian,F,Gardner,Massachusetts,1440
