@@ -10,7 +10,7 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 
 
-<title>Tableau Presentation slides</title>
+<title>Tableau_Presentation_part1 slides</title>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
@@ -13239,24 +13239,10 @@ a.anchor-link {
 <div class="reveal">
 <div class="slides">
 <section><section>
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#Guide on hoe to publish Markdown Slides: </span>
-<span class="n">https</span><span class="p">:</span><span class="o">//</span><span class="n">medium</span><span class="o">.</span><span class="n">com</span><span class="o">/</span><span class="n">learning</span><span class="o">-</span><span class="n">machine</span><span class="o">-</span><span class="n">learning</span><span class="o">/</span><span class="n">present</span><span class="o">-</span><span class="n">your</span><span class="o">-</span><span class="n">data</span><span class="o">-</span><span class="n">science</span><span class="o">-</span><span class="n">projects</span><span class="o">-</span><span class="k">with</span><span class="o">-</span><span class="n">jupyter</span><span class="o">-</span><span class="n">slides</span><span class="o">-</span><span class="mi">75</span><span class="n">f20735eb0f</span>
-</pre></div>
-
-    </div>
-</div>
-</div>
-
-</div></section></section><section><section>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="-Tableau-Presentation-"><center> Tableau Presentation </center><a class="anchor-link" href="#-Tableau-Presentation-">&#182;</a></h1><h3 id="-By-Zeyad-Elkelani-"><center> By Zeyad Elkelani </center><a class="anchor-link" href="#-By-Zeyad-Elkelani-">&#182;</a></h3><h4 id="-Graduate-Fellow-"><center> Graduate Fellow </center><a class="anchor-link" href="#-Graduate-Fellow-">&#182;</a></h4><h3 id="-Murty-Sunak-Quantitative-and-Computing-Lab-"><center> Murty Sunak Quantitative and Computing Lab </center><a class="anchor-link" href="#-Murty-Sunak-Quantitative-and-Computing-Lab-">&#182;</a></h3><h2 id="-Claremont-Mckenna-College"><center> Claremont Mckenna College</center><a class="anchor-link" href="#-Claremont-Mckenna-College">&#182;</a></h2><h4 id="-July-8,-2019-"><center> July 8, 2019 </center><a class="anchor-link" href="#-July-8,-2019-">&#182;</a></h4>
+<h1 id="-Tableau-Presentation-Part-1-"><center> Tableau Presentation Part 1 </center><a class="anchor-link" href="#-Tableau-Presentation-Part-1-">&#182;</a></h1><h3 id="-By-Zeyad-Elkelani-"><center> By Zeyad Elkelani </center><a class="anchor-link" href="#-By-Zeyad-Elkelani-">&#182;</a></h3><h4 id="-Graduate-Fellow-"><center> Graduate Fellow </center><a class="anchor-link" href="#-Graduate-Fellow-">&#182;</a></h4><h3 id="-Murty-Sunak-Quantitative-and-Computing-Lab-"><center> Murty Sunak Quantitative and Computing Lab </center><a class="anchor-link" href="#-Murty-Sunak-Quantitative-and-Computing-Lab-">&#182;</a></h3><h3 id="-Claremont-Mckenna-College"><center> Claremont Mckenna College</center><a class="anchor-link" href="#-Claremont-Mckenna-College">&#182;</a></h3><h4 id="--2019-"><center>  2019 </center><a class="anchor-link" href="#--2019-">&#182;</a></h4>
 </div>
 </div>
 </div></section></section><section><section>
@@ -13264,14 +13250,12 @@ a.anchor-link {
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="Agenda">Agenda<a class="anchor-link" href="#Agenda">&#182;</a></h2><ul>
-<li>Getting Started</li>
+<li>Getting Started: What is Tableau?</li>
 <li>Tableau Environment</li>
 <li>Visualizing Data</li>
 <li>Marks &amp; Customizing the View</li>
-<li>Filtering, Calculations, &amp; Analytics</li>
-<li>Sharing</li>
+<li>Intro to calculations</li>
 <li>Hands-On</li>
-<li>Further Learning</li>
 </ul>
 
 </div>
@@ -13336,8 +13320,8 @@ a.anchor-link {
 </tr>
 <tr>
 <td>Creat and edit visualization</td>
-<td>Can do customized security</td>
-<td>Data stored/accessed through website</td>
+<td>Customized security</td>
+<td>Data is stored/accessed through website</td>
 <td>Read and Interact with Vizzes</td>
 </tr>
 <tr>
@@ -13421,11 +13405,17 @@ a.anchor-link {
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h1 id="Let's-Start-with-Tableau">Let's Start with Tableau<a class="anchor-link" href="#Let's-Start-with-Tableau">&#182;</a></h1><ul>
-<li>Download dataset for this workshop use from:<ul>
-<li><a href="https://www.kaggle.com/c/titanic/data">https://www.kaggle.com/c/titanic/data</a></li>
+<li><p>Let's use realistic but not real data and see how can visualization using tableau can be really helpful.</p>
+</li>
+<li><p>For this session, we will use SyntheaTM, which is an open-source, synthetic patient generator that models the medical history of synthetic patients.</p>
+</li>
+<li><p><a href="https://synthetichealth.github.io/synthea/#about-landing">https://synthetichealth.github.io/synthea/#about-landing</a></p>
+</li>
+<li><p>You can also download the data through the following link:</p>
+<ul>
+<li><code>&lt;INSERT BOX HYPER-LINK&gt;</code></li>
 </ul>
 </li>
-<li>You need to have an account on Kaggle, and use training dataset, if not use:</li>
 </ul>
 
 </div>
@@ -13434,81 +13424,24 @@ a.anchor-link {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Data-Overview:">Data Overview:<a class="anchor-link" href="#Data-Overview:">&#182;</a></h2><table>
-<thead><tr>
-<th>Variable</th>
-<th>Definition</th>
-<th>Key</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>survival</td>
-<td>Survival</td>
-<td>0 = No, 1 = Yes</td>
-</tr>
-<tr>
-<td>pclass</td>
-<td>Ticket class</td>
-<td>1 = 1st, 2 = 2nd, 3 = 3rd</td>
-</tr>
-<tr>
-<td>sex</td>
-<td>Sex   </td>
-</tr>
-<tr>
-<td>Age</td>
-<td>Age in years  </td>
-</tr>
-<tr>
-<td>sibsp</td>
-<td># of siblings / spouses aboard the Titanic   </td>
-</tr>
-<tr>
-<td>parch</td>
-<td># of parents / children aboard the Titanic   </td>
-</tr>
-<tr>
-<td>ticket</td>
-<td>Ticket number   </td>
-</tr>
-<tr>
-<td>fare</td>
-<td>Passenger fare    </td>
-</tr>
-<tr>
-<td>cabin</td>
-<td>Cabin number </td>
-</tr>
-<tr>
-<td>embarked</td>
-<td>Port of Embarkation   C = Cherbourg, Q = Queenstown, S = Southampton</td>
-</tr>
-</tbody>
-</table>
-
-</div>
-</div>
-</div></section><section>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<p><strong>Notes on Variables</strong></p>
+<h2 id="Data-Overview:">Data Overview:<a class="anchor-link" href="#Data-Overview:">&#182;</a></h2><p>Synthea data contains -realtistic but unreal- complete medical history, including medications, allergies, medical encounters, and social determinants of health. This data can be used without concern for legal or privacy restrictions.</p>
 <ul>
-<li>pclass: A proxy for socio-economic status (SES)<ul>
-<li>1st = Upper</li>
-<li>2nd = Middle</li>
-<li>3rd = Lower</li>
+<li>From Synthea Datasets, we will use:<ul>
+<li>patients.csv</li>
+<li>observations.csv</li>
 </ul>
 </li>
-<li>age: Age is fractional if less than 1. If the age is estimated, is it in the form of xx.5</li>
-<li>sibsp: The dataset defines family relations in this way...</li>
-<li>Sibling = brother, sister, stepbrother, stepsister</li>
-<li>Spouse = husband, wife (mistresses and fiancés were ignored)</li>
-<li>parch: The dataset defines family relations in this way...</li>
-<li>Parent = mother, father</li>
-<li>Child = daughter, son, stepdaughter, stepson</li>
-<li>Some children travelled only with a nanny, therefore parch=0 for them.</li>
+</ul>
+<p><strong>Notes on Variables</strong></p>
+<ul>
+<li><strong>patients dataset contains</strong>:<ul>
+<li>patient ID, birth date, death date, marital, race, ethnicity, gender, city, state, zip.</li>
+</ul>
+</li>
+<li><strong>observations dataset contians</strong>: <ul>
+<li>date, patient ID, encounter ID, code, description, value, units, type.</li>
+</ul>
+</li>
 </ul>
 
 </div>
@@ -13522,12 +13455,9 @@ a.anchor-link {
 <li>Excel, csv, spatial, statistical</li>
 </ul>
 </li>
-<li>Download the Titanic dataset</li>
-<li><p>Connect to Data &gt; More… &gt; titanic.csv</p>
-<ul>
-<li>This is only a section of the full titanic dataset.</li>
-</ul>
-</li>
+<li>Download the dataset</li>
+<li><p>Connect to Data &gt; More… &gt; observations.csv</p>
+<center><img src="./img/connect_csv.png" alt="Drawing" style="width: 300px;"/></center></li>
 <li><p>Different ways to connect your data:</p>
 <ul>
 <li>E.g. Box.com integration (demo)</li>
@@ -13544,10 +13474,7 @@ a.anchor-link {
 <h2 id="Two-main-data-types:-Dimensions-and-Measures">Two main data types: Dimensions and Measures<a class="anchor-link" href="#Two-main-data-types:-Dimensions-and-Measures">&#182;</a></h2><ul>
 <li>Tableau assigns any fields to Dimensions if they cannot be aggregated. (e.g. categorical data in strings or Booleans)</li>
 <li>Tableau assigns any fields to Measures if they can be measured, aggregated, or used for mathematical operations. (e.g., numbers)</li>
-<li><strong><em>Ordinal</em></strong> data is a categorical, statistical data type where the variables have ordered categories like school grades (1st year for 1, 2nd year for 2, etc.). Tableau will import these as measures but often they make more sense as dimensions.<ul>
-<li><code>Action</code> Convert <strong>Pclass</strong> and <strong>Survived</strong> to dimensions</li>
-</ul>
-</li>
+<li><strong><em>Ordinal</em></strong> data is a categorical, statistical data type where the variables have ordered categories like school grades (1st year for 1, 2nd year for 2, etc.). Tableau will import these as measures but often they make more sense as dimensions.</li>
 </ul>
 
 </div>
@@ -13591,6 +13518,17 @@ a.anchor-link {
     <center> Worksheet Components </center>
 </div>
 </div>
+</div></section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Add-More-Data:">Add More Data:<a class="anchor-link" href="#Add-More-Data:">&#182;</a></h2><ul>
+<li>Tableau allows for simple merging based on unique identifiers, in this case, it will be "patient id."<center><img src="./img/Inner_join_tableau2.png" alt="Drawing" style="width: 700px;"/></center> 
+  <center> Inner Join in Tableau </center></li>
+</ul>
+
+</div>
+</div>
 </div></section></section><section><section>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
@@ -13620,9 +13558,8 @@ a.anchor-link {
 <li>It is similar to a bar chart but it is used to plot frequency of a continuous variable that is divided into bins.</li>
 </ul>
 </li>
-<li><code>Action</code> Drag <em>Age</em> into Columns and then click on the histogram in the <strong>Show Me</strong> tab.</li>
-<li>In what age range were most Titanic passengers?</li>
-<li>NOTE: You can change the bin size by going to the Age (bins) dimension and clicking Edit...</li>
+<li><code>Action</code> Drag <em>Gender &amp; Race</em>  into Columns and <strong>Number of Records</strong> into Rows and then click on the histogram in the <strong>Show Me</strong> tab.</li>
+<li>NOTE: You can change the bin size by going to size and change size.</li>
 </ul>
 
 </div>
@@ -13633,9 +13570,9 @@ a.anchor-link {
 <div class="text_cell_render border-box-sizing rendered_html">
 <h3 id="Scatter-Plot">Scatter Plot<a class="anchor-link" href="#Scatter-Plot">&#182;</a></h3><ul>
 <li>A scatter plot is good at showing relationships between two numerical variables (measures).</li>
-<li><code>Action</code> Add <em>Age</em> and <em>Fare</em> into Columns and Rows self</li>
-<li>By default Tableau aggregates the data which is normally what you want to do. However in a scatter plot you want to see each individual record. So you need to go to <strong>Analysis &gt; Aggregate</strong> Measures to disaggregate the measures.</li>
-<li>Is there any relationship between age and fare?</li>
+<li><code>Action</code> Drag <strong>Description</strong> into <strong>Filters</strong> and Right-click and choose <strong>Diastolic Blood Pressure</strong></li>
+<li><code>Action</code> Add <em>Birthdate</em> into columns and <em>Number of Recirds</em> into Rows, and choose shape.</li>
+<li>Is there any relationship between birthdate and blood pressure?</li>
 </ul>
 
 </div>
@@ -13646,12 +13583,10 @@ a.anchor-link {
 <div class="text_cell_render border-box-sizing rendered_html">
 <h3 id="Text-Tables">Text Tables<a class="anchor-link" href="#Text-Tables">&#182;</a></h3><ul>
 <li>Text tables aren’t the most interesting way to visualize data but they have their time and place.</li>
-<li><code>Action</code> Add Pclass and Survived into Rows and Columns</li>
-<li><code>Action</code> Then add Number of Records into the <strong>Text</strong> box in the <strong>Marks</strong> area.<ul>
-<li>I’ll explain in more detail about what the Marks area is for later.</li>
-</ul>
-</li>
-<li>In what class were most of the passengers that died?</li>
+<li><code>Action</code> Add <strong>Gender</strong> into Columns, <strong>Race &amp; Ethnicity &amp; Marital</strong> into Rows. </li>
+<li><code>Action</code> Then add Number of Records into the <strong>Text</strong> box in the <strong>Marks</strong> area.</li>
+<li><code>Action</code> Right-click on <em>Marital</em> and unmark <em>Null</em></li>
+<li>what is the racial/ethnic features of our sample?</li>
 </ul>
 
 </div>
@@ -13661,13 +13596,9 @@ a.anchor-link {
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h3 id="Bar-Chart-/-Stacked-Bars-/-Pie-Chart">Bar Chart / Stacked Bars / Pie Chart<a class="anchor-link" href="#Bar-Chart-/-Stacked-Bars-/-Pie-Chart">&#182;</a></h3><ul>
-<li>Bar charts are probably the most simple and effective way of presenting categorical data.</li>
-<li><code>Action</code> Add <em>Survived</em> and <em>Number of Records</em> into Columns and Rows self.</li>
-<li>What if you also want to see how sex played a part into survival?<ul>
-<li><code>Action</code> Add <em>Sex</em> into Columns self.</li>
-<li>This can also be represented as a Stacked Bar Chart or a Pie Chart using the <strong>Show Me</strong> tab.</li>
-</ul>
-</li>
+<li>Pie charts are probably the most simple and effective way of presenting categorical data.</li>
+<li><code>Action</code> Drag <strong>Description</strong> into <strong>Filters</strong> and Right-click and choose <strong>Body Mass Index</strong></li>
+<li><code>Action</code> Add <em>Description</em> into Rows self.</li>
 </ul>
 
 </div>
@@ -13692,8 +13623,7 @@ a.anchor-link {
 </li>
 <li><code>Action</code> Return to your scatter plot.<ul>
 <li>Changing the color of a chart is nice but changing color based on a variable can be exceptionally helpful</li>
-<li><code>Action</code> Drag the <strong>Pclass</strong> dimension onto Color</li>
-<li><code>Action</code> Click on <strong>Color</strong> and you can change which color represents which <strong>Pclass</strong>.</li>
+<li><code>Action</code> Drag the <strong>Race</strong> dimension onto Color</li>
 </ul>
 </li>
 </ul>
@@ -13720,17 +13650,13 @@ a.anchor-link {
 <div class="text_cell_render border-box-sizing rendered_html">
 <h3 id="Aliases-&amp;-Formatting">Aliases &amp; Formatting<a class="anchor-link" href="#Aliases-&amp;-Formatting">&#182;</a></h3><ul>
 <li><code>Action</code> Return to your text table (Sheet 3).</li>
-<li>Survived 0,1 and Pclass 1,2,3 could be confusing to someone who doesn’t know the data. However, we can change how this is labeled without changing the original dataset.<ul>
-<li>For numerical axes you can edit the title of the axes but for categorical axes you have to change the name of the dimension</li>
-<li><code>Action</code> Right click Pclass and rename to Ticket Class.</li>
-<li>Next for the data itself you need to edit aliases to something more interpretable.<ul>
-<li><code>Action</code> For example you can right click 0 and edit the alias to “No” and change 1 to “Yes”.</li>
-<li><code>Action</code> Then you could change the ticket classes to “1st”, “2nd”, “3rd”</li>
+<li><p>Ethnicity varibale can be confusing, you can rename levels through <em>Right-Click</em> on <em>Race</em> variable and click on <strong>Aliases</strong>, and start editing.</p>
+<ul>
+<li><code>Action</code> Right click <em>Race</em> and rename.</li>
 </ul>
 </li>
-</ul>
-</li>
-<li>Finally, you can click the title to give this chart a name.<ul>
+<li><p>Finally, you can click the title to give this chart a name.</p>
+<ul>
 <li>You could name this Survival by Ticket Class</li>
 <li>If you rename the sheet at the bottom it will automatically change the title as well.</li>
 </ul>
@@ -13743,21 +13669,8 @@ a.anchor-link {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Filtering,-Calculations,-&amp;-Analytics">Filtering, Calculations, &amp; Analytics<a class="anchor-link" href="#Filtering,-Calculations,-&amp;-Analytics">&#182;</a></h1>
-</div>
-</div>
-</div></section><section>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Filtering">Filtering<a class="anchor-link" href="#Filtering">&#182;</a></h3><ul>
-<li><code>Action</code> Make a copy of your text table worksheet (Right-Click &gt; Duplicate)</li>
-<li>Perhaps you only want this view to show for adult women.<ul>
-<li><code>Action</code> Drag Sex into filters and choose women.</li>
-<li><code>Action</code> Then drag Age into filters and select at least and then enter 18</li>
-</ul>
-</li>
-<li>There are many ways to filter by variable and it’s important when presenting data to explain what parts of the data are filtered out to avoid being misleading.</li>
+<h2 id="Simple-Calcluation:">Simple Calcluation:<a class="anchor-link" href="#Simple-Calcluation:">&#182;</a></h2><ul>
+<li>let's calculate life expectancy from our sample data<center><img src="./img/life_expectancy.png" alt="Drawing" style="width: 700px;"/></center></li>
 </ul>
 
 </div>
@@ -13766,18 +13679,9 @@ a.anchor-link {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Calculations">Calculations<a class="anchor-link" href="#Calculations">&#182;</a></h3><ul>
-<li>Just summing up the data isn’t always the best way to view it. Tableau allows for you to do many different mathematical calculations on the data.</li>
-<li><code>Action</code> Return to Sheet 4 <ul>
-<li>Right-click on the <em>Number of Records</em> in Rows self <strong>&gt; Quick Table Calculation &gt; Percent of Total</strong>.</li>
-<li>If you double click on the measure in Rows self, it will show the calculation that Tableau uses to get the result: <code>SUM([Number of Records]) / TOTAL(SUM([Number of Records]))</code><ul>
-<li>Tableau offers many functions that are very similar if not the same as the ones in SQL or Excel.</li>
-<li><a href="http://onlinehelp.tableau.com/current/pro/desktop/en-us/functions_all_categories.html">http://onlinehelp.tableau.com/current/pro/desktop/en-us/functions_all_categories.html</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li>What percentage of passengers were male survivors?</li>
+<h3 id="Life-Expectancy-Calculation:">Life Expectancy Calculation:<a class="anchor-link" href="#Life-Expectancy-Calculation:">&#182;</a></h3><ul>
+<li><code>Action</code> drag <em>Measure Names</em>
+DATEDIFF('year', [Birthdate],[Deathdate] )</li>
 </ul>
 
 </div>
@@ -13786,122 +13690,7 @@ a.anchor-link {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Calculations-(continued)">Calculations (continued)<a class="anchor-link" href="#Calculations-(continued)">&#182;</a></h3><ul>
-<li><code>Action</code> Add a new sheet<ul>
-<li><code>Action</code> Add <em>Ticket Class</em> and Age to Columns and Rows self</li>
-<li>This chart doesn’t tell us much with the sum of all the ages so we will change it to average</li>
-<li><code>Action</code> <strong>Right Click <code>Age</code> &gt; Measure (SUM) &gt; Average</strong></li>
-</ul>
-</li>
-<li>Is there a relationship between age and ticket class?</li>
-<li>Tableau also allows us to create our own variables.<ul>
-<li>Let’s create a variable to represent the size of a passengers family.</li>
-<li><code>Action</code> <strong>Right Click</strong> in the Measures area &gt; <strong>Create Calculated Field…</strong></li>
-<li><code>Action</code> Name the field <em>Family Size</em></li>
-<li><code>Action</code> In the body, type <code>1 + [Parch] + [Sib Sp]</code> (notice Tableau offers autocomplete) </li>
-<li><code>Action</code> On a new sheet visualize this in a histogram.</li>
-</ul>
-</li>
-<li>What does this distribution of family size mean?</li>
-</ul>
-
-</div>
-</div>
-</div></section><section>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Analytics">Analytics<a class="anchor-link" href="#Analytics">&#182;</a></h3><ul>
-<li>The Analytics pane provides quick and easy access to common analytic features in Tableau.<ul>
-<li>You can use this pane to add average lines, trend lines, totals and more.</li>
-<li><code>Action</code> Try adding an average line to your scatter plot</li>
-<li><code>Action</code> Try adding totals to your text table.</li>
-</ul>
-</li>
-</ul>
-
-</div>
-</div>
-</div></section></section><section><section>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Sharing">Sharing<a class="anchor-link" href="#Sharing">&#182;</a></h1>
-</div>
-</div>
-</div></section><section>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Sharing">Sharing<a class="anchor-link" href="#Sharing">&#182;</a></h3><ul>
-<li>To share or present your findings the easiest way is to just export an image.<ul>
-<li>On any worksheet go to <strong>Worksheet &gt; Export &gt; Image…</strong></li>
-<li>It will give you options on Titles, Legends, Captions, and more.</li>
-</ul>
-</li>
-<li>If you want to show a collection of visualizations you will be better off <em>creating a dashboard and/or a story</em> and exporting that.</li>
-<li>If you are collaborating with another Tableau user you can share the .twbx file or just a .twb if they have the data.</li>
-<li>If you need your visualizations to be interactive you can publish sheets to a Tableau Server. You can make a Tableau Public account to share your visualizations publically for free.</li>
-</ul>
-
-</div>
-</div>
-</div></section><section>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Tableau-Public">Tableau Public<a class="anchor-link" href="#Tableau-Public">&#182;</a></h3><ul>
-<li>Example: <a href="https://public.tableau.com/profile/jeho.park4543#!/vizhome/DataVizwithTableau_0/Dashboard1">https://public.tableau.com/profile/jeho.park4543#!/vizhome/DataVizwithTableau_0/Dashboard1</a> </li>
-<li>Example: <a href="http://publichealthintelligence.org/content/global-overview-magnitude-disparities-and-trend-infant-mortality-world-1950-2011">http://publichealthintelligence.org/content/global-overview-magnitude-disparities-and-trend-infant-mortality-world-1950-2011</a></li>
-</ul>
-
-</div>
-</div>
-</div></section></section><section><section>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Further-Learning">Further Learning<a class="anchor-link" href="#Further-Learning">&#182;</a></h1>
-</div>
-</div>
-</div></section><section>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Further-Learning:-Topics">Further Learning: Topics<a class="anchor-link" href="#Further-Learning:-Topics">&#182;</a></h3><ul>
-<li>Formatting</li>
-<li>Data Cleaning</li>
-<li>Advanced Calculations and Expressions</li>
-<li>Advanced Chart Types</li>
-<li>R Integration</li>
-<li>Geospatial Analysis</li>
-<li>Forecasting / Trend Lines / Regression</li>
-</ul>
-
-</div>
-</div>
-</div></section><section>
-<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
-</div><div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Further-Learning:-Resources">Further Learning: Resources<a class="anchor-link" href="#Further-Learning:-Resources">&#182;</a></h3><ul>
-<li>Learning Resources:<ul>
-<li>Tableau.com/learn</li>
-<li>Explore Tableau Public</li>
-<li>Tutorialspoint</li>
-<li>YouTube / Blog Posts</li>
-</ul>
-</li>
-<li>Data Sources:<ul>
-<li>Kaggle</li>
-<li>Data.gov</li>
-<li>Data.world</li>
-<li>Los Angeles Open Data (<a href="https://data.lacity.org">https://data.lacity.org</a> )</li>
-<li>UCI Machine Learning Repository</li>
-</ul>
-</li>
-</ul>
-
+<h3 id="Mapping-Life-Expectancy">Mapping Life Expectancy<a class="anchor-link" href="#Mapping-Life-Expectancy">&#182;</a></h3>
 </div>
 </div>
 </div></section></section><section><section>
@@ -13912,6 +13701,19 @@ a.anchor-link {
 <h2 id="-zelkelani@cmc.edu-"><center> zelkelani@cmc.edu </center><a class="anchor-link" href="#-zelkelani@cmc.edu-">&#182;</a></h2>
 </div>
 </div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span> 
+</pre></div>
+
+    </div>
+</div>
+</div>
+
 </div></section></section>
 </div>
 </div>
