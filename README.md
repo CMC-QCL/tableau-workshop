@@ -1,4 +1,4 @@
-tableau-workshop-part2
+tableau-workshop
 QCL, CMC
 ===
 
@@ -22,7 +22,7 @@ https://github.com/CMC-QCL/tableau-workshop-part2.git
   - "How to create interactive dashbaords with Tableau?"
 - Key Points:
   - Tableau can provide important insights for EDA.
-  - It can be really beneficial to do basic  data manipulation. 
+  - It can be really beneficial to do basic  data manipulation.
 ---
 
 Table of contents
