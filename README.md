@@ -35,8 +35,9 @@ Table of contents
 
 ## Tableau Part 1
 > This part conatins an introduction to Tableau services, environment, connecting to data, basic Visualizations.
-
+[handout part 1](Tableau/handout.md)
 [slides part 1](Tableau/Tableau_Presentation_part1.ipynb)
+[slides Part 1 pdf](Tableau/Tableau_Presentation_part1_slides.pdf)
 
 ## Tableau Part 2
 > This part conatins advanced use of Tableau including creating interactive dashboards, calculations and fields.
