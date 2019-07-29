@@ -2,16 +2,16 @@ tableau-workshop
 QCL, CMC
 ===
 
-July, 2019
+Summer 2019
 
-This repository is geared towards developing Advanced Data Visualization "Viz" using Tableau software.
+This repository contains materials for Advanced Data Visualization "Viz" using Tableau software.
 
 - Materials for this workshop is availabe to clone through:
 ```
-https://github.com/CMC-QCL/tableau-workshop-part2.git
+https://github.com/CMC-QCL/tableau-workshop.git
 ```
 ---
-- **Wrokshop Content**
+- **Wrokshop 1 Content**
 - Title: "Data Visualization using Tableau"
   - teaching: 30 mins
   - exercises: 2
@@ -19,7 +19,7 @@ https://github.com/CMC-QCL/tableau-workshop-part2.git
   - "what is Tableau?"
   - "How to connect data to Tableau?"
   - "How to Visualize Data with Tableau?"
-  - "How to create interactive dashbaords with Tableau?"
+  - "How to calculate fields?"
 - Key Points:
   - Tableau can provide important insights for EDA.
   - It can be really beneficial to do basic  data manipulation.
