@@ -23,4 +23,4 @@ Synthea data contains -realtistic but unreal- complete medical history, includin
     - patient ID, birth date, death date, marital, race, ethnicity, gender, city, state, zip.
   - **observations dataset contians**: (long-format)
     - date, patient ID, encounter ID, code, description, value, units, type.
-- **Follow Presentation** for rest of the steps. 
+- **Follow Presentation** for rest of the steps.
