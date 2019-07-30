@@ -28,14 +28,18 @@ https://github.com/CMC-QCL/tableau-workshop.git
 Table of contents
 ===
 <!-- TOC START min:1 max:3 link:true asterisk:false update:true -->
+  - [Tableau Part 0.1](#tableau-part-0.1)
   - [Tableau Part 1](#tableau-part-1)
   - [Tableau Part 2](#tableau-part-2)
 <!-- TOC END -->
 
+## Tableau Part 0.1
+> This part contains basic introduction to Tableau, basic Visualization and dealing with worksheets. 
+- [handout part 0.1](Tableau/handout.md)
+- [slides part 0.1](Tableau/Tableau_Presentation_part0_beginner.ipynb.ipynb)
 
 ## Tableau Part 1
 > This part conatins an introduction to Tableau services, environment, connecting to data, basic Visualizations.
-- [handout part 1](Tableau/handout.md)
 - [slides part 1](Tableau/Tableau_Presentation_part1.ipynb)
 - [slides Part 1 pdf](Tableau/Tableau_Presentation_part1_slides.pdf)
 

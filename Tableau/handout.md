@@ -1,26 +1,31 @@
-Handout for Tableau Workshop pt 1
+Handout for Tableau Workshop pt 0.1
 ===
 #### July 2019
 
-# Before you start:
-- **Download Tableau Public from**:
-  - http://www.tableausoftware.com/public/download-steps
-- **Create a Tableau Public account at**:
-  - https://public.tableausoftware.com/auth/signup
-- **Download Datasets**:
-  - `https://claremontmckenna.box.com/s/rr213pfn18nesf9k05v1i38jbgdg1fb1`
-
+### Before you start:
+- **Tableau Desktop 2019.2** is available on your PC.
+- **Download Titanic Dataset** for Hands-On exercise
+  - `https://bit.ly/2SPtMZt`
+---
 - **Data**:
-Synthea data contains -realtistic but unreal- complete medical history, including medications, allergies, medical encounters, and social determinants of health. This data can be used without concern for legal or privacy restrictions.
-  - WebPage: `https://synthetichealth.github.io/synthea/`
+  - The sinking of the RMS Titanic is one of the most infamous shipwrecks in history.  On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships.
+  - One of the reasons that the shipwreck led to such loss of life was that there were not enough lifeboats for the passengers and crew. Although there was some element of luck involved in surviving the sinking, some groups of people were more likely to survive than others, such as women, children, and the upper-class.
 
-- From Synthea Datasets, we will use:
-    - patients.csv
-    - observations.csv
+We use data offered through a Kaggle competition:
+  - Kaggle WebPage: `https://www.kaggle.com/c/titanic/data`
+---
+### Data Description
+  - This section entails variables included in used dataset.
 
-- **Notes on Variables**
-  - **patients dataset contains**: (wide-format)
-    - patient ID, birth date, death date, marital, race, ethnicity, gender, city, state, zip.
-  - **observations dataset contians**: (long-format)
-    - date, patient ID, encounter ID, code, description, value, units, type.
-- **Follow Presentation** for rest of the steps.
+Variable | Definition | Key
+--- | --- | ---
+survival|	Surviva|	0 = No, 1 = Yes
+pclass| Ticket class|	1 = 1st, 2 = 2nd, 3 = 3rd
+sex| Sex
+Age| Age in years
+sibsp|	# of siblings / spouses aboard the Titanic
+parch|	# of parents / children aboard the Titanic
+ticket|	Ticket number
+fare|	Passenger fare
+cabin|	Cabin number
+embarked|	Port of Embarkation	C = Cherbourg, Q = Queenstown, S = Southampton
