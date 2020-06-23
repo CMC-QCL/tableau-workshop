@@ -1,7 +1,7 @@
 <center> Tableau Download Instructions </center>
 ===
 
-Last update: January 23, 2020
+Last update: June 23, 2020
 <br/>
 This document is meant to explain Tableau Download for Students
 <br/>
@@ -20,7 +20,7 @@ This document is meant to explain Tableau Download for Students
 > 2- Fill in the form below:
 
 <center>
-<img src="./img/student_form.png" alt="Student form" style="width: 200px;"/>
+<img src="./img/student_form.png" alt="student_form" style="width: 200px;"/>
 ---
 
 > 3- Check your email for Product Key
