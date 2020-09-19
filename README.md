@@ -1,8 +1,7 @@
-tableau-workshop
-QCL, CMC
-===
+# Data Visualization with Tableau
+## QCL, CMC
 
-Summer 2019
+Created: Summer 2019
 
 This repository contains materials for Advanced Data Visualization "Viz" using Tableau software.
 
@@ -22,11 +21,13 @@ https://github.com/CMC-QCL/tableau-workshop.git
   - "How to calculate fields?"
 - Key Points:
   - Tableau can provide important insights for EDA.
-  - It can be really beneficial to do basic  data manipulation.
+  - It can be really beneficial to do basic  data manipulation
+  
 ---
 
 Table of contents
 ===
+
 <!-- TOC START min:1 max:3 link:true asterisk:false update:true -->
   - [Tableau Part 0.1](#tableau-part-0.1)
   - [Tableau Part 1](#tableau-part-1)
